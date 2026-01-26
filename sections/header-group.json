@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header group",
@@ -5,23 +14,51 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_4JWk4f": {
+          "type": "message",
+          "settings": {
+            "text": "LIMITED STOCK REMAINING",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here"
+            "text": "SATISFACTION GUARANTEED",
+            "url": ""
+          }
+        },
+        "message_4MYheV": {
+          "type": "message",
+          "settings": {
+            "text": "2-YEAR ANNIVERSARY | 50% OFF",
+            "url": ""
+          }
+        },
+        "message_H7Ab9a": {
+          "type": "message",
+          "settings": {
+            "text": "FREE SHIPPING",
+            "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message_4JWk4f",
+        "message",
+        "message_4MYheV",
+        "message_H7Ab9a"
       ],
       "settings": {
         "enable_sticky": false,
+        "autoplay": false,
+        "cycle_speed": 6,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
-        "text_color": "#ffffff"
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#1a1a1a"
       }
     },
     "header": {
@@ -29,18 +66,22 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "{{shop.brand.logo}}",
-        "logo_max_width": 120,
+        "logo": "shopify://shop_images/Capture_d_ecran_le_2026-01-26_a_08.10.29.png",
+        "logo_max_width": 180,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
         "menu_open_trigger": "click",
         "opening_from": "bottom",
         "layout": "logo_left_navigation_center",
         "show_social_media": true,
+        "show_locale_selector": true,
+        "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "reduce_padding": false,
+        "reduce_padding": true,
         "background_opacity": 100,
         "background_blur_radius": 0
       }

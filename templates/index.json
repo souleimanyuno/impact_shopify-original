@@ -1,1 +1,846 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-1":{"type":"image","settings":{"content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"Tell your story","title":"Slide title","heading_tag":"h0","button_text":"","button_link":"","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":30,"background":"","background_gradient":""}},"slide-2":{"type":"image","settings":{"content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"Tell your story","title":"Slide title","heading_tag":"h0","button_text":"","button_link":"","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":30,"background":"","background_gradient":""}}},"block_order":["slide-1","slide-2"],"settings":{"full_width":true,"allow_transparent_header":true,"image_size":"auto","controls_type":"numbers","transition_type":"fade_with_text","autoplay":true,"cycle_speed":6,"background":"#F2F2F2","background_gradient":"linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"}},"image-link-blocks":{"type":"image-link-blocks","blocks":{"1664424046b00c932c-0":{"type":"item","settings":{"stretch_image":true,"link_text":"","link_url":"","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"1664424046b00c932c-1":{"type":"item","settings":{"stretch_image":true,"link_text":"","link_url":"","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"1664424046b00c932c-2":{"type":"item","settings":{"stretch_image":true,"link_text":"","link_url":"","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"1664424046b00c932c-3":{"type":"item","settings":{"stretch_image":true,"link_text":"","link_url":"","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"e4a0ef18-1856-4ddd-83d8-871a60d7acac":{"type":"item","settings":{"stretch_image":true,"link_text":"","link_url":"","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}}},"block_order":["1664424046b00c932c-0","1664424046b00c932c-1","1664424046b00c932c-2","1664424046b00c932c-3","e4a0ef18-1856-4ddd-83d8-871a60d7acac"],"settings":{"full_width":false,"block_size":"medium","subheading":"","title":"","content":"","link_url":"","link_text":"","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":""}},"scrolling-text":{"type":"scrolling-text","settings":{"full_width":true,"text":"Promotion text","text_size":"large","text_style":"fill","scrolling_mode":"auto","scrolling_speed":5,"background":"","background_gradient":"","text_color":"","text_gradient":""}},"collection-list":{"type":"collection-list","blocks":{"collection-1":{"type":"collection","settings":{"collection":"","subheading":"","title":"","url":"","heading_tag":"h2","text_position":"place-self-center text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":30}},"collection-2":{"type":"collection","settings":{"collection":"","subheading":"","title":"","url":"","heading_tag":"h2","text_position":"place-self-center text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":30}},"collection-3":{"type":"collection","settings":{"collection":"","subheading":"","title":"","url":"","heading_tag":"h2","text_position":"place-self-center text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":30}}},"block_order":["collection-1","collection-2","collection-3"],"settings":{"full_width":true,"stack_collections":false,"collections_per_row":3,"show_progress_bar":false,"subheading":"","title":"Collection list","content":"","link_url":"","link_text":"View all","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":""}},"featured-collection":{"type":"featured-collection","settings":{"collection":"","products":[],"full_width":true,"stack_products":false,"show_progress_bar":false,"products_count":6,"products_per_row_mobile":"2","products_per_row_desktop":4,"subheading":"","title":"Featured collection","content":"","link_url":"","link_text":"View all","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":""}},"impact-text":{"type":"impact-text","blocks":{"1664424181b38582d5-0":{"type":"item","settings":{"title":"100%","subheading":"Showcase a benefit of your product","content":"","button_text":"","button_url":"","animate_impact_text":false,"animate_impact_text_duration":2}}},"block_order":["1664424181b38582d5-0"],"settings":{"full_width":true,"stack_mobile":true,"text_alignment":"center","impact_text_style":"fill","text_divider":"none","impact_text_size_ratio":1,"background":"","background_gradient":"","heading_text_color":"","heading_gradient":"linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)","text_color":"","button_background":"","button_text_color":""}},"image-with-text-overlay":{"type":"image-with-text-overlay","blocks":{"1664424230c4756b0e-0":{"type":"subheading","settings":{"text":"Subheading"}},"1664424230c4756b0e-1":{"type":"heading","settings":{"text":"Image with text overlay","heading_tag":"h1"}},"1664424230c4756b0e-2":{"type":"richtext","settings":{"content":"<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"}}},"block_order":["1664424230c4756b0e-0","1664424230c4756b0e-1","1664424230c4756b0e-2"],"settings":{"full_width":true,"allow_transparent_header":false,"enable_parallax":false,"image_size":"auto","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":30}},"media-grid":{"type":"media-grid","blocks":{"item-1":{"type":"image","settings":{"title":"Promote your products","heading_tag":"h4","link_url":"","link_text":"","mobile_text_position":"place-self-center text-center","desktop_column_span":2,"desktop_row_span":2,"desktop_text_position":"sm:place-self-center sm:text-center","background":"#000000","background_gradient":"","text_color":"#ffffff","text_gradient":"","button_background":"#000000","button_text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item-2":{"type":"image","settings":{"title":"Promote your products","heading_tag":"h4","link_url":"","link_text":"","mobile_text_position":"place-self-center text-center","desktop_column_span":1,"desktop_row_span":1,"desktop_text_position":"sm:place-self-center sm:text-center","background":"#000000","background_gradient":"","text_color":"#ffffff","text_gradient":"","button_background":"#000000","button_text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item-3":{"type":"image","settings":{"title":"Promote your products","heading_tag":"h4","link_url":"","link_text":"","mobile_text_position":"place-self-center text-center","desktop_column_span":1,"desktop_row_span":1,"desktop_text_position":"sm:place-self-center sm:text-center","background":"#000000","background_gradient":"","text_color":"#ffffff","text_gradient":"","button_background":"#000000","button_text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"29246d34-c6e0-4373-84f6-b15e57736a00":{"type":"image","settings":{"title":"Promote your products","heading_tag":"h4","link_url":"","link_text":"","mobile_text_position":"place-self-center text-center","desktop_column_span":2,"desktop_row_span":1,"desktop_text_position":"sm:place-self-center sm:text-center","background":"#000000","background_gradient":"","text_color":"#ffffff","text_gradient":"","button_background":"#000000","button_text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}}},"block_order":["item-1","item-2","item-3","29246d34-c6e0-4373-84f6-b15e57736a00"],"settings":{"full_width":true,"reduce_width":false,"desktop_row_height":290,"background":"","background_gradient":""}},"before-after-image":{"type":"before-after-image","settings":{"full_width":true,"subheading":"","title":"Before\/after","content":"<p>Showcase your product benefit by using before\/after image comparison.<\/p>","expand_image":false,"text_position":"center","before_after_text_position":"bottom","before_text":"Before","after_text":"After","drag_initial_position":50,"background":"","background_gradient":"","text_color":"","before_text_color":"#ffffff","after_text_color":"#ffffff"}},"press":{"type":"press","blocks":{"16644243327ba53d2a-0":{"type":"quote","settings":{"logo_width":100,"author":"","content":"Share info about what your customers say about your products.","show_rating":false,"rating":4}},"16644243327ba53d2a-1":{"type":"quote","settings":{"logo_width":100,"author":"","content":"Or share content about your promotion, offers...","show_rating":false,"rating":4}}},"block_order":["16644243327ba53d2a-0","16644243327ba53d2a-1"],"settings":{"full_width":true,"content_size":"medium","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","logo_item_background":"","logo_item_border":""}},"hot-spots":{"type":"hot-spots","blocks":{"1664424434f5b7d0e0-0":{"type":"item","settings":{"horizontal_position":24,"vertical_position":70,"horizontal_position_mobile":24,"vertical_position_mobile":70,"icon_width":32,"title":"Feature name","content":"<p>Share useful information about your product features.<\/p>"}},"1664424434f5b7d0e0-1":{"type":"item","settings":{"horizontal_position":62,"vertical_position":14,"horizontal_position_mobile":62,"vertical_position_mobile":14,"icon_width":32,"title":"Feature name","content":"<p>Share useful information about your product features.<\/p>"}},"1664424434f5b7d0e0-2":{"type":"item","settings":{"horizontal_position":83,"vertical_position":75,"horizontal_position_mobile":83,"vertical_position_mobile":75,"icon_width":32,"title":"Feature name","content":"<p>Share useful information about your product features.<\/p>"}}},"block_order":["1664424434f5b7d0e0-0","1664424434f5b7d0e0-1","1664424434f5b7d0e0-2"],"settings":{"full_width":true,"title":"","content":"","button_text":"","button_url":"","desktop_text_position":"place-self-start text-start","image_background":"","image_background_gradient":"","overlay_color":"#000000","overlay_opacity":0,"overlay_text_color":"#ffffff","overlay_button_background":"","overlay_button_text_color":"","hot_spot_dot_background":"#ffffff","hot_spot_dot_text_color":"#000000","hot_spot_content_background":"#ffffff","hot_spot_content_text_color":"#000000","hot_spot_content_opacity":90,"hot_spot_content_blur_radius":3}},"multiple-images-with-text":{"type":"multiple-images-with-text","blocks":{"1664424486a2b084ab-0":{"type":"item","settings":{"image_rotation_degrees":-2,"subheading":"","title":"Heading 1","content":"<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>","button_url":"","button_text":""}},"1664424486a2b084ab-1":{"type":"item","settings":{"image_rotation_degrees":1.5,"subheading":"","title":"Heading 2","content":"<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>","button_url":"","button_text":""}}},"block_order":["1664424486a2b084ab-0","1664424486a2b084ab-1"],"settings":{"full_width":true,"images_layout":"scattered","collage_images_alignment":"middle","background":"","background_gradient":"","text_color":"","button_background":"","button_text_color":""}},"featured-product":{"type":"featured-product","blocks":{"vendor":{"type":"vendor","settings":{}},"title":{"type":"title","settings":{"heading_tag":"h2"}},"badges":{"type":"badges","settings":{}},"price":{"type":"price","settings":{"show_taxes_notice":false}},"rating":{"type":"rating","settings":{"show_empty":false}},"separator":{"type":"separator","settings":{}},"description":{"type":"description","settings":{"collapse_content":false}},"variant-picker":{"type":"variant_picker","settings":{"hide_sold_out_variants":false,"stack_blocks":true,"selector_style":"block","swatch_selector_style":"color","size_chart_page":""}},"quantity-selector":{"type":"quantity_selector","settings":{}},"buy-buttons":{"type":"buy_buttons","settings":{"show_payment_button":true,"atc_button_background":"","atc_button_text_color":"","payment_button_background":"","payment_button_text_color":""}}},"block_order":["vendor","title","badges","price","rating","separator","description","variant-picker","quantity-selector","buy-buttons"],"settings":{"full_width":false,"product":"","desktop_media_width":55,"desktop_media_layout":"carousel_thumbnails_left","mobile_media_size":"expanded","mobile_carousel_control":"floating_dots","enable_video_autoplay":true,"enable_video_looping":false,"enable_image_zoom":true,"max_image_zoom_level":3,"background":"#ffffff","background_gradient":"","text_color":"","input_background":"rgba(0,0,0,0)","input_text_color":""}},"faq":{"type":"faq","blocks":{"166442457738b23caf-0":{"type":"item","settings":{"title":"Do you ship overseas?","content":"<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"}},"166442457738b23caf-1":{"type":"item","settings":{"title":"How long will it take to get my orders?","content":"<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"}},"166442457738b23caf-2":{"type":"item","settings":{"title":"Any question?","content":"<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"}}},"block_order":["166442457738b23caf-0","166442457738b23caf-1","166442457738b23caf-2"],"settings":{"full_width":false,"subheading":"","title":"FAQ","content":"<p>Use this text to share information about your product or shipping policies.<\/p>","team_avatar_width":160,"support_hours":"Our customer support is available Monday to Friday: 8am-8:30pm.","answer_time":"Average answer time: 24h","button_text":"","button_url":"","text_position":"start","background":"#ffffff","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","button_background":"","button_text_color":"","accordion_background":"","accordion_text_color":""}}},"order":["slideshow","image-link-blocks","scrolling-text","collection-list","featured-collection","impact-text","image-with-text-overlay","media-grid","before-after-image","press","hot-spots","multiple-images-with-text","featured-product","faq"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_EHTNaF": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_GAJrtf": {
+      "type": "slideshow",
+      "blocks": {
+        "image_CHGkji": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2_000_Reviews.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h3",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_CHGkji"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#1a1a1a",
+        "background_gradient": "linear-gradient(180deg, rgba(100, 100, 100, 1), rgba(168, 255, 251, 1) 100%)"
+      }
+    },
+    "logo_list_4DTGtf": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_R6XHma": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_test.png",
+            "logo_width": 200,
+            "link": ""
+          }
+        },
+        "logo_BNkfbq": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/14.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_fcKXaG": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_2.png",
+            "logo_width": 240,
+            "link": ""
+          }
+        },
+        "logo_FAHHef": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/16.png",
+            "logo_width": 250,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_R6XHma",
+        "logo_BNkfbq",
+        "logo_fcKXaG",
+        "logo_FAHHef"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "People have been talking about us!",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/WARM_IN_EXTREME_COLD.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_4fa4NG": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/0126.gif",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "custom_liquid_gnJhNY": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"trustpilot-clean\">\n  <h2>Proven Results</h2>\n  <div class=\"trustpilot-line\">\n    <span class=\"rating-text\">Excellent</span>\n    <strong class=\"rating-score\">4.7 / 5</strong>\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/stars-4.5-trust-pilot.svg?v=1747080316\" alt=\"5 stars\" class=\"stars-img\">\n  </div>\n  <div class=\"trustpilot-bottom\">\n    <span>Based on <strong>+2000</strong> reviews</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/trustpilot-svg_klyne.webp?v=1743809609\" alt=\"Trustpilot\" class=\"tp-logo\" loading=\"lazy\">\n  </div>\n</div>\n<style>\n.trustpilot-clean {\n  text-align: center;\n  color: #000;\n  margin-bottom: 0 !important;\n  padding-bottom: 0 !important;\n}\n.trustpilot-clean h2 {\n  font-size: 22px;\n  font-weight: 700;\n  margin-bottom: 0.8rem;\n  line-height: 1.5;\n}\n.trustpilot-line {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 1rem;\n  margin-bottom: 0.5rem;\n}\n.rating-text,\n.rating-score {\n  font-size: 1rem;\n  line-height: 1;\n  display: inline-block;\n  vertical-align: middle;\n  margin-top: 2px;\n}\n.rating-score {\n  font-weight: bold;\n}\n.stars-img {\n  width: 120px;\n  margin-right: 10px;\n  vertical-align: middle;\n}\n.trustpilot-bottom {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 0.95rem;\n}\n.tp-logo {\n  height: 24px;\n  margin-top: -2px;\n}\n.trustpilot-badge-below {\n  margin-top: 12px;\n  text-align: center;\n  background-color: #fef9f5;\n  padding: 1.2rem 1rem;\n}\n.trustpilot-badge-below img {\n  max-width: 100%;\n  height: auto;\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_k9tG6W": {
+      "type": "multi-column",
+      "blocks": {
+        "item_kWAwir": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>Way better than my old Columbias.</strong> Same warmth and waterproofing but actually comfortable and I can wear them to work. Wide toe box is a lifesaver after 8-hour shifts. Plus they're light - don't feel like ankle weights by noon.<br/><br/><strong>Jennifer K.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DqqLiw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_9b64a486-8b1e-486d-818d-d607e071b5e1.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>Arthritis in my hands made lacing boots a nightmare. <strong>These velcro straps changed everything.</strong> On and off in seconds. Walk 2 miles every morning - warm feet, no slipping, zero pain. They look normal too, not like clunky \"senior\" boots.<br/><br/><strong>Robert H.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VrzGmK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_f8849f3b-8c76-4aa4-8ea7-25024f088114.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>Bought these for my mom. She's 78 and walks the dog twice daily. Her old boots left her with frozen toes every time. These? <strong>Warm from day one. Wide toe box means no cramping.</strong> She can put them on herself without help. Best gift I've given her.<br/><br/><strong>Karen M.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DetHQz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>My husband and I walk 3-4 miles daily in Minnesota winters. <strong>Our old boots = constant slipping and frozen toes.</strong> These solved both instantly. Great traction, warm in subzero, wide fit means no numbness. Best winter boot we've owned.<br/><br/><strong>David & Linda S.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_kWAwir",
+        "item_DqqLiw",
+        "item_VrzGmK",
+        "item_DetHQz"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_cKRAm3": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_Hgxcnq": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; background-color: #FAFAFA; padding: 8px 8px; border-radius: 8px; width: fit-content; margin: 10px 0; text-align: left;\">\n  <!-- Stars -->\n  <img src=\"https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg\" alt=\"5 stars\" style=\"width: 105px; margin-right: 8px;\">\n  <!-- Text -->\n  <div style=\"color: #4A4A4A; font-size: 11.1px; text-align: left;\">\n    <span style=\"font-weight: 400;\">Rated</span> <span style=\"color: #000000; font-weight: 700;\">4.7</span> <span style=\"font-weight: 400;\">based on</span> <span style=\"color: #000000; font-weight: 700;\">2,000+ reviews</span>\n  </div>\n</div>"
+          }
+        },
+        "title_AJMwai": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "liquid_KRkhRi": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<ul style=\"list-style: none; padding: 0; font-size: 14px;\">\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Keeps feet warm in extreme cold conditions\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Wide toe box eliminates cramping and pain\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Non-slip grip for secure traction on ice\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> 100% waterproof - dry feet all day long\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Durable construction built for multiple winters\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Comfortable from the first step, no break-in needed\n  </li>\n</ul>"
+          }
+        },
+        "liquid_AzKMzc": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    font-size: 10px;\n    margin-right: 8px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffe5e5;\n    padding: 4px 12px;\n    border-radius: 10px;\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n  }\n  .text {\n    color: #AD0000;\n    font-weight: 600;\n    font-size: 13px;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\" aria-hidden=\"true\">&#9679;</div>\n  <div class=\"text\">Limited stock! Only 5 units left</div>\n</div>"
+          }
+        },
+        "buy_buttons_ab43KY": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#00a341",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_zPnYkj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"features-container\">\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-SHIPPING1.svg?v=1744585896\" alt=\"Free Shipping\">\n    <div class=\"feature-text\">\n      <p class=\"feature-title\">Free Shipping</p>\n      <p class=\"feature-subtitle\">Ready to ship | Ships within 24h</p>\n    </div>\n  </div>\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-check-shield.svg?v=1744586491\" alt=\"Secure Payment\">\n    <div class=\"feature-text\">\n      <p class=\"feature-title\">Secure Payment</p>\n      <p class=\"feature-subtitle\">via SSL & 3D Secure</p>\n    </div>\n  </div>\n  <div class=\"feature-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-RETOUR.svg?v=1744585755\" alt=\"Money-Back Guarantee\">\n    <div class=\"feature-text\">\n      <p class=\"feature-title\">Money-Back Guarantee</p>\n      <p class=\"feature-subtitle\">30-day no-questions-asked trial</p>\n    </div>\n  </div>\n  <div class=\"feature-item\">\n    <img src=\"https://em-content.zobj.net/source/apple/391/flag-united-states_1f1fa-1f1f8.png\" alt=\"US Customer Support\">\n    <div class=\"feature-text\">\n      <p class=\"feature-title\">US Customer Support</p>\n      <p class=\"feature-subtitle\">Available 7 days a week</p>\n    </div>\n  </div>\n</div>\n<style>\n.features-container {\n  display: grid;\n  grid-template-columns: 1fr 1fr;\n  gap: 20px 10px;\n  padding: 20px 0;\n}\n.feature-item {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n.feature-item img {\n  width: 28px;\n  height: 28px;\n  object-fit: contain;\n}\n.feature-text {\n  display: flex;\n  flex-direction: column;\n}\n.feature-title {\n  font-weight: 600;\n  font-size: 15px;\n  color: #1c1c1c;\n  margin: 0;\n}\n.feature-subtitle {\n  font-size: 13px;\n  color: #555;\n  margin: 0;\n}\n</style>"
+          }
+        },
+        "liquid_VX6PtF": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<head>\n  <meta charset=\"UTF-8\">\n \n  <style>\n    .custom-review {\n      font-family: 'Poppins', sans-serif;\n      max-width: 600px;\n      margin: 20px auto;\n      padding: 16px;\n      background-color: #ffffff;\n      border: 1px solid #E0E0E0;\n      border-radius: 12px;\n      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);\n    }\n    .custom-review__container {\n      display: flex;\n      align-items: flex-start;\n    }\n    .custom-review__image-container {\n      flex-shrink: 0;\n      margin-right: 12px;\n      display: flex;\n      flex-direction: column;\n      align-items: center;\n    }\n    .custom-review__image {\n      width: 75px;\n      height: 75px;\n      border-radius: 35%;\n      object-fit: cover;\n      border: 2px solid #34a853;\n    }\n    .custom-review__content {\n      flex: 1;\n    }\n    .custom-review__stars {\n      display: flex;\n      gap: 3px;\n    }\n    .custom-review__star {\n      color: #FFC009;\n      font-size: 18px;\n      line-height: 1;\n    }\n    .custom-review__text {\n      font-size: 13px;\n      font-weight: 400;\n      font-style: italic;\n      color: #444;\n      margin: 6px 0;\n      line-height: 1.4;\n    }\n    .custom-review__user {\n      display: flex;\n      align-items: center;\n      gap: 6px;\n      flex-wrap: nowrap;\n    }\n    .custom-review__username {\n      font-size: 12.5px;\n      font-weight: 700;\n      color: #222;\n      margin: 0;\n      white-space: nowrap;\n    }\n    .custom-review__badge {\n      width: 14px;\n    }\n    .custom-review__verified {\n      font-size: 12.5px;\n      color: #666;\n      white-space: nowrap;\n    }\n  </style>\n</head>\n<div class=\"custom-review\">\n  <div class=\"custom-review__container\">\n    <!-- Customer Photo -->\n    <div class=\"custom-review__image-container\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0711/0230/0250/files/Capture_d_ecran_le_2026-01-26_a_12.35.52_430x.png?v=1769405762\" \n           alt=\"Customer Review\" \n           class=\"custom-review__image\">\n    </div>\n    <!-- Review Content -->\n    <div class=\"custom-review__content\">\n      <!-- Stars -->\n      <div class=\"custom-review__stars\">\n        <span class=\"custom-review__star\">★</span>\n        <span class=\"custom-review__star\">★</span>\n        <span class=\"custom-review__star\">★</span>\n        <span class=\"custom-review__star\">★</span>\n        <span class=\"custom-review__star\">★</span>\n      </div>\n      <!-- Review Text -->\n      <p class=\"custom-review__text\">\n        Arthritis in my hands made lacing boots a nightmare. These velcro straps changed everything. Walk 2 miles every morning - warm feet, no slipping, zero pain. They look normal too, not like clunky \"senior\" boots.\n      </p>\n      <!-- Name & Verification -->\n      <div class=\"custom-review__user\">\n        <p class=\"custom-review__username\">Robert H.</p>\n        <img src=\"https://cdn-icons-png.flaticon.com/512/190/190411.png\" \n             alt=\"Verified Purchase\" \n             class=\"custom-review__badge\">\n        <span class=\"custom-review__verified\">Verified Purchase</span>\n      </div>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "liquid_mPDa8p": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<details class=\"collapsible-size-guide\">\n  <summary class=\"collapsible-size-guide__summary\">Size Guide</summary>\n  <div class=\"collapsible-size-guide__content\">\n    <p class=\"collapsible-size-guide__text\">Our boots fit true to size according to <strong>US sizing standards</strong>. Choose your regular size when ordering.</p>\n    \n    <p class=\"collapsible-size-guide__text\">If you're between two sizes, <strong>size up for extra comfort</strong>.</p>\n    \n    <p class=\"collapsible-size-guide__text\">For more details, check the <strong>size chart below</strong>.</p>\n    \n    <div class=\"collapsible-size-guide__image\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0711/0230/0250/files/Capture_d_ecran_le_2026-01-26_a_12.59.45_430x.png?v=1769407215\" alt=\"Size Guide Chart\" loading=\"lazy\">\n    </div>\n  </div>\n</details>\n<style>\n  .collapsible-size-guide__summary {\n    cursor: pointer;\n    font-weight: bold;\n    padding: 12px 0;\n    list-style: none;\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n  }\n  \n  .collapsible-size-guide__summary::-webkit-details-marker {\n    display: none;\n  }\n  \n  .collapsible-size-guide__summary::after {\n    content: '+';\n    font-size: 20px;\n    font-weight: bold;\n    transition: transform 0.3s ease;\n  }\n  \n  .collapsible-size-guide[open] .collapsible-size-guide__summary::after {\n    content: '−';\n  }\n  \n  .collapsible-size-guide__content {\n    padding: 15px 0;\n    line-height: 1.6;\n  }\n  \n  .collapsible-size-guide__text {\n    margin-bottom: 15px;\n  }\n  \n  .collapsible-size-guide__text:last-of-type {\n    margin-bottom: 0;\n  }\n  \n  .collapsible-size-guide__image {\n    margin-top: 20px;\n  }\n  \n  .collapsible-size-guide__image img {\n    width: 100%;\n    max-width: 600px;\n    height: auto;\n    display: block;\n  }\n</style>"
+          }
+        },
+        "collapsible_text_yQXtGn": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Performance-Tested Winter Protection",
+            "content": "<p>Discover <strong>ELORYA winter boots :</strong> your all-day <strong>solution for cold, cramped feet and slippery conditions</strong>, without the bulk or discomfort of traditional winter boots.</p><p>Thanks to advanced insulation, a wide anatomical toe box, and aggressive non-slip treads, <strong>ELORYA targets the root causes of winter foot pain</strong> — keeping you warm, stable, and comfortable from the first step.</p><p>Tested in real winters and backed by thousands of satisfied customers, <strong>ELORYA delivers immediate comfort, superior traction, and long-lasting durability</strong> that outlasts cheaper alternatives.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_Pyn9JK": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Shipping Information",
+            "content": "<p><strong>Just placed your order? 🎉 Great choice!</strong></p><p>Our team gets to work immediately to prepare your package with care.</p><p><strong>⏱️ Processing time:</strong> Within 24-48 hours</p><p>Once your order ships, you'll receive <strong>a confirmation email with your tracking number</strong>. With one click, you can follow your package all the way to your doorstep.</p><p>Questions? Our customer support team is available 7 days a week.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_WhXRyT": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "30-Day Money-Back Guarantee",
+            "content": "<p>Try ELORYA® risk-free for 30 days. If you're not satisfied you can request a full refund.</p>",
+            "page": ""
+          }
+        },
+        "separator_YaBL3X": {
+          "type": "separator",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_Hgxcnq",
+        "title_AJMwai",
+        "liquid_KRkhRi",
+        "liquid_AzKMzc",
+        "buy_buttons_ab43KY",
+        "liquid_zPnYkj",
+        "liquid_VX6PtF",
+        "liquid_mPDa8p",
+        "collapsible_text_yQXtGn",
+        "collapsible_text_Pyn9JK",
+        "collapsible_text_WhXRyT",
+        "separator_YaBL3X"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "elovya™-safestep-winter-boots-anti-slip-thermal-boots-for-ice-snow",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "impact-text": {
+      "type": "impact-text",
+      "blocks": {
+        "1664424181b38582d5-0": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "1664424181b38582d5-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "media-grid": {
+      "type": "media-grid",
+      "blocks": {
+        "item-1": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item-2": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item-3": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "29246d34-c6e0-4373-84f6-b15e57736a00": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "29246d34-c6e0-4373-84f6-b15e57736a00"
+      ],
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "before-after-image": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "bottom",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "press": {
+      "type": "press",
+      "blocks": {
+        "16644243327ba53d2a-0": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Share info about what your customers say about your products.",
+            "show_rating": false,
+            "rating": 4
+          }
+        },
+        "16644243327ba53d2a-1": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Or share content about your promotion, offers...",
+            "show_rating": false,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "16644243327ba53d2a-0",
+        "16644243327ba53d2a-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "hot-spots": {
+      "type": "hot-spots",
+      "blocks": {
+        "1664424434f5b7d0e0-0": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 24,
+            "vertical_position": 70,
+            "horizontal_position_mobile": 24,
+            "vertical_position_mobile": 70,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        },
+        "1664424434f5b7d0e0-1": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 62,
+            "vertical_position": 14,
+            "horizontal_position_mobile": 62,
+            "vertical_position_mobile": 14,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        },
+        "1664424434f5b7d0e0-2": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 83,
+            "vertical_position": 75,
+            "horizontal_position_mobile": 83,
+            "vertical_position_mobile": 75,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664424434f5b7d0e0-0",
+        "1664424434f5b7d0e0-1",
+        "1664424434f5b7d0e0-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start text-start",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
+    },
+    "multiple-images-with-text": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "1664424486a2b084ab-0": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "1664424486a2b084ab-1": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664424486a2b084ab-0",
+        "1664424486a2b084ab-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "scattered",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant-picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "color",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "separator",
+        "description",
+        "variant-picker",
+        "quantity-selector",
+        "buy-buttons"
+      ],
+      "settings": {
+        "full_width": false,
+        "product": "",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "rich_text_EHTNaF",
+    "slideshow_GAJrtf",
+    "logo_list_4DTGtf",
+    "image-with-text-overlay",
+    "image_with_text_overlay_4fa4NG",
+    "custom_liquid_gnJhNY",
+    "multi_column_k9tG6W",
+    "featured_product_cKRAm3",
+    "impact-text",
+    "media-grid",
+    "before-after-image",
+    "press",
+    "hot-spots",
+    "multiple-images-with-text",
+    "featured-product",
+    "faq"
+  ]
+}
