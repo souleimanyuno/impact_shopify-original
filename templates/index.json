@@ -399,7 +399,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "You shouldn't be afraid to go outside.",
-            "content": "<p>It starts with the first step. Eyes glued to the ground. Short, careful strides. Arms slightly out from your body. Shoulders tense.</p><p>Last winter, over 1 million Americans sought medical help after slipping on ice. Countless more chose to stay indoors for safety's sake.</p><p>Going outside shouldn't feel like taking a risk.</p>",
+            "content": "<p>It starts with the first step. Eyes glued to the ground. Short, careful strides. Arms slightly out from your body. Shoulders tense.</p><p>Last winter, over 1 million Americans sought medical help after slipping on ice. Countless more chose to stay indoors for safety's sake.</p><p><strong>Going outside shouldn't feel like taking a risk.</strong></p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -435,7 +435,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "The sole that won't fail you in the cold.",
-            "content": "<p>Most winter boots look fine in the store. But when temperatures drop, something happens that no one tells you about: the sole gets hard and loses grip.</p><p>That's why you slip even in \"winter boots.\"</p><p>ELORYA's sole is engineered to maintain traction in sub-zero temps. The tread pattern bites into ice. The material stays flexible. The grip holds even when wet.</p><p>Over 2,000 customers have already tested them. Most feel the difference from their very first step.</p><p>Try for 30 days. If it doesn't feel right, get your money back.</p>",
+            "content": "<p>Most winter boots lose grip when temperatures drop. The rubber hardens. You slip even in \"winter boots.\"</p><p>ELORYA's sole stays flexible in sub-zero temps. Aggressive tread bites into ice. Grip holds even when wet.</p><p>2,000+ customers tested them. Most feel stable from step one.</p><p><strong>30-day guarantee. Don't like them? Full refund.</strong></p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -457,187 +457,97 @@
         "spacing": "small"
       }
     },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "1664424486a2b084ab-1": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "scattered",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "featured-product": {
-      "type": "featured-product",
-      "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
-        "variant-picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "color",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity-selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy-buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "vendor",
-        "title",
-        "badges",
-        "price",
-        "rating",
-        "separator",
-        "description",
-        "variant-picker",
-        "quantity-selector",
-        "buy-buttons"
-      ],
-      "settings": {
-        "full_width": false,
-        "product": "",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
-    "faq": {
+    "faq_aX8Tqy": {
       "type": "faq",
       "blocks": {
-        "166442457738b23caf-0": {
+        "item_AxYrhi": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Do they fit true to size?",
+            "content": "<p>Yes, our boots fit true to US sizing standards. Choose your regular size. If you're between sizes, size up for extra comfort.</p>"
           }
         },
-        "166442457738b23caf-1": {
+        "item_YVPrFj": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "How warm are they?",
+            "content": "<p>The boots feature thick winter insulation that keeps feet warm down to -20°F. Engineered for harsh North American winters.</p>"
           }
         },
-        "166442457738b23caf-2": {
+        "item_cFtpRw": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Are they bulky or heavy?",
+            "content": "<p>They're 45% lighter than traditional winter boots while providing the same warmth and protection. You won't feel weighed down.</p>"
+          }
+        },
+        "item_eT3eQK": {
+          "type": "item",
+          "settings": {
+            "title": "Can I use custom insoles?",
+            "content": "<p>Yes, the boots work well with custom insoles for extra support and comfort.</p>"
+          }
+        },
+        "item_K9DezK": {
+          "type": "item",
+          "settings": {
+            "title": "How do I clean them?",
+            "content": "<p>Wipe with a damp cloth. For tougher dirt, use mild soap and water. They dry quickly.</p>"
+          }
+        },
+        "item_A6K9UF": {
+          "type": "item",
+          "settings": {
+            "title": "Will they last more than one winter?",
+            "content": "<p>Yes. Built with durable materials designed for multiple seasons. Many customers are on their 3rd+ winter with the same pair.</p>"
+          }
+        },
+        "item_HXkUiJ": {
+          "type": "item",
+          "settings": {
+            "title": "Can I wear them in the city or just for outdoor activities?",
+            "content": "<p>Both. They work for snow shoveling, dog walks, commuting, and everyday winter wear. Clean design that doesn't look overly \"outdoorsy.\"</p>"
+          }
+        },
+        "item_N4Bmqr": {
+          "type": "item",
+          "settings": {
+            "title": "Do they work for wide feet?",
+            "content": "<p>Yes. The wide toe box eliminates cramping and works well for wider feet or sensitive toes.</p>"
+          }
+        },
+        "item_tAYcr8": {
+          "type": "item",
+          "settings": {
+            "title": "Can I return them after wearing them outside?",
+            "content": "<p>Yes. 30-day guarantee even if you've worn them. If they don't work for you, full refund.</p>"
           }
         }
       },
       "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "item_AxYrhi",
+        "item_YVPrFj",
+        "item_cFtpRw",
+        "item_eT3eQK",
+        "item_K9DezK",
+        "item_A6K9UF",
+        "item_HXkUiJ",
+        "item_N4Bmqr",
+        "item_tAYcr8"
       ],
+      "name": "FAQ",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
-        "background": "#ffffff",
+        "text_position": "center",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -646,6 +556,224 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
+      }
+    },
+    "rich_text_XAgGC3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jexCJ8": {
+          "type": "heading",
+          "settings": {
+            "text": "+2,000 customers staying warm, dry, and stable.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_jexCJ8"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_zpfxxP": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_yqrBqh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_27_janv._2026_09_59_57.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_yqrBqh"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "testimonials_gcYEBK": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_znRQxA": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "01-28-2026 · Michael T",
+            "content": "<p>Been wearing these for 3 weeks now in Chicago. Walk my dog twice a day, rain or snow. My old Columbias would leave my feet frozen after 20 minutes. These? Warm the entire walk. The wide toe box is a game-changer - no more cramped toes. Worth every penny.</p>"
+          }
+        },
+        "testimonial_UGQYqW": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "01-25-2026 · Sarah K.",
+            "content": "<p>Bought these after slipping on my driveway and nearly breaking my wrist. The grip is NO JOKE. Walked on pure ice yesterday and felt completely stable. First winter boots that actually deliver on the non-slip promise.</p>"
+          }
+        },
+        "testimonial_FXDEwy": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "01-22-2026 · James R.",
+            "content": "<p>I work construction in Minnesota. On my feet 10+ hours in the cold. These boots keep my feet warm AND comfortable all day. No break-in period needed. Just put them on and they felt great from day one.</p>"
+          }
+        },
+        "testimonial_QLjQpD": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "01-16-2026 · Linda M",
+            "content": "<p>Got these for my husband (72) after he kept complaining about his old boots being too tight. He says the wide fit is \"like heaven\" and he can actually feel his toes again. He wears them every single day now. Best gift I've gotten him in years.</p>"
+          }
+        },
+        "testimonial_3dWeLp": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "01-16-2026 · David H.",
+            "content": "<p>Skeptical at first - tried so many \"winter boots\" that failed. But these are different. Sole stays flexible in the cold. Grip on ice is solid. Feet stay dry even after hours outside. Finally found boots that work.</p>"
+          }
+        },
+        "testimonial_bB89eU": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "01-12-2026 · Karen W.",
+            "content": "<p>Commute to work on foot every day. These boots are lighter than my old ones but just as warm. Love that I don't look like I'm heading to the Arctic either - they're actually stylish enough for the office.</p>"
+          }
+        },
+        "testimonial_6CqNny": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "01-10-2026 · Robert G.",
+            "content": "<p>Walk 3 miles every morning, no matter the weather. My feet used to be numb halfway through. Not anymore. Warm from start to finish. The traction on icy sidewalks is excellent too.</p>"
+          }
+        },
+        "testimonial_Y3UXYY": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "01-08-2026 · Jennifer L.",
+            "content": "<p>Customer service was great when I had questions about sizing. Boots arrived fast and fit perfectly. Warm, waterproof, comfortable. Everything they promised.</p>"
+          }
+        },
+        "testimonial_HCWEMd": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "01-05-2026 · Tom S.",
+            "content": "<p>Finally, boots that don't squeeze my feet. The wide toe box makes all the difference. Wore them shoveling snow for 2 hours - feet stayed warm and dry. Highly recommend.</p>"
+          }
+        },
+        "testimonial_BMwFVa": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "01-03-2026 · Patricia D.",
+            "content": "<p>Bought for my mom. She can put them on herself without help, which is huge for her independence. She says they're the most comfortable winter boots she's ever owned.</p>"
+          }
+        },
+        "testimonial_iMfLKg": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "",
+            "title": "12-30-2025 · Mark B.",
+            "content": "<p>Best winter boots I've owned. Period.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_znRQxA",
+        "testimonial_UGQYqW",
+        "testimonial_FXDEwy",
+        "testimonial_QLjQpD",
+        "testimonial_3dWeLp",
+        "testimonial_bB89eU",
+        "testimonial_6CqNny",
+        "testimonial_Y3UXYY",
+        "testimonial_HCWEMd",
+        "testimonial_BMwFVa",
+        "testimonial_iMfLKg"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
       }
     }
   },
@@ -660,8 +788,9 @@
     "featured_product_cKRAm3",
     "media_with_text_EdQ4Xn",
     "media_with_text_czrzaa",
-    "multiple-images-with-text",
-    "featured-product",
-    "faq"
+    "faq_aX8Tqy",
+    "rich_text_XAgGC3",
+    "media_with_text_zpfxxP",
+    "testimonials_gcYEBK"
   ]
 }
