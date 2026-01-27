@@ -145,7 +145,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/0126.gif",
+        "image": "shopify://shop_images/0126_1.gif",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -296,7 +296,6 @@
         "image_MkPaK8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/klarnazer.png",
             "alignment": "center",
             "max_width": 220
           }
@@ -391,7 +390,6 @@
         "image_ABMxkg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Namnlos_design_63.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -427,7 +425,6 @@
         "image_GHmw6n": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ELORYA_5.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -590,7 +587,6 @@
         "image_yqrBqh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_27_janv._2026_09_59_57.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
