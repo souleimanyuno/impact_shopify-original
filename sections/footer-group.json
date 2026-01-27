@@ -94,7 +94,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Sign up for winter tips and exclusive offers.",
             "content": ""
           }
         },
@@ -105,23 +105,14 @@
             "show_menu_title": true,
             "menu_title": ""
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
-          }
         }
       },
       "block_order": [
         "newsletter",
-        "links",
-        "text"
+        "links"
       ],
       "settings": {
-        "show_social_media": true,
+        "show_social_media": false,
         "show_payment_icons": true,
         "show_policy_links": false,
         "show_country_selector": true,
