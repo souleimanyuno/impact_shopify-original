@@ -257,6 +257,12 @@
             "heading_tag": "h3"
           }
         },
+        "text_UAGdiV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Winter boots that finally respect your feet – Complete protection against cold and ice combined with unmatched comfort</p>"
+          }
+        },
         "liquid_KRkhRi": {
           "type": "liquid",
           "settings": {
@@ -269,6 +275,13 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    font-size: 10px;\n    margin-right: 8px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffe5e5;\n    padding: 4px 12px;\n    border-radius: 10px;\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n  }\n  .text {\n    color: #AD0000;\n    font-weight: 600;\n    font-size: 13px;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\" aria-hidden=\"true\">&#9679;</div>\n  <div class=\"text\">Limited stock! Only 5 units left</div>\n</div>"
           }
         },
+        "kaching_bundles_app_block_RQMcV3": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
+          }
+        },
         "buy_buttons_ab43KY": {
           "type": "buy_buttons",
           "settings": {
@@ -278,6 +291,14 @@
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "image_MkPaK8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/klarnazer.png",
+            "alignment": "center",
+            "max_width": 220
           }
         },
         "liquid_zPnYkj": {
@@ -327,25 +348,23 @@
             "content": "<p>Try ELORYA® risk-free for 30 days. If you're not satisfied you can request a full refund.</p>",
             "page": ""
           }
-        },
-        "separator_YaBL3X": {
-          "type": "separator",
-          "settings": {}
         }
       },
       "block_order": [
         "liquid_Hgxcnq",
         "title_AJMwai",
+        "text_UAGdiV",
         "liquid_KRkhRi",
         "liquid_AzKMzc",
+        "kaching_bundles_app_block_RQMcV3",
         "buy_buttons_ab43KY",
+        "image_MkPaK8",
         "liquid_zPnYkj",
         "liquid_VX6PtF",
         "liquid_mPDa8p",
         "collapsible_text_yQXtGn",
         "collapsible_text_Pyn9JK",
-        "collapsible_text_WhXRyT",
-        "separator_YaBL3X"
+        "collapsible_text_WhXRyT"
       ],
       "name": "Featured product",
       "settings": {
@@ -366,271 +385,76 @@
         "input_text_color": ""
       }
     },
-    "impact-text": {
-      "type": "impact-text",
+    "media_with_text_EdQ4Xn": {
+      "type": "media-with-text",
       "blocks": {
-        "1664424181b38582d5-0": {
-          "type": "item",
+        "image_ABMxkg": {
+          "type": "image",
           "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
+            "image": "shopify://shop_images/Namnlos_design_63.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "You shouldn't be afraid to go outside.",
+            "content": "<p>It starts with the first step. Eyes glued to the ground. Short, careful strides. Arms slightly out from your body. Shoulders tense.</p><p>Last winter, over 1 million Americans sought medical help after slipping on ice. Countless more chose to stay indoors for safety's sake.</p><p>Going outside shouldn't feel like taking a risk.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "1664424181b38582d5-0"
+        "image_ABMxkg"
       ],
+      "name": "Media with text",
       "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
       }
     },
-    "media-grid": {
-      "type": "media-grid",
+    "media_with_text_czrzaa": {
+      "type": "media-with-text",
       "blocks": {
-        "item-1": {
+        "image_GHmw6n": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
+            "image": "shopify://shop_images/ELORYA_5.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "The sole that won't fail you in the cold.",
+            "content": "<p>Most winter boots look fine in the store. But when temperatures drop, something happens that no one tells you about: the sole gets hard and loses grip.</p><p>That's why you slip even in \"winter boots.\"</p><p>ELORYA's sole is engineered to maintain traction in sub-zero temps. The tread pattern bites into ice. The material stays flexible. The grip holds even when wet.</p><p>Over 2,000 customers have already tested them. Most feel the difference from their very first step.</p><p>Try for 30 days. If it doesn't feel right, get your money back.</p>",
             "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item-2": {
-          "type": "image",
-          "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
             "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
+            "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#1a1a1a",
             "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item-3": {
-          "type": "image",
-          "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "29246d34-c6e0-4373-84f6-b15e57736a00": {
-          "type": "image",
-          "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "item-1",
-        "item-2",
-        "item-3",
-        "29246d34-c6e0-4373-84f6-b15e57736a00"
+        "image_GHmw6n"
       ],
+      "name": "Media with text",
       "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
-    "before-after-image": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
-    "press": {
-      "type": "press",
-      "blocks": {
-        "16644243327ba53d2a-0": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
-          }
-        },
-        "16644243327ba53d2a-1": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
-          }
-        }
-      },
-      "block_order": [
-        "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "hot-spots": {
-      "type": "hot-spots",
-      "blocks": {
-        "1664424434f5b7d0e0-0": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 24,
-            "vertical_position": 70,
-            "horizontal_position_mobile": 24,
-            "vertical_position_mobile": 70,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-1": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 62,
-            "vertical_position": 14,
-            "horizontal_position_mobile": 62,
-            "vertical_position_mobile": 14,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-2": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 83,
-            "vertical_position": 75,
-            "horizontal_position_mobile": 83,
-            "vertical_position_mobile": 75,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424434f5b7d0e0-0",
-        "1664424434f5b7d0e0-1",
-        "1664424434f5b7d0e0-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start text-start",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
       }
     },
     "multiple-images-with-text": {
@@ -834,11 +658,8 @@
     "custom_liquid_gnJhNY",
     "multi_column_k9tG6W",
     "featured_product_cKRAm3",
-    "impact-text",
-    "media-grid",
-    "before-after-image",
-    "press",
-    "hot-spots",
+    "media_with_text_EdQ4Xn",
+    "media_with_text_czrzaa",
     "multiple-images-with-text",
     "featured-product",
     "faq"
