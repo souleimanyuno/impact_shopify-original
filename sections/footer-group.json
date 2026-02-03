@@ -98,6 +98,14 @@
             "content": ""
           }
         },
+        "text_Hf3zNE": {
+          "type": "text",
+          "settings": {
+            "title": "Need assistance ?",
+            "content": "<p><strong>Contact us via our form on the Contact page or by email at<br/>contact@myelorya.com</strong></p><p><strong>Opening hours:</strong>Monday to Saturday from 9:00 a.m. to 1:00 p.m. and from 2:00 p.m. to 8:00 p.m. / Sunday from 10:00 a.m. to 12:00 p.m.</p>",
+            "enable_follow_on_shop": false
+          }
+        },
         "links": {
           "type": "links",
           "settings": {
@@ -109,6 +117,7 @@
       },
       "block_order": [
         "newsletter",
+        "text_Hf3zNE",
         "links"
       ],
       "settings": {
