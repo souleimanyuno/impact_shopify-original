@@ -109,7 +109,7 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "",
+            "menu": "contact",
             "show_menu_title": true,
             "menu_title": ""
           }
