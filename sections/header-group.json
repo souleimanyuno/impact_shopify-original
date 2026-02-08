@@ -17,28 +17,28 @@
         "message_4JWk4f": {
           "type": "message",
           "settings": {
-            "text": "LIMITED STOCK REMAINING",
+            "text": "FREE SHIPPING & RETURNS",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "SATISFACTION GUARANTEED",
+            "text": "12,000+ WOMEN OBSESSED | 5-STAR REVIEWS",
             "url": ""
           }
         },
         "message_4MYheV": {
           "type": "message",
           "settings": {
-            "text": "2-YEAR ANNIVERSARY | 50% OFF",
+            "text": "30-DAY PERFECT FIT GUARANTEE",
             "url": ""
           }
         },
         "message_H7Ab9a": {
           "type": "message",
           "settings": {
-            "text": "FREE SHIPPING",
+            "text": "VALENTINE'S EXCLUSIVE OFFER",
             "url": ""
           }
         }
@@ -56,7 +56,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#ffffff",
+        "background": "#d8baa0",
         "background_gradient": "",
         "text_color": "#1a1a1a"
       }
@@ -66,10 +66,10 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Capture_d_ecran_le_2026-01-26_a_08.10.29.png",
-        "logo_max_width": 180,
-        "logo_mobile_max_width": 100,
-        "menu": "main-menu",
+        "logo": "shopify://shop_images/Nude_Beige.png",
+        "logo_max_width": 200,
+        "logo_mobile_max_width": 120,
+        "menu": "",
         "sidebar_menu": "",
         "secondary_menu": "",
         "menu_open_trigger": "click",

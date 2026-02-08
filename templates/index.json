@@ -27,7 +27,7 @@
         "image_CHGkji": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/image-7.jpg",
+            "image": "shopify://shop_images/Nude_Beige_2.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -69,15 +69,7 @@
         "logo_R6XHma": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo_test.png",
-            "logo_width": 200,
-            "link": ""
-          }
-        },
-        "logo_BNkfbq": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/14.png",
+            "logo": "shopify://shop_images/Vogue__magazine_-Logo.wine.png",
             "logo_width": 300,
             "link": ""
           }
@@ -85,7 +77,7 @@
         "logo_fcKXaG": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo_2.png",
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
             "logo_width": 240,
             "link": ""
           }
@@ -93,17 +85,25 @@
         "logo_FAHHef": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/16.png",
+            "logo": "shopify://shop_images/ELLE-logo.png",
             "logo_width": 250,
+            "link": ""
+          }
+        },
+        "logo_dhiREe": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie-Claire-logo.png",
+            "logo_width": 260,
             "link": ""
           }
         }
       },
       "block_order": [
         "logo_R6XHma",
-        "logo_BNkfbq",
         "logo_fcKXaG",
-        "logo_FAHHef"
+        "logo_FAHHef",
+        "logo_dhiREe"
       ],
       "name": "Logo list",
       "settings": {
@@ -129,7 +129,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/WARM_IN_EXTREME_COLD.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -145,7 +144,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/0126_1.gif",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -172,7 +170,6 @@
         "item_kWAwir": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -185,7 +182,6 @@
         "item_DqqLiw": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3_9b64a486-8b1e-486d-818d-d607e071b5e1.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -198,7 +194,6 @@
         "item_VrzGmK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5_f8849f3b-8c76-4aa4-8ea7-25024f088114.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -275,13 +270,6 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    font-size: 10px;\n    margin-right: 8px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffe5e5;\n    padding: 4px 12px;\n    border-radius: 10px;\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n  }\n  .text {\n    color: #AD0000;\n    font-weight: 600;\n    font-size: 13px;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\" aria-hidden=\"true\">&#9679;</div>\n  <div class=\"text\">Limited stock! Only 15 units left</div>\n</div>"
           }
         },
-        "kaching_bundles_app_block_3J3p3A": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}",
-            "manual_deal_block_id": ""
-          }
-        },
         "buy_buttons_dqab8L": {
           "type": "buy_buttons",
           "settings": {
@@ -296,7 +284,6 @@
         "image_7k6WKf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/klarnazer_1.png",
             "alignment": "center",
             "max_width": 220
           }
@@ -356,7 +343,6 @@
         "text_HinwiJ",
         "liquid_6ewCBU",
         "liquid_Afy9qD",
-        "kaching_bundles_app_block_3J3p3A",
         "buy_buttons_dqab8L",
         "image_7k6WKf",
         "liquid_FGMXwE",
@@ -416,13 +402,6 @@
           "type": "liquid",
           "settings": {
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    font-size: 10px;\n    margin-right: 8px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffe5e5;\n    padding: 4px 12px;\n    border-radius: 10px;\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n  }\n  .text {\n    color: #AD0000;\n    font-weight: 600;\n    font-size: 13px;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\" aria-hidden=\"true\">&#9679;</div>\n  <div class=\"text\">Limited stock! Only 5 units left</div>\n</div>"
-          }
-        },
-        "kaching_bundles_app_block_RQMcV3": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}",
-            "manual_deal_block_id": ""
           }
         },
         "buy_buttons_ab43KY": {
@@ -498,7 +477,6 @@
         "text_UAGdiV",
         "liquid_KRkhRi",
         "liquid_AzKMzc",
-        "kaching_bundles_app_block_RQMcV3",
         "buy_buttons_ab43KY",
         "image_MkPaK8",
         "liquid_zPnYkj",
@@ -534,7 +512,6 @@
         "image_ABMxkg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Namnlos_design_63_1.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -570,7 +547,6 @@
         "image_GHmw6n": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ELORYA_5.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -733,7 +709,6 @@
         "image_yqrBqh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_27_janv._2026_09_59_57.png",
             "media_width": 60,
             "media_position": "start",
             "text_position": "place-self-center text-center",
