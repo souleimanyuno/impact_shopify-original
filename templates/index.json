@@ -495,6 +495,83 @@
         "input_text_color": ""
       }
     },
+    "video_testimonials_slider_hxxynq": {
+      "type": "video-testimonials-slider",
+      "blocks": {
+        "video_slide_6zcqdc": {
+          "type": "video_slide",
+          "settings": {
+            "video_shopify": "shopify://files/videos/reelUp_6868665820260129131230_short (1).mp4",
+            "video_embed_url": "",
+            "title": "Sarah C.",
+            "stars_count": 5,
+            "badge_text": ""
+          }
+        },
+        "video_slide_6B6RbH": {
+          "type": "video_slide",
+          "settings": {
+            "video_shopify": "shopify://files/videos/reelUp_6868688220260129131300_short.mp4",
+            "video_embed_url": "",
+            "title": "Jessica S.",
+            "stars_count": 5,
+            "badge_text": ""
+          }
+        },
+        "video_slide_4kTdhr": {
+          "type": "video_slide",
+          "settings": {
+            "video_shopify": "shopify://files/videos/reelUp_6868665320260129131229_short.mp4",
+            "video_embed_url": "",
+            "title": "Emily F.",
+            "stars_count": 5,
+            "badge_text": ""
+          }
+        },
+        "video_slide_PxXVNr": {
+          "type": "video_slide",
+          "settings": {
+            "video_shopify": "shopify://files/videos/reelUp_6868665220260129131229_short.mp4",
+            "video_embed_url": "",
+            "title": "Ashley C.",
+            "stars_count": 5,
+            "badge_text": ""
+          }
+        },
+        "video_slide_wDTzR9": {
+          "type": "video_slide",
+          "settings": {
+            "video_shopify": "shopify://files/videos/reelUp_6868665020260129131229_short.mp4",
+            "video_embed_url": "",
+            "title": "Lauren A.",
+            "stars_count": 5,
+            "badge_text": ""
+          }
+        },
+        "video_slide_hYWxbf": {
+          "type": "video_slide",
+          "settings": {
+            "video_shopify": "shopify://files/videos/reelUp_6868665120260129131229_short.mp4",
+            "video_embed_url": "",
+            "title": "Rachel P.",
+            "stars_count": 5,
+            "badge_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_slide_6zcqdc",
+        "video_slide_6B6RbH",
+        "video_slide_4kTdhr",
+        "video_slide_PxXVNr",
+        "video_slide_wDTzR9",
+        "video_slide_hYWxbf"
+      ],
+      "name": "Témoignages Vidéo",
+      "settings": {
+        "heading": "Témoignages Clients"
+      }
+    },
     "media_with_text_EdQ4Xn": {
       "type": "media-with-text",
       "blocks": {
@@ -893,6 +970,7 @@
     "multi_column_k9tG6W",
     "featured_product_WYUtAJ",
     "featured_product_cKRAm3",
+    "video_testimonials_slider_hxxynq",
     "media_with_text_EdQ4Xn",
     "media_with_text_czrzaa",
     "faq_aX8Tqy",
