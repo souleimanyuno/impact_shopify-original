@@ -129,6 +129,11 @@
   filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
 }
 
+.star-image {
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+  object-fit: contain;
+}
+
 .video-badge {
   position: absolute;
   top: 15px;
