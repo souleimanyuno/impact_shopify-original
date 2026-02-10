@@ -156,10 +156,11 @@
         "item_kWAwir": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2682245c-7082-4e4f-b303-648caec25ba7_1.webp",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p><strong>Way better than my old Columbias.</strong> Same warmth and waterproofing but actually comfortable and I can wear them to work. Wide toe box is a lifesaver after 8-hour shifts. Plus they're light - don't feel like ankle weights by noon.<br/><br/><strong>Jennifer K.</strong></p>",
+            "content": "<p>I've been wearing pants to the office for 3 winters straight because <strong>I refused to freeze in dresses. These</strong> changed <strong>EVERYTHING</strong>.<br/>Yesterday it was 15°F outside, I wore a midi dress with heels, and <strong>felt like a boss</strong>. Plus the shapewear effect is <strong>NO JOKE</strong>. Instant hourglass without Spanx.<br/><br/><strong>Jessica L. | Chicago, IL</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -168,10 +169,11 @@
         "item_DqqLiw": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2_c49e5623-fa01-4c07-85a4-b1423092be05.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>Arthritis in my hands made lacing boots a nightmare. <strong>These velcro straps changed everything.</strong> On and off in seconds. Walk 2 miles every morning - warm feet, no slipping, zero pain. They look normal too, not like clunky \"senior\" boots.<br/><br/><strong>Robert H.</strong></p>",
+            "content": "<p>My husband asked if I lost weight... I haven't. But these tights? <strong>MAGIC</strong>. I wore them with my pencil skirt to work and <strong>got compliments </strong>ALL DAY. My legs look <strong>incredible smooth</strong>, <strong>sculpted</strong>, and I finally <strong>feel confident</strong> enough to wear dresses in winter again.<br/><br/><br/><strong>Sarah M. | New York, NY</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -180,10 +182,11 @@
         "item_VrzGmK": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/3_0cf0099b-c1c5-4b56-b1d4-4da770e199e8.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>Bought these for my mom. She's 78 and walks the dog twice daily. Her old boots left her with frozen toes every time. These? <strong>Warm from day one. Wide toe box means no cramping.</strong> She can put them on herself without help. Best gift I've given her.<br/><br/><strong>Karen M.</strong></p>",
+            "content": "<p><strong>The confidence boost I didn't know I needed. </strong>After having my daughter, I avoided anything form-fitting. Cellulite, loose skin, the works. These hide EVERYTHING while <strong>making my legs look flawless</strong>.<br/><br/><br/><br/><strong>Amanda K. | Boston, MA</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -192,11 +195,11 @@
         "item_DetHQz": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.png",
+            "image": "shopify://shop_images/4_40cb99d6-51b2-4c24-9c1b-830e7c9b8f60.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>My husband and I walk 3-4 miles daily in Minnesota winters. <strong>Our old boots = constant slipping and frozen toes.</strong> These solved both instantly. Great traction, warm in subzero, wide fit means no numbness. Best winter boot we've owned.<br/><br/><strong>David & Linda S.</strong></p>",
+            "content": "<p>Wore them 9am to midnight. <strong>Still perfect.</strong><br/>They don't roll down, don't lose shape, and honestly <strong>make my legs look better</strong> than they actually are (sorry, genetics 😂). The sculpting is subtle but <strong>REAL</strong>.                        Pro tip: If you're tall (I'm 5'9\"), size up. The L/XL fits me perfectly.<br/><br/><strong>Rachel T. | Seattle, WA</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
