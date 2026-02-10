@@ -1,0 +1,269 @@
+{{ 'video-testimonials-slider.css' | asset_url | stylesheet_tag }}
+
+<div class="video-testimonials-section">
+  {% if section.settings.heading != blank %}
+    <h2 class="testimonials-heading">{{ section.settings.heading }}</h2>
+  {% endif %}
+
+  <div class="video-slider-container">
+    <button class="slider-nav slider-nav-left" aria-label="Précédent">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+        <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </button>
+
+    <div class="video-slider-wrapper">
+      <div class="video-slider">
+        {% for block in section.blocks %}
+          <div class="video-slide" data-slide-index="{{ forloop.index0 }}" {{ block.shopify_attributes }}>
+            <div class="video-card">
+              <div class="video-container">
+                {% if block.settings.video_url != blank %}
+                  <video 
+                    class="testimonial-video" 
+                    playsinline
+                    loop
+                    muted
+                    data-video-id="{{ forloop.index0 }}"
+                  >
+                    <source src="{{ block.settings.video_url }}" type="video/mp4">
+                    Votre navigateur ne supporte pas la balise vidéo.
+                  </video>
+                  
+                  <div class="video-controls">
+                    <button class="video-control mute-btn" aria-label="Activer/Désactiver le son">
+                      <svg class="icon-muted" width="24" height="24" viewBox="0 0 24 24" fill="white">
+                        <path d="M11 5L6 9H2v6h4l5 4V5zM15.54 8.46l-1.41 1.41a3 3 0 010 4.24l1.41 1.41a5 5 0 000-7.07zM18.36 5.64l-1.41 1.41a7 7 0 010 9.9l1.41 1.41a9 9 0 000-12.72z"/>
+                        <line x1="23" y1="9" x2="17" y2="15" stroke="white" stroke-width="2"/>
+                        <line x1="17" y1="9" x2="23" y2="15" stroke="white" stroke-width="2"/>
+                      </svg>
+                      <svg class="icon-unmuted" width="24" height="24" viewBox="0 0 24 24" fill="white" style="display: none;">
+                        <path d="M11 5L6 9H2v6h4l5 4V5zM15.54 8.46l-1.41 1.41a3 3 0 010 4.24l1.41 1.41a5 5 0 000-7.07zM18.36 5.64l-1.41 1.41a7 7 0 010 9.9l1.41 1.41a9 9 0 000-12.72z"/>
+                      </svg>
+                    </button>
+                    
+                    <button class="video-control play-btn" aria-label="Lecture/Pause">
+                      <svg class="icon-play" width="24" height="24" viewBox="0 0 24 24" fill="white">
+                        <path d="M8 5v14l11-7z"/>
+                      </svg>
+                      <svg class="icon-pause" width="24" height="24" viewBox="0 0 24 24" fill="white" style="display: none;">
+                        <path d="M6 4h4v16H6zM14 4h4v16h-4z"/>
+                      </svg>
+                    </button>
+                  </div>
+                {% endif %}
+              </div>
+
+              <div class="video-info">
+                {% if block.settings.customer_name != blank %}
+                  <h3 class="customer-name">{{ block.settings.customer_name }}</h3>
+                {% endif %}
+                
+                {% if block.settings.show_rating %}
+                  <div class="star-rating">
+                    {% for i in (1..5) %}
+                      <svg class="star" width="20" height="20" viewBox="0 0 24 24" fill="white">
+                        <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                      </svg>
+                    {% endfor %}
+                  </div>
+                {% endif %}
+              </div>
+
+              {% if block.settings.badge_text != blank %}
+                <div class="video-badge">{{ block.settings.badge_text }}</div>
+              {% endif %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <button class="slider-nav slider-nav-right" aria-label="Suivant">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+        <path d="M9 18L15 12L9 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </button>
+  </div>
+</div>
+
+<script>
+  class VideoTestimonialsSlider {
+    constructor(container) {
+      this.container = container;
+      this.slider = container.querySelector('.video-slider');
+      this.slides = container.querySelectorAll('.video-slide');
+      this.prevBtn = container.querySelector('.slider-nav-left');
+      this.nextBtn = container.querySelector('.slider-nav-right');
+      this.currentIndex = 0;
+      this.slidesPerView = this.getSlidesPerView();
+      
+      this.init();
+    }
+
+    init() {
+      this.updateSliderPosition();
+      this.attachEventListeners();
+      this.initVideoControls();
+      
+      window.addEventListener('resize', () => {
+        this.slidesPerView = this.getSlidesPerView();
+        this.updateSliderPosition();
+      });
+    }
+
+    getSlidesPerView() {
+      const width = window.innerWidth;
+      if (width >= 1200) return 5;
+      if (width >= 992) return 4;
+      if (width >= 768) return 3;
+      if (width >= 576) return 2;
+      return 1;
+    }
+
+    attachEventListeners() {
+      this.prevBtn.addEventListener('click', () => this.prevSlide());
+      this.nextBtn.addEventListener('click', () => this.nextSlide());
+    }
+
+    prevSlide() {
+      this.currentIndex = Math.max(0, this.currentIndex - 1);
+      this.updateSliderPosition();
+    }
+
+    nextSlide() {
+      const maxIndex = Math.max(0, this.slides.length - this.slidesPerView);
+      this.currentIndex = Math.min(maxIndex, this.currentIndex + 1);
+      this.updateSliderPosition();
+    }
+
+    updateSliderPosition() {
+      const slideWidth = this.slides[0]?.offsetWidth || 0;
+      const gap = 16; // 1rem gap
+      const offset = -(this.currentIndex * (slideWidth + gap));
+      this.slider.style.transform = `translateX(${offset}px)`;
+
+      // Update button states
+      this.prevBtn.disabled = this.currentIndex === 0;
+      this.nextBtn.disabled = this.currentIndex >= this.slides.length - this.slidesPerView;
+    }
+
+    initVideoControls() {
+      const videos = this.container.querySelectorAll('.testimonial-video');
+      
+      videos.forEach((video) => {
+        const card = video.closest('.video-card');
+        const muteBtn = card.querySelector('.mute-btn');
+        const playBtn = card.querySelector('.play-btn');
+        const iconMuted = muteBtn.querySelector('.icon-muted');
+        const iconUnmuted = muteBtn.querySelector('.icon-unmuted');
+        const iconPlay = playBtn.querySelector('.icon-play');
+        const iconPause = playBtn.querySelector('.icon-pause');
+
+        // Mute/Unmute
+        muteBtn.addEventListener('click', () => {
+          video.muted = !video.muted;
+          if (video.muted) {
+            iconMuted.style.display = 'block';
+            iconUnmuted.style.display = 'none';
+          } else {
+            iconMuted.style.display = 'none';
+            iconUnmuted.style.display = 'block';
+          }
+        });
+
+        // Play/Pause
+        playBtn.addEventListener('click', () => {
+          if (video.paused) {
+            video.play();
+            iconPlay.style.display = 'none';
+            iconPause.style.display = 'block';
+          } else {
+            video.pause();
+            iconPlay.style.display = 'block';
+            iconPause.style.display = 'none';
+          }
+        });
+
+        // Auto-play on hover
+        card.addEventListener('mouseenter', () => {
+          if (video.paused) {
+            video.play();
+            iconPlay.style.display = 'none';
+            iconPause.style.display = 'block';
+          }
+        });
+      });
+    }
+  }
+
+  // Initialize slider
+  document.addEventListener('DOMContentLoaded', () => {
+    const sliderContainer = document.querySelector('.video-testimonials-section');
+    if (sliderContainer) {
+      new VideoTestimonialsSlider(sliderContainer);
+    }
+  });
+</script>
+
+{% schema %}
+{
+  "name": "Témoignages Vidéo Slider",
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Titre de la section",
+      "default": "Témoignages Clients"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "video_slide",
+      "name": "Témoignage Vidéo",
+      "settings": [
+        {
+          "type": "text",
+          "id": "customer_name",
+          "label": "Nom du client",
+          "default": "Client"
+        },
+        {
+          "type": "url",
+          "id": "video_url",
+          "label": "URL de la vidéo",
+          "info": "Téléchargez votre vidéo dans Fichiers > Contenu et collez l'URL ici"
+        },
+        {
+          "type": "checkbox",
+          "id": "show_rating",
+          "label": "Afficher les étoiles",
+          "default": true
+        },
+        {
+          "type": "text",
+          "id": "badge_text",
+          "label": "Texte du badge (optionnel)",
+          "placeholder": "Online Store"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Témoignages Vidéo",
+      "blocks": [
+        {
+          "type": "video_slide"
+        },
+        {
+          "type": "video_slide"
+        },
+        {
+          "type": "video_slide"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
