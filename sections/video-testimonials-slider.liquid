@@ -18,7 +18,8 @@
           <div class="video-slide" data-slide-index="{{ forloop.index0 }}" {{ block.shopify_attributes }}>
             <div class="video-card">
               <div class="video-container">
-                {% if block.settings.video_url != blank %}
+                {% assign video_source = block.settings.video_shopify | default: block.settings.video_embed_url %}
+                {% if video_source != blank %}
                   <video 
                     class="testimonial-video" 
                     playsinline
@@ -26,7 +27,13 @@
                     muted
                     data-video-id="{{ forloop.index0 }}"
                   >
-                    <source src="{{ block.settings.video_url }}" type="video/mp4">
+                    {% if block.settings.video_shopify %}
+                      {% for source in block.settings.video_shopify.sources %}
+                        <source src="{{ source.url }}" type="{{ source.mime_type }}">
+                      {% endfor %}
+                    {% elsif block.settings.video_embed_url %}
+                      <source src="{{ block.settings.video_embed_url }}" type="video/mp4">
+                    {% endif %}
                     Votre navigateur ne supporte pas la balise vidéo.
                   </video>
                   
@@ -55,13 +62,13 @@
               </div>
 
               <div class="video-info">
-                {% if block.settings.customer_name != blank %}
-                  <h3 class="customer-name">{{ block.settings.customer_name }}</h3>
+                {% if block.settings.title != blank %}
+                  <h3 class="customer-name">{{ block.settings.title }}</h3>
                 {% endif %}
                 
-                {% if block.settings.show_rating %}
+                {% if block.settings.stars_count > 0 %}
                   <div class="star-rating">
-                    {% for i in (1..5) %}
+                    {% for i in (1..block.settings.stars_count) %}
                       <svg class="star" width="20" height="20" viewBox="0 0 24 24" fill="white">
                         <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
                       </svg>
@@ -220,30 +227,39 @@
   "blocks": [
     {
       "type": "video_slide",
-      "name": "Témoignage Vidéo",
+      "name": "Slide",
       "settings": [
         {
-          "type": "text",
-          "id": "customer_name",
-          "label": "Nom du client",
-          "default": "Client"
+          "type": "video",
+          "id": "video_shopify",
+          "label": "Video from Shopify"
         },
         {
           "type": "url",
-          "id": "video_url",
-          "label": "URL de la vidéo",
-          "info": "Téléchargez votre vidéo dans Fichiers > Contenu et collez l'URL ici"
+          "id": "video_embed_url",
+          "label": "Video Embed from Url",
+          "info": "Shows when no Shopify-hosted video is selected."
         },
         {
-          "type": "checkbox",
-          "id": "show_rating",
-          "label": "Afficher les étoiles",
-          "default": true
+          "type": "text",
+          "id": "title",
+          "label": "Title",
+          "default": "Laura C."
+        },
+        {
+          "type": "range",
+          "id": "stars_count",
+          "min": 0,
+          "max": 5,
+          "step": 1,
+          "label": "Stars Count",
+          "default": 5,
+          "info": "If you choose to use a custom star icon for ratings, please be aware that ratings can only be whole numbers (e.g., 1, 2, 3, etc.). Decimal values will be rounded up."
         },
         {
           "type": "text",
           "id": "badge_text",
-          "label": "Texte du badge (optionnel)",
+          "label": "Badge Text",
           "placeholder": "Online Store"
         }
       ]
