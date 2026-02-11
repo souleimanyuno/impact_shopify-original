@@ -92,7 +92,6 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image": "shopify://shop_images/Nude_Beige.png",
             "image_width": 170,
             "heading_size": "h4",
             "title": "Sign up for style secrets and exclusive offers.",
@@ -103,7 +102,7 @@
           "type": "text",
           "settings": {
             "title": "Need assistance ?",
-            "content": "<p><strong>Contact us via our form on the Contact page or by email at<br/>contact@myelorya.com</strong></p><p><strong>Opening hours:</strong>Monday to Saturday from 9:00 a.m. to 1:00 p.m. and from 2:00 p.m. to 8:00 p.m. / Sunday from 10:00 a.m. to 12:00 p.m.</p>",
+            "content": "<p><strong>Contact us via our form on the Contact page or by email at<br/>contact@sorelya.com</strong></p><p><strong>Opening hours:</strong>Monday to Saturday from 9:00 a.m. to 1:00 p.m. and from 2:00 p.m. to 8:00 p.m. / Sunday from 10:00 a.m. to 12:00 p.m.</p>",
             "enable_follow_on_shop": false
           }
         },
