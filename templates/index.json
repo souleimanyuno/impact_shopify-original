@@ -570,9 +570,9 @@
       "name": "Témoignages Vidéo",
       "settings": {
         "heading": "12,000+ women obsessed with their legs",
-        "slides_per_view": 7,
+        "slides_per_view": 4,
         "slides_per_view_mobile": 1.5,
-        "slider_gap": 0,
+        "slider_gap": 32,
         "slider_gap_mobile": 8,
         "slides_rotate": 0,
         "slide_padding_vertical": 0,
