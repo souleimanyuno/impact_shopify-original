@@ -794,7 +794,7 @@
       ],
       "name": "Media with text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
       }
