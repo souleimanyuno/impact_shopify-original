@@ -93,8 +93,8 @@
           "type": "newsletter",
           "settings": {
             "image": "shopify://shop_images/Nude_Beige.png",
-            "image_width": 150,
-            "heading_size": "h3",
+            "image_width": 170,
+            "heading_size": "h4",
             "title": "Sign up for style secrets and exclusive offers.",
             "content": ""
           }
