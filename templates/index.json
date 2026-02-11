@@ -737,6 +737,68 @@
         "spacing": "small"
       }
     },
+    "rich_text_XAgGC3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jexCJ8": {
+          "type": "heading",
+          "settings": {
+            "text": "Why Everyone's Switching to Sorelya",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_jexCJ8"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_zpfxxP": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_yqrBqh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WARM_IN_EXTREME_COLD_3.png",
+            "media_width": 60,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_yqrBqh"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "faq_aX8Tqy": {
       "type": "faq",
       "blocks": {
@@ -836,67 +898,6 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
-      }
-    },
-    "rich_text_XAgGC3": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_jexCJ8": {
-          "type": "heading",
-          "settings": {
-            "text": "+2,000 customers staying warm, dry, and stable.",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jexCJ8"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "media_with_text_zpfxxP": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_yqrBqh": {
-          "type": "image",
-          "settings": {
-            "media_width": 60,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_yqrBqh"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "none"
       }
     },
     "testimonials_gcYEBK": {
@@ -1068,9 +1069,9 @@
     "video_testimonials_slider_hxxynq",
     "media_with_text_EdQ4Xn",
     "media_with_text_czrzaa",
-    "faq_aX8Tqy",
     "rich_text_XAgGC3",
     "media_with_text_zpfxxP",
+    "faq_aX8Tqy",
     "testimonials_gcYEBK"
   ]
 }
