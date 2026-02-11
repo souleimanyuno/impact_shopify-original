@@ -253,6 +253,13 @@
             "liquid": "<ul style=\"list-style: none; padding: 0; font-size: 14px;\">\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Legs that look perfect even at -10°F\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Sculpting effect smooths cellulite and imperfections\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Instant slimming without shapewear underneath\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Never rips – premium durability that lasts all season\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Bare skin illusion – nobody knows your secret\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Confident from first wear, no adjustment needed\n  </li>\n</ul>"
           }
         },
+        "kaching_bundles_app_block_Mx3Xtc": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
+          }
+        },
         "liquid_Afy9qD": {
           "type": "liquid",
           "settings": {
@@ -331,6 +338,7 @@
         "title_8Ka9pi",
         "text_HinwiJ",
         "liquid_6ewCBU",
+        "kaching_bundles_app_block_Mx3Xtc",
         "liquid_Afy9qD",
         "buy_buttons_dqab8L",
         "image_7k6WKf",
