@@ -311,7 +311,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Shipping Information",
-            "content": "<p><strong>Just placed your order? 🎉 Great choice!</strong></p><p>Our team gets to work immediately to prepare your package with care.</p><p><strong>⏱️ Processing time:</strong> Within 24-48 hours</p><p>Once your order ships, you'll receive <strong>a confirmation email with your tracking number</strong>. With one click, you can follow your package all the way to your doorstep.</p><p>Questions? Our customer support team is available 7 days a week.</p>",
+            "content": "<p>Just placed your order? 🎉 Great choice!<br/><br/>Our team gets to work immediately to prepare your package with care.<br/><br/>⏱️ Processing time: Within 24-48 hours<br/>🚚 Delivery: 7-10 business days (free shipping)<br/><br/>Once your order ships, you'll receive a confirmation email with your tracking number. With one click, you can follow your package all the way to your doorstep.<br/><br/>Note: During high-demand periods, popular shades like Porcelain and Sunkissed sell out fast.<br/><br/>Questions? Our customer support team is available 7 days a week.</p>",
             "page": ""
           }
         },
@@ -320,8 +320,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "30-Day Money-Back Guarantee",
-            "content": "<p>Try SORELYA® risk-free for 30 days. If you're not satisfied you can request a full refund.</p>",
+            "title": "Risk-Free Guarantee",
+            "content": "<p>Try Sorelya risk-free for 30 days. Don't love them? Return for a full refund—no questions asked.<br/><br/>Free Size/Color Exchange<br/>Ordered the wrong shade or size? We'll exchange them free. You only pay return shipping.<br/><br/>Lifetime Replacement Warranty<br/>If they ever rip or lose their sculpting power, we replace them. Free. Forever.<br/><br/>Zero risk. Just confidence.</p>",
             "page": ""
           }
         }
