@@ -92,9 +92,10 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
+            "image": "shopify://shop_images/Nude_Beige.png",
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for winter tips and exclusive offers.",
+            "title": "Sign up for style secrets and exclusive offers.",
             "content": ""
           }
         },
@@ -109,7 +110,7 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "contact",
+            "menu": "",
             "show_menu_title": true,
             "menu_title": ""
           }
