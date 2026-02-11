@@ -643,16 +643,41 @@
     "media_with_text_EdQ4Xn": {
       "type": "media-with-text",
       "blocks": {
-        "image_ABMxkg": {
-          "type": "image",
+        "video_gwPnHz": {
+          "type": "video",
           "settings": {
+            "video": "shopify://files/videos/c4742090cd8a414f9cdebd608e9dbe4a.mp4",
+            "external_video_url": "",
+            "autoplay": true,
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "You shouldn't be afraid to go outside.",
+            "title": "Why confident women choose Sorelya",
+            "content": "<p><strong>Legs that turn heads</strong><br/>Perfect bare skin illusion that hides cellulite and imperfections—finally feel confident in any dress, any season.</p><p><strong>Instantly slimmer silhouette<br/></strong>Sculpting compression smooths curves and flatters your figure without extra shapewear—effortless elegance from waist to toe.</p><p><strong>Winter warmth, summer look</strong><br/>Thermal fleece inside keeps you warm at -10°F while looking like flawless bare legs—wear your favorite skirts year-round.</p><p><strong>Built to last, designed to impress</strong><br/>Premium construction that never rips or loses shape—one pair outlasts a dozen drugstore tights while looking infinitely better.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_ABMxkg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/waist.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 24,
+            "subheading": "",
+            "title": "Why confident women choose Sorelya",
             "content": "<p>It starts with the first step. Eyes glued to the ground. Short, careful strides. Arms slightly out from your body. Shoulders tense.</p><p>Last winter, over 1 million Americans sought medical help after slipping on ice. Countless more chose to stay indoors for safety's sake.</p><p><strong>Going outside shouldn't feel like taking a risk.</strong></p>",
             "link_text": "",
             "link_url": "",
@@ -666,6 +691,7 @@
         }
       },
       "block_order": [
+        "video_gwPnHz",
         "image_ABMxkg"
       ],
       "name": "Media with text",
