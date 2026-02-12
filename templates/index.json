@@ -683,13 +683,27 @@
             "button_background": "",
             "button_text_color": ""
           }
-        },
-        "image_ABMxkg": {
+        }
+      },
+      "block_order": [
+        "video_gwPnHz"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "media_with_text_czrzaa": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_nFPiFX": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/waist.webp",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 24,
@@ -705,22 +719,7 @@
             "button_background": "",
             "button_text_color": ""
           }
-        }
-      },
-      "block_order": [
-        "video_gwPnHz",
-        "image_ABMxkg"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
-      }
-    },
-    "media_with_text_czrzaa": {
-      "type": "media-with-text",
-      "blocks": {
+        },
         "image_GHmw6n": {
           "type": "image",
           "settings": {
@@ -745,6 +744,7 @@
         }
       },
       "block_order": [
+        "image_nFPiFX",
         "image_GHmw6n"
       ],
       "name": "Media with text",
@@ -1088,11 +1088,11 @@
     "logo_list_4DTGtf",
     "image-with-text-overlay",
     "custom_liquid_gnJhNY",
+    "media_with_text_EdQ4Xn",
     "multi_column_k9tG6W",
     "featured_product_WYUtAJ",
     "featured_product_cKRAm3",
     "video_testimonials_slider_hxxynq",
-    "media_with_text_EdQ4Xn",
     "media_with_text_czrzaa",
     "rich_text_XAgGC3",
     "media_with_text_zpfxxP",
