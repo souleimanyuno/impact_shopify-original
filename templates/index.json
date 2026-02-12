@@ -277,6 +277,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_JnHyHE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Upcart_Trust_Badge_1770798516910.png",
+            "alignment": "center",
+            "max_width": 250
+          }
+        },
         "image_7k6WKf": {
           "type": "image",
           "settings": {
@@ -341,6 +349,7 @@
         "kaching_bundles_app_block_Mx3Xtc",
         "liquid_Afy9qD",
         "buy_buttons_dqab8L",
+        "image_JnHyHE",
         "image_7k6WKf",
         "liquid_FGMXwE",
         "liquid_t48HqY",
