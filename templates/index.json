@@ -105,6 +105,7 @@
         "logo_FAHHef",
         "logo_dhiREe"
       ],
+      "disabled": true,
       "name": "Logo list",
       "settings": {
         "full_width": true,
@@ -120,6 +121,32 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "rich_text_qMKYdU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Kwxiib": {
+          "type": "heading",
+          "settings": {
+            "text": "Finally wear dresses in winter without freezing or shapewear.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Kwxiib"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "image-with-text-overlay": {
@@ -139,12 +166,39 @@
     },
     "custom_liquid_gnJhNY": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
         "liquid": "<div class=\"trustpilot-clean\">\n  <h2>Proven Results</h2>\n  <div class=\"trustpilot-line\">\n    <span class=\"rating-text\">Excellent</span>\n    <strong class=\"rating-score\">4.7 / 5</strong>\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/stars-4.5-trust-pilot.svg?v=1747080316\" alt=\"5 stars\" class=\"stars-img\">\n  </div>\n  <div class=\"trustpilot-bottom\">\n    <span>Based on <strong>+12 000</strong> reviews</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/trustpilot-svg_klyne.webp?v=1743809609\" alt=\"Trustpilot\" class=\"tp-logo\" loading=\"lazy\">\n  </div>\n</div>\n<style>\n.trustpilot-clean {\n  text-align: center;\n  color: #000;\n  margin-bottom: 0 !important;\n  padding-bottom: 0 !important;\n}\n.trustpilot-clean h2 {\n  font-size: 22px;\n  font-weight: 700;\n  margin-bottom: 0.8rem;\n  line-height: 1.5;\n}\n.trustpilot-line {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 1rem;\n  margin-bottom: 0.5rem;\n}\n.rating-text,\n.rating-score {\n  font-size: 1rem;\n  line-height: 1;\n  display: inline-block;\n  vertical-align: middle;\n  margin-top: 2px;\n}\n.rating-score {\n  font-weight: bold;\n}\n.stars-img {\n  width: 120px;\n  margin-right: 10px;\n  vertical-align: middle;\n}\n.trustpilot-bottom {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 0.95rem;\n}\n.tp-logo {\n  height: 24px;\n  margin-top: -2px;\n}\n.trustpilot-badge-below {\n  margin-top: 12px;\n  text-align: center;\n  background-color: #fef9f5;\n  padding: 1.2rem 1rem;\n}\n.trustpilot-badge-below img {\n  max-width: 100%;\n  height: auto;\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_KiattM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gtfBVF": {
+          "type": "heading",
+          "settings": {
+            "text": "Why confident women choose Sorelya",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_gtfBVF"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -165,8 +219,8 @@
             "icon": "none",
             "icon_width": 24,
             "subheading": "",
-            "title": "Why confident women choose Sorelya",
-            "content": "<p><strong>Legs that turn heads</strong><br/>Perfect bare skin illusion that hides cellulite and imperfections—finally feel confident in any dress, any season.</p><p><strong>Instantly slimmer silhouette<br/></strong>Sculpting compression smooths curves and flatters your figure without extra shapewear—effortless elegance from waist to toe.</p><p><strong>Winter warmth, summer look</strong><br/>Thermal fleece inside keeps you warm at -10°F while looking like flawless bare legs—wear your favorite skirts year-round.</p><p><strong>Built to last, designed to impress</strong><br/>Premium construction that never rips or loses shape—one pair outlasts a dozen drugstore tights while looking infinitely better.</p>",
+            "title": "",
+            "content": "<p><strong>Forget wardrobe anxiety and winter limitations.</strong></p><ul><li>Bare-skin illusion</li><li>Sculpting compression</li><li>Warm to -10°F</li><li>Never rips + lifetime replacement</li></ul>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -301,7 +355,7 @@
         "liquid_Afy9qD": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    font-size: 10px;\n    margin-right: 8px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffe5e5;\n    padding: 4px 12px;\n    border-radius: 10px;\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n  }\n  .text {\n    color: #AD0000;\n    font-weight: 600;\n    font-size: 13px;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\" aria-hidden=\"true\">&#9679;</div>\n  <div class=\"text\">Limited stock! Only 15 units left</div>\n</div>"
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    font-size: 10px;\n    margin-right: 8px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffe5e5;\n    padding: 4px 12px;\n    border-radius: 10px;\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n  }\n  .text {\n    color: #AD0000;\n    font-weight: 600;\n    font-size: 13px;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\" aria-hidden=\"true\">&#9679;</div>\n  <div class=\"text\">Limited stock! Popular shades sell out fast</div>\n</div>"
           }
         },
         "buy_buttons_dqab8L": {
@@ -704,12 +758,12 @@
             "image": "shopify://shop_images/waist.webp",
             "media_width": 50,
             "media_position": "end",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 24,
             "subheading": "",
             "title": "Confidence without compromise",
-            "content": "<p><strong>Forget wardrobe anxiety and winter limitations.</strong></p><p>These tights are <strong>indestructible</strong>, they resist snags and guarantee you <strong>flawless coverage from every angle</strong>, without any self-consciousness. <strong>They sculpt as you move</strong>, offering you <strong>total freedom and elegance</strong> with zero bulge or roll-down. You can finally say goodbye to layering shapewear under tights and enjoy a feeling of <strong>effortless sophistication</strong>.</p>",
+            "content": "<p><strong>Forget wardrobe anxiety and winter limitations.</strong></p><ul><li>Bare-skin illusion</li><li>Sculpting compression</li><li>Warm to -10°F</li><li>Never rips + lifetime replacement</li></ul>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -722,6 +776,7 @@
         },
         "image_GHmw6n": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/bronze1.png",
             "media_width": 50,
@@ -747,6 +802,7 @@
         "image_nFPiFX",
         "image_GHmw6n"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
@@ -814,6 +870,42 @@
         "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
+      }
+    },
+    "media_with_text_hkzmtX": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_xhKihY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bronze1.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Confidence without compromise",
+            "content": "<p>Thermal fleece tights that sculpt, smooth and warm without looking like tights.</p><h3><br/>✔ Bare-Skin Illusion</h3><p>Looks like flawless legs, even in winter.</p><h3>✔ Sculpting Compression</h3><p>Smooths curves, hides cellulite, no flattening effect.</p><h3>✔ All-Day Strength</h3><p>No roll-down. No sagging. No ripping. Ever.</p><p><strong>Sorelya isn’t just tights. It’s confidence you wear.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_xhKihY"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
       }
     },
     "faq_aX8Tqy": {
@@ -1086,8 +1178,10 @@
     "rich_text_EHTNaF",
     "slideshow_GAJrtf",
     "logo_list_4DTGtf",
+    "rich_text_qMKYdU",
     "image-with-text-overlay",
     "custom_liquid_gnJhNY",
+    "rich_text_KiattM",
     "media_with_text_EdQ4Xn",
     "multi_column_k9tG6W",
     "featured_product_WYUtAJ",
@@ -1096,6 +1190,7 @@
     "media_with_text_czrzaa",
     "rich_text_XAgGC3",
     "media_with_text_zpfxxP",
+    "media_with_text_hkzmtX",
     "faq_aX8Tqy",
     "testimonials_gcYEBK"
   ]
