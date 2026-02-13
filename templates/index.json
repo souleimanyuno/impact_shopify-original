@@ -872,6 +872,39 @@
         "spacing": "none"
       }
     },
+    "rich_text_mPx3EF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wWbpLx": {
+          "type": "heading",
+          "settings": {
+            "text": "Confidence without compromise",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "subheading_bBWR3a": {
+          "type": "subheading",
+          "settings": {
+            "text": "Stay warm. Look flawless. Feel sculpted."
+          }
+        }
+      },
+      "block_order": [
+        "heading_wWbpLx",
+        "subheading_bBWR3a"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_hkzmtX": {
       "type": "media-with-text",
       "blocks": {
@@ -883,10 +916,10 @@
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
-            "icon_width": 48,
+            "icon_width": 24,
             "subheading": "",
-            "title": "Confidence without compromise",
-            "content": "<p>Thermal fleece tights that sculpt, smooth and warm without looking like tights.</p><h3><br/>✔ Bare-Skin Illusion</h3><p>Looks like flawless legs, even in winter.</p><h3>✔ Sculpting Compression</h3><p>Smooths curves, hides cellulite, no flattening effect.</p><h3>✔ All-Day Strength</h3><p>No roll-down. No sagging. No ripping. Ever.</p><p><strong>Sorelya isn’t just tights. It’s confidence you wear.</strong></p>",
+            "title": "",
+            "content": "<h4>✔ Bare-Skin Illusion</h4><h4>✔ Sculpting Compression</h4><h4>✔ All-Day Strength</h4><p></p><p><strong>Sorelya isn’t just tights. It’s confidence you wear.</strong></p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -1190,6 +1223,7 @@
     "media_with_text_czrzaa",
     "rich_text_XAgGC3",
     "media_with_text_zpfxxP",
+    "rich_text_mPx3EF",
     "media_with_text_hkzmtX",
     "faq_aX8Tqy",
     "testimonials_gcYEBK"
