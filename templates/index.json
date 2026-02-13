@@ -150,6 +150,44 @@
         "text_color": ""
       }
     },
+    "media_with_text_EdQ4Xn": {
+      "type": "media-with-text",
+      "blocks": {
+        "video_gwPnHz": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/c4742090cd8a414f9cdebd608e9dbe4a.mp4",
+            "external_video_url": "",
+            "autoplay": true,
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 24,
+            "subheading": "",
+            "title": "Why confident women choose Sorelya",
+            "content": "<p><strong>Legs that turn heads</strong><br/>Perfect bare skin illusion that hides cellulite and imperfections—finally feel confident in any dress, any season.</p><p><strong>Instantly slimmer silhouette<br/></strong>Sculpting compression smooths curves and flatters your figure without extra shapewear—effortless elegance from waist to toe.</p><p><strong>Winter warmth, summer look</strong><br/>Thermal fleece inside keeps you warm at -10°F while looking like flawless bare legs—wear your favorite skirts year-round.</p><p><strong>Built to last, designed to impress</strong><br/>Premium construction that never rips or loses shape—one pair outlasts a dozen drugstore tights while looking infinitely better.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_gwPnHz"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
     "multi_column_k9tG6W": {
       "type": "multi-column",
       "blocks": {
@@ -269,7 +307,7 @@
         "buy_buttons_dqab8L": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "#00a341",
             "atc_button_text_color": "",
@@ -655,44 +693,6 @@
         "section_margin_top": 0,
         "section_margin_bottom": 0,
         "custom_css": ""
-      }
-    },
-    "media_with_text_EdQ4Xn": {
-      "type": "media-with-text",
-      "blocks": {
-        "video_gwPnHz": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/c4742090cd8a414f9cdebd608e9dbe4a.mp4",
-            "external_video_url": "",
-            "autoplay": true,
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 24,
-            "subheading": "",
-            "title": "Why confident women choose Sorelya",
-            "content": "<p><strong>Legs that turn heads</strong><br/>Perfect bare skin illusion that hides cellulite and imperfections—finally feel confident in any dress, any season.</p><p><strong>Instantly slimmer silhouette<br/></strong>Sculpting compression smooths curves and flatters your figure without extra shapewear—effortless elegance from waist to toe.</p><p><strong>Winter warmth, summer look</strong><br/>Thermal fleece inside keeps you warm at -10°F while looking like flawless bare legs—wear your favorite skirts year-round.</p><p><strong>Built to last, designed to impress</strong><br/>Premium construction that never rips or loses shape—one pair outlasts a dozen drugstore tights while looking infinitely better.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_gwPnHz"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
       }
     },
     "media_with_text_czrzaa": {
