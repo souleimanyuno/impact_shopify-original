@@ -125,7 +125,7 @@
         "full_width": true,
         "stack_mobile": false,
         "title": "",
-        "content": "<h2>VON DEUTSCHLANDS GRÖSSTEN BEAUTY  MAGAZINEN AUSGEZEICHNET</h2>",
+        "content": "<h3>VON DEUTSCHLANDS GRÖSSTEN BEAUTY  MAGAZINEN AUSGEZEICHNET</h3>",
         "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
@@ -136,12 +136,272 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "rich_text_gjNM7g": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_i4VHCF": {
+          "type": "heading",
+          "settings": {
+            "text": "Why 10,000 UK Women Choose SkinVeil™ Over Anything Else",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_i4VHCF"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_w6zMmT": {
+      "type": "slideshow",
+      "blocks": {
+        "image_KRCyeg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPTImage9juin2026_03_28_31.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_KRCyeg"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "rich_text_4GrJ7U": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_t4nfDg": {
+          "type": "heading",
+          "settings": {
+            "text": "Sieh es in Echtzeit wirken.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_t4nfDg"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_JHWw3n": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "sm",
+        "video": "shopify://files/videos/192b6c00ee41465582fcc014f48db2a0.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "custom_liquid_fTp9tM": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "{% comment %}Reviews Carousel DE{% endcomment %}\n<div class=\"sv-reviews2-section\">\n  <h2 class=\"sv-reviews2-title\">Echte Frauen. Echte Ergebnisse.</h2>\n  <p class=\"sv-reviews2-sub\"><em>Nur SkinVeil™, zehn Minuten später.</em></p>\n  <div class=\"sv-reviews2-scroll\">\n    <div class=\"sv-reviews2-track\">\n\n<!-- REVIEW 1 -->\n  <div class=\"sv-review2-card\">\n    <div class=\"sv-review2-img-wrap\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bronzata-review-01_430x.jpg?v=1780984599\" alt=\"Chiara\" loading=\"lazy\">\n    </div>\n    <div class=\"sv-review2-body\">\n      <div class=\"sv-review2-meta\">\n        <span class=\"sv-review2-name\">Chiara V., 38 · Berlin</span>\n        <span class=\"sv-review2-stars\">★★★★★</span>\n      </div>\n      <p class=\"sv-review2-headline\">Ein Bikini, den ich nie getragen hatte. Jetzt mein liebster.</p>\n      <p class=\"sv-review2-text\">Zwei Kinder, Dehnungsstreifen an Hüften und Oberschenkeln. Ich habe letzten Sommer einen Bikini mit noch dran hängendem Etikett im Schrank gefunden. Urlaub am Bodensee mit meiner Schwester. SkinVeil™ morgens aufgetragen. Meine Schwester wollte fragen: \"Wo ist dein Pareo?\" Dann hat sie mich einfach angeschaut. Die Streifen sind noch da, ich kann sie fühlen. Aber man sieht sie nicht. Ich bin bis zur Schließung am Pool geblieben.</p>\n    </div>\n  </div>\n\n  <!-- REVIEW 2 -->\n  <div class=\"sv-review2-card\">\n    <div class=\"sv-review2-img-wrap\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bronzata-review-04_430x.jpg?v=1780984598\" alt=\"Valentina\" loading=\"lazy\">\n    </div>\n    <div class=\"sv-review2-body\">\n      <div class=\"sv-review2-meta\">\n        <span class=\"sv-review2-name\">Valentina B., 37 · München</span>\n        <span class=\"sv-review2-stars\">★★★★★</span>\n      </div>\n      <p class=\"sv-review2-headline\">Ärmelloses Kleid auf der Hochzeit. Keine Angst mehr.</p>\n      <p class=\"sv-review2-text\">In drei Jahren wurden mir zwölf Male entfernt. Keloidnarben an Brust und Armen. Laser-Angebot bei 2.800€. Die Hochzeit meiner Cousine im Mai, Brautjungfer, ärmelloses Kleid. Ich wollte fast absagen. Zwei Schichten SkinVeil™ auf den schlimmsten Narben. Auf den Hochzeitsfotos sieht man nichts. Sie sind nicht weg, sie sind abgedeckt. Mehr wollte ich nicht.</p>\n    </div>\n  </div>\n\n  <!-- REVIEW 3 -->\n  <div class=\"sv-review2-card\">\n    <div class=\"sv-review2-img-wrap\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bronzata-review-02_430x.jpg?v=1780984598\" alt=\"Eleonora\" loading=\"lazy\">\n    </div>\n    <div class=\"sv-review2-body\">\n      <div class=\"sv-review2-meta\">\n        <span class=\"sv-review2-name\">Eleonora T., 32 · Hamburg</span>\n        <span class=\"sv-review2-stars\">★★★★★</span>\n      </div>\n      <p class=\"sv-review2-headline\">Mein Mann verstand nicht, warum ich fast geweint hätte.</p>\n      <p class=\"sv-review2-text\">Achtzehn Monate nach der Geburt. Lila Dehnungsstreifen am Bauch und den Oberschenkeln. Bio-Oil vier Monate lang: nichts. SkinVeil™ heimlich bestellt. Erster Abend seit Monaten. Er hat nichts bemerkt. Ich schon. Es ist nicht \"Ich habe meinen Körper akzeptiert.\" Es ist, dass ich jetzt die Wahl habe, ihn zu zeigen oder nicht.</p>\n    </div>\n  </div>\n\n  <!-- REVIEW 4 -->\n  <div class=\"sv-review2-card\">\n    <div class=\"sv-review2-img-wrap\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bronzata-review-pov-2_430x.jpg?v=1780984598\" alt=\"Giada\" loading=\"lazy\">\n    </div>\n    <div class=\"sv-review2-body\">\n      <div class=\"sv-review2-meta\">\n        <span class=\"sv-review2-name\">Giada N., 26 · Köln</span>\n        <span class=\"sv-review2-stars\">★★★★★</span>\n      </div>\n      <p class=\"sv-review2-headline\">Ich habe zehn Minuten lang auf meine Beine geschaut und sie nicht erkannt.</p>\n      <p class=\"sv-review2-text\">Das ganze Jahr über Porzellanhaut, auch nach zwei Wochen am Strand. Vier Jahre lang trug ich selbst im Juli Hosen. SkinVeil™ hat mich nicht \"gebräunt.\" Es hat mich einfach wie ein normaler Mensch aussehen lassen. Erstes Selfie in Shorts auf Instagram seit vier Jahren. Kein Trick. Keine Pose. Einfach meine Beine, endlich.</p>\n    </div>\n  </div>\n\n  <!-- REVIEW 5 -->\n  <div class=\"sv-review2-card\">\n    <div class=\"sv-review2-img-wrap\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bronzata-review-alessandra-acne-scar-body_430x.jpg?v=1780984598\" alt=\"Alessandra\" loading=\"lazy\">\n    </div>\n    <div class=\"sv-review2-body\">\n      <div class=\"sv-review2-meta\">\n        <span class=\"sv-review2-name\">Alessandra L., 29 · Frankfurt</span>\n        <span class=\"sv-review2-stars\">★★★★★</span>\n      </div>\n      <p class=\"sv-review2-headline\">Narben am Rücken. Rückenfreies Kleid. Zum ersten Mal seit zehn Jahren.</p>\n      <p class=\"sv-review2-text\">Zystische Akne von 13 bis 22. Mein Gesicht hat sich erholt. Mein Rücken nicht. Tiefe Narben zwischen den Schulterblättern. Die Firmen-Weihnachtsfeier, meine Kollegin schlug ein rückenfreies Kleid vor. Zum ersten Mal seit zehn Jahren sagte ich ja. SkinVeil™ mit dem Pinsel auf den Rücken. Gruppenfoto ohne mich zu verstecken.</p>\n    </div>\n  </div>\n\n  <!-- REVIEW 6 -->\n  <div class=\"sv-review2-card\">\n    <div class=\"sv-review2-img-wrap\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bronzata-review-03_430x.jpg?v=1780984598\" alt=\"Sara\" loading=\"lazy\">\n    </div>\n    <div class=\"sv-review2-body\">\n      <div class=\"sv-review2-meta\">\n        <span class=\"sv-review2-name\">Sara M., 34 · Stuttgart</span>\n        <span class=\"sv-review2-stars\">★★★★★</span>\n      </div>\n      <p class=\"sv-review2-headline\">Erste Shorts seit fünf Jahren.</p>\n      <p class=\"sv-review2-text\">Nach meiner Schwangerschaft habe ich fünf Sommer lang meine Beine bedeckt. Dehnungsstreifen am Oberschenkel, zwei Kaiserschnittnarben. Ich dachte, ich würde SkinVeil™ nur für besondere Anlässe nutzen. Jetzt benutze ich es im Garten mit meiner Tochter, weil ich endlich Shorts tragen kann. Mein Mann sagte nur: \"Ich wusste gar nicht, dass du deine Beine schminkst.\" Er wusste es nicht, weil man es nicht sieht.</p>\n    </div>\n  </div>\n\n  <!-- REVIEW 7 -->\n  <div class=\"sv-review2-card\">\n    <div class=\"sv-review2-img-wrap\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bronzata-review-05_430x.jpg?v=1780984598\" alt=\"Marta\" loading=\"lazy\">\n    </div>\n    <div class=\"sv-review2-body\">\n      <div class=\"sv-review2-meta\">\n        <span class=\"sv-review2-name\">Marta C., 32 · Düsseldorf</span>\n        <span class=\"sv-review2-stars\">★★★★★</span>\n      </div>\n      <p class=\"sv-review2-headline\">Er fragte, seit wann ich so schöne Beine hätte.</p>\n      <p class=\"sv-review2-text\">Ich stoße mich an allem. Das ganze Jahr über Blutergüsse in Gelb, Lila und Blau an beiden Oberschenkeln. SkinVeil™ am Abend vor dem Geburtstag meiner Cousine am See aufgetragen. Ich wollte gerade wie immer ein Pflaster auf den schlimmsten Bluterguss kleben, aber da war nichts mehr zu sehen. Mein Bruder fragte: \"Seit wann hast du so schöne Beine?\" Seit einer Woche, sagte ich ihm.</p>\n    </div>\n  </div>\n\n  <!-- REVIEW 8 -->\n  <div class=\"sv-review2-card\">\n    <div class=\"sv-review2-img-wrap\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bronzata-review-federica-bridal_430x.jpg?v=1780984598\" alt=\"Federica\" loading=\"lazy\">\n    </div>\n    <div class=\"sv-review2-body\">\n      <div class=\"sv-review2-meta\">\n        <span class=\"sv-review2-name\">Federica P., 31 · Leipzig</span>\n        <span class=\"sv-review2-stars\">★★★★★</span>\n      </div>\n      <p class=\"sv-review2-headline\">Acht Stunden Hochzeit. Weißes Kleid. Keine Spuren.</p>\n      <p class=\"sv-review2-text\">Meine Hochzeit letzten September, rückenfreies Kleid. Zwei kleine dunkle Narben an den Schulterblättern, die der Fotograf immer retuschieren musste. SkinVeil™ morgens aufgetragen. Ich habe bis drei Uhr morgens getanzt. Keine Spuren auf dem Kleid. Keine Spuren am Kragen meines Mannes. Die Fotos kamen ohne Retusche heraus. Meine Mutter hat geweint. Zum ersten Mal waren die Narben nicht zu sehen.</p>\n    </div>\n  </div>\n\n  <!-- REVIEW 9 -->\n  <div class=\"sv-review2-card\">\n    <div class=\"sv-review2-img-wrap\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bronzata-review-pov-1_430x.jpg?v=1780984598\" alt=\"Sofia\" loading=\"lazy\">\n    </div>\n    <div class=\"sv-review2-body\">\n      <div class=\"sv-review2-meta\">\n        <span class=\"sv-review2-name\">Sofia D., 26 · Berlin</span>\n        <span class=\"sv-review2-stars\">★★★★★</span>\n      </div>\n      <p class=\"sv-review2-headline\">Ich sah aus wie Twilight. Jetzt existiere ich.</p>\n      <p class=\"sv-review2-text\">Das ganze Jahr über Porzellanhaut. Meine Beine haben diesen durchscheinenden Effekt unter Bürolicht. Kleine Besenreiser hinter dem Knie. Drei Aufträge pro Bein auf dem Sofa vor Netflix. Ich zog die alten Shorts meines Freundes an, die ich sonst nur zu Hause trage. Ich habe zehn Minuten lang auf meine Beine geschaut und sie nicht erkannt. Die Besenreiser weg. Einfach normale Beine. Und das war für mich schon ein Traum.</p>\n    </div>\n  </div>\n\n</div>\n</div>\n  <div class=\"sv-reviews2-dots\" id=\"svReviewsDots\">\n    <span class=\"sv-rdot active\" data-idx=\"0\"></span>\n    <span class=\"sv-rdot\" data-idx=\"1\"></span>\n    <span class=\"sv-rdot\" data-idx=\"2\"></span>\n    <span class=\"sv-rdot\" data-idx=\"3\"></span>\n    <span class=\"sv-rdot\" data-idx=\"4\"></span>\n    <span class=\"sv-rdot\" data-idx=\"5\"></span>\n    <span class=\"sv-rdot\" data-idx=\"6\"></span>\n    <span class=\"sv-rdot\" data-idx=\"7\"></span>\n    <span class=\"sv-rdot\" data-idx=\"8\"></span>\n  </div>\n</div>\n<style>\n.sv-reviews2-section {\n  padding: 40px 0 28px;\n  background: #f5ede6;\n  font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;\n  overflow: hidden;\n}\n.sv-reviews2-title {\n  font-family: Georgia, serif;\n  font-size: 26px;\n  font-style: italic;\n  color: #1a1a2e;\n  margin: 0 0 6px;\n  line-height: 1.3;\n  text-align: center;\n  padding: 0 16px;\n}\n.sv-reviews2-sub {\n  font-size: 14px;\n  color: #888;\n  text-align: center;\n  margin: 0 0 24px;\n  padding: 0 16px;\n}\n.sv-reviews2-scroll {\n  overflow: hidden;\n  width: 100%;\n  position: relative;\n}\n.sv-reviews2-track {\n  display: flex;\n  gap: 12px;\n  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);\n  will-change: transform;\n  padding: 4px 0 8px;\n}\n.sv-review2-card {\n  flex: 0 0 78vw;\n  max-width: 320px;\n  background: #fff;\n  border-radius: 16px;\n  overflow: hidden;\n  box-shadow: 0 2px 16px rgba(0,0,0,0.07);\n}\n.sv-review2-img-wrap {\n  width: 100%;\n  aspect-ratio: 4/3;\n  overflow: hidden;\n}\n.sv-review2-img-wrap img {\n  width: 100%;\n  height: 100%;\n  object-fit: cover;\n  object-position: top center;\n  display: block;\n}\n.sv-review2-body {\n  padding: 14px 14px 16px;\n}\n.sv-review2-meta {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  gap: 8px;\n  margin-bottom: 8px;\n}\n.sv-review2-name {\n  font-size: 12px;\n  font-weight: 700;\n  color: #1a1a2e;\n}\n.sv-review2-stars {\n  color: #c9a84c;\n  font-size: 12px;\n  letter-spacing: 1px;\n  flex-shrink: 0;\n}\n.sv-review2-headline {\n  font-size: 13px;\n  font-weight: 700;\n  color: #1a1a2e;\n  margin: 0 0 8px;\n  line-height: 1.4;\n}\n.sv-review2-text {\n  font-size: 12px;\n  color: #666;\n  line-height: 1.6;\n  margin: 0;\n}\n.sv-reviews2-dots {\n  display: flex;\n  justify-content: center;\n  gap: 6px;\n  margin-top: 16px;\n  padding: 0 16px;\n  flex-wrap: wrap;\n}\n.sv-rdot {\n  width: 7px;\n  height: 7px;\n  border-radius: 50%;\n  background: #d4c4b8;\n  cursor: pointer;\n  transition: background 0.3s, transform 0.2s;\n  flex-shrink: 0;\n}\n.sv-rdot.active {\n  background: #c9a84c;\n  transform: scale(1.3);\n}\n@media (min-width: 768px) {\n  .sv-review2-card {\n    flex: 0 0 340px;\n  }\n}\n</style>\n<script>\n(function() {\n  const track = document.querySelector('.sv-reviews2-track');\n  const scroll = document.querySelector('.sv-reviews2-scroll');\n  const dots = document.querySelectorAll('.sv-rdot');\n  const cards = document.querySelectorAll('.sv-review2-card');\n  const total = cards.length;\n  let current = 0;\n  let startX = 0;\n  let isDragging = false;\n\n  function getCardWidth() {\n    return cards[0].offsetWidth + 12;\n  }\n\n  function getCenterOffset() {\n    return (scroll.offsetWidth - cards[0].offsetWidth) / 2;\n  }\n\n  function goTo(idx) {\n    current = ((idx % total) + total) % total;\n    const offset = Math.max(0, current * getCardWidth() - getCenterOffset());\n    track.style.transform = 'translateX(' + (-offset) + 'px)';\n    dots.forEach(function(d, i) { d.classList.toggle('active', i === current); });\n  }\n\n  dots.forEach(function(dot) {\n    dot.addEventListener('click', function() { goTo(parseInt(dot.dataset.idx)); });\n  });\n\n  track.addEventListener('touchstart', function(e) {\n    startX = e.touches[0].clientX;\n    isDragging = true;\n  }, { passive: true });\n\n  track.addEventListener('touchend', function(e) {\n    if (!isDragging) return;\n    const diff = startX - e.changedTouches[0].clientX;\n    if (Math.abs(diff) > 40) {\n      diff > 0 ? goTo(current + 1) : goTo(current - 1);\n    }\n    isDragging = false;\n  }, { passive: true });\n\n  window.addEventListener('load', function() { goTo(0); });\n})();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_CLd9ki": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_eKRCMn": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_h4Lk8F": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_TJr9yA": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_pdWkJf": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_LaRVyk": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_PNXXkw": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_pWWfKh": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_nTJY4x": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_iTFUKL": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_rekNtk": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_LjekVV": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_edKnBe": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_7dYpik": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_TJr9yA",
+        "title_pdWkJf",
+        "badges_LaRVyk",
+        "price_PNXXkw",
+        "rating_pWWfKh",
+        "separator_nTJY4x",
+        "description_iTFUKL",
+        "variant_picker_rekNtk",
+        "quantity_selector_LjekVV",
+        "buy_buttons_edKnBe",
+        "pickup_availability_7dYpik"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "sorelya-skinveil™",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
     "custom_liquid_H87M3w",
     "main",
     "slideshow_yUjtXt",
-    "logo_list_GG4C7R"
+    "logo_list_GG4C7R",
+    "rich_text_gjNM7g",
+    "slideshow_w6zMmT",
+    "rich_text_4GrJ7U",
+    "video_JHWw3n",
+    "custom_liquid_fTp9tM",
+    "custom_liquid_CLd9ki",
+    "custom_liquid_eKRCMn",
+    "featured_product_h4Lk8F"
   ]
 }
