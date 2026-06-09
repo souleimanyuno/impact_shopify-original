@@ -1,1 +1,147 @@
-{"sections":{"main":{"type":"main-not-found","settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "custom_liquid_H87M3w": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "main": {
+      "type": "main-not-found",
+      "disabled": true,
+      "settings": {}
+    },
+    "slideshow_yUjtXt": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Rz49Bp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPTImage9juin2026_03_28_41.png",
+            "content_max_width": 820,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Rz49Bp"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "logo_list_GG4C7R": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_8w46Ba": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/VOGUE_LOGO.svg",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_BHhMN6": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo.svg",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_Gx7QLc": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_dV9Nka": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Glamour-Logo.svg",
+            "logo_width": 200,
+            "link": ""
+          }
+        },
+        "logo_F9EaJM": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Grazia-Logo_svg.png",
+            "logo_width": 220,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_8w46Ba",
+        "logo_BHhMN6",
+        "logo_Gx7QLc",
+        "logo_dV9Nka",
+        "logo_F9EaJM"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "",
+        "content": "<h2>VON DEUTSCHLANDS GRÖSSTEN BEAUTY  MAGAZINEN AUSGEZEICHNET</h2>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    }
+  },
+  "order": [
+    "custom_liquid_H87M3w",
+    "main",
+    "slideshow_yUjtXt",
+    "logo_list_GG4C7R"
+  ]
+}
