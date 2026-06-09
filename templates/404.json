@@ -259,6 +259,55 @@
         "text_color": ""
       }
     },
+    "featured_product_h4Lk8F": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_PAbBc6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% comment %}Hero Desc + Shade Finder DE{% endcomment %}\n<div style=\"display: flex; align-items: center; background-color: #FFFFFF; padding: px px; border-radius: 8px; width: fit-content; margin: 1px 0; text-align: left;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/stars-4.5-trust-pilot.svg?v=1747080316\" alt=\"5 stars\" style=\"width: 60px; margin-right: 8px;\">\n  <div style=\"color: #4A4A4A; font-size: 12px; text-align: left; white-space: nowrap;\">\n    <span style=\"font-weight: 200;\">Bewertet mit</span> <span style=\"color: #000000; font-weight: 700;\">4.7</span> <span style=\"font-weight: 200;\">basierend auf</span> <span style=\"color: #000000; font-weight: 700;\">10.000+ Bewertungen</span>\n  </div>\n</div>\n<div class=\"sv-desc-block\">\n  <p class=\"sv-product-name\">SORELYA SkinVeil™</p>\n  <h2 class=\"sv-main-title\">Besenreiser, Dehnungsstreifen, Hautunreinheiten. Abgedeckt. Für 48 Stunden.</h2>\n  <p class=\"sv-sub-title\">Beine, die das Kleid tragen. Nicht umgekehrt.</p>\n  <div class=\"sv-icons-grid\">\n    <div class=\"sv-icon-row\">\n      <div class=\"sv-icon-wrap\">\n        <svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#c9a84c\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s-8-4.5-8-11.8A8 8 0 0 1 12 2a8 8 0 0 1 8 8.2c0 7.3-8 11.8-8 11.8z\"/></svg>\n      </div>\n      <span>Fühlt sich an wie nichts auf der Haut.</span>\n    </div>\n    <div class=\"sv-icon-row\">\n      <div class=\"sv-icon-wrap\">\n        <svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#c9a84c\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22V8\"/><path d=\"M5 12H2a10 10 0 0 0 20 0h-3\"/><path d=\"M12 2a4 4 0 0 1 4 4v2H8V6a4 4 0 0 1 4-4z\"/></svg>\n      </div>\n      <span>Wasserfest. Kein Abfärben.</span>\n    </div>\n    <div class=\"sv-icon-row\">\n      <div class=\"sv-icon-wrap\">\n        <svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#c9a84c\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M3 12h1m16 0h1M12 3v1m0 16v1m-6.4-3.6.7-.7m11.4-11.4.7-.7M5.6 5.6l.7.7m11.4 11.4.7.7\"/></svg>\n      </div>\n      <span>6 Farbtöne. Finde deinen perfekten Match.</span>\n    </div>\n    <div class=\"sv-icon-row\">\n      <div class=\"sv-icon-wrap\">\n        <svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#c9a84c\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><polyline points=\"12 6 12 12 16 14\"/></svg>\n      </div>\n      <span>In 10 Minuten aufgetragen.</span>\n    </div>\n  </div>\n  <div class=\"sv-divider\"></div>\n</div>\n<style>\n.sv-desc-block {\n  padding: 12px 4px 0;\n  font-family: 'Montserrat', -apple-system, 'Helvetica Neue', Arial, sans-serif;\n}\n.sv-product-name {\n  font-family: 'Montserrat', -apple-system, sans-serif;\n  font-size: 26px;\n  font-weight: 800;\n  color: #1a1a2e;\n  margin: 0 0 10px;\n  letter-spacing: -0.3px;\n  line-height: 1.2;\n}\n.sv-main-title {\n  font-size: 17px;\n  font-weight: 700;\n  color: #1a1a2e;\n  line-height: 1.45;\n  margin: 0 0 6px;\n}\n.sv-sub-title {\n  font-size: 15px;\n  color: #555;\n  font-weight: 400;\n  margin: 0 0 16px;\n  line-height: 1.5;\n}\n.sv-icons-grid {\n  display: grid;\n  grid-template-columns: 1fr 1fr;\n  gap: 12px 14px;\n  margin-bottom: 14px;\n}\n.sv-icon-row {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n}\n.sv-icon-wrap {\n  width: 36px;\n  height: 36px;\n  background: #fdf3ea;\n  border-radius: 50%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  flex-shrink: 0;\n}\n.sv-icon-row span {\n  font-size: 13px;\n  color: #2a2a2a;\n  line-height: 1.4;\n}\n.sv-divider {\n  height: 1px;\n  background: #efe8e2;\n  margin-bottom: 10px;\n}\n</style>\n<!-- SHADE FINDER TRIGGER -->\n<div class=\"sf-trigger-wrap\">\n  <div class=\"sf-trigger\" id=\"sfTrigger\">\n    <div class=\"sf-swatch\" style=\"background: linear-gradient(135deg, #e8c9a0, #c4956a, #8b5e3c);\"></div>\n    <div class=\"sf-trigger-text\">\n      <em>Finde deinen Farbton</em>\n      <span>GEFÜHRTES QUIZ · 60 SEKUNDEN</span>\n    </div>\n    <span class=\"sf-arrow\">→</span>\n  </div>\n</div>\n<!-- MODAL OVERLAY -->\n<div class=\"sf-overlay\" id=\"sfOverlay\">\n  <div class=\"sf-modal\" id=\"sfModal\">\n    <div class=\"sf-header\">\n      <button class=\"sf-back\" id=\"sfBack\" style=\"visibility:hidden\">‹</button>\n      <div class=\"sf-progress-bar\">\n        <div class=\"sf-progress-fill\" id=\"sfProgressFill\"></div>\n      </div>\n      <button class=\"sf-close\" id=\"sfClose\">✕</button>\n    </div>\n    <div class=\"sf-body\" id=\"sfBody\"></div>\n  </div>\n</div>\n<style>\n.sf-trigger-wrap { margin: 0 0 16px; }\n.sf-trigger {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n  background: #fff;\n  border: 1px solid #e8ddd6;\n  border-radius: 12px;\n  padding: 14px 16px;\n  cursor: pointer;\n  transition: box-shadow 0.2s;\n}\n.sf-trigger:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.08); }\n.sf-swatch { width: 40px; height: 40px; border-radius: 50%; flex-shrink: 0; }\n.sf-trigger-text { display: flex; flex-direction: column; gap: 2px; }\n.sf-trigger-text em { font-family: Georgia, serif; font-size: 16px; font-style: italic; color: #1a1a2e; }\n.sf-trigger-text span { font-size: 10px; color: #aaa; text-transform: uppercase; letter-spacing: 0.8px; }\n.sf-arrow { margin-left: auto; font-size: 20px; color: #c9a84c; }\n.sf-overlay {\n  display: none;\n  position: fixed;\n  inset: 0;\n  background: rgba(0,0,0,0.5);\n  z-index: 99999;\n  align-items: flex-end;\n  justify-content: center;\n}\n.sf-overlay.open { display: flex; }\n@media (min-width: 600px) { .sf-overlay { align-items: center; } }\n.sf-modal {\n  background: #fff;\n  width: 100%;\n  max-width: 560px;\n  max-height: 92vh;\n  border-radius: 20px 20px 0 0;\n  overflow: hidden;\n  display: flex;\n  flex-direction: column;\n}\n@media (min-width: 600px) { .sf-modal { border-radius: 20px; max-height: 85vh; } }\n.sf-header { display: flex; align-items: center; gap: 10px; padding: 16px 16px 12px; flex-shrink: 0; }\n.sf-back, .sf-close { background: none; border: none; font-size: 18px; cursor: pointer; color: #666; padding: 4px 8px; border-radius: 6px; flex-shrink: 0; }\n.sf-back:hover, .sf-close:hover { background: #f5f5f5; }\n.sf-progress-bar { flex: 1; height: 4px; background: #efe8e2; border-radius: 4px; overflow: hidden; }\n.sf-progress-fill { height: 100%; background: linear-gradient(90deg, #c9a84c, #e8c98a); border-radius: 4px; transition: width 0.4s ease; width: 0%; }\n.sf-body { overflow-y: auto; padding: 0 20px 28px; flex: 1; }\n.sf-step-label { font-size: 12px; font-weight: 600; color: #c9a84c; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }\n.sf-step-title { font-family: Georgia, serif; font-size: 26px; font-style: italic; color: #1a1a2e; margin-bottom: 6px; line-height: 1.3; }\n.sf-step-sub { font-size: 13px; color: #888; margin-bottom: 20px; line-height: 1.5; }\n.sf-grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }\n.sf-grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }\n.sf-option { border: 2px solid #efe8e2; border-radius: 12px; overflow: hidden; cursor: pointer; transition: border-color 0.2s, transform 0.15s; background: #fff; }\n.sf-option:hover { border-color: #c9a84c; transform: translateY(-1px); }\n.sf-option.selected { border-color: #c9a84c; background: #fffaf4; }\n.sf-option img { width: 100%; aspect-ratio: 1/1; object-fit: cover; display: block; }\n.sf-option-label { padding: 8px 10px 10px; }\n.sf-option-label strong { display: block; font-size: 13px; color: #1a1a2e; margin-bottom: 2px; }\n.sf-option-label span { font-size: 11px; color: #999; }\n.sf-text-option { border: 2px solid #efe8e2; border-radius: 12px; padding: 16px; cursor: pointer; margin-bottom: 10px; transition: border-color 0.2s; }\n.sf-text-option:hover { border-color: #c9a84c; }\n.sf-text-option.featured { background: #fffaf4; border-color: #e8c98a; }\n.sf-text-option .sf-featured-badge { display: inline-block; background: #1a1a2e; color: #fff; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; padding: 3px 8px; border-radius: 4px; margin-bottom: 8px; }\n.sf-text-option strong { display: block; font-family: Georgia, serif; font-size: 16px; font-style: italic; color: #1a1a2e; margin-bottom: 4px; }\n.sf-text-option p { font-size: 13px; color: #777; margin: 0; line-height: 1.4; }\n.sf-text-option .sf-bonus { margin-top: 10px; background: linear-gradient(90deg, #e8c98a33, #c9a84c22); border-radius: 6px; padding: 6px 10px; font-size: 12px; color: #a07830; font-weight: 600; }\n.sf-result-title { font-family: Georgia, serif; font-size: 24px; font-style: italic; text-align: center; color: #1a1a2e; margin-bottom: 4px; }\n.sf-result-sub { text-align: center; font-size: 13px; color: #aaa; margin-bottom: 20px; }\n.sf-shade-card { border: 2px solid #efe8e2; border-radius: 14px; padding: 14px 16px; display: flex; align-items: center; gap: 14px; margin-bottom: 10px; }\n.sf-shade-card.primary { border-color: #c9a84c; background: #fffaf4; }\n.sf-shade-card.secondary { border-style: dashed; border-color: #c9a84c88; }\n.sf-shade-dot { width: 52px; height: 52px; border-radius: 50%; flex-shrink: 0; border: 2px solid #efe8e2; }\n.sf-shade-info .sf-shade-tag { font-size: 10px; text-transform: uppercase; letter-spacing: 0.8px; color: #c9a84c; font-weight: 600; margin-bottom: 2px; }\n.sf-shade-info strong { display: block; font-size: 16px; color: #1a1a2e; margin-bottom: 2px; }\n.sf-shade-info span { font-size: 12px; color: #999; }\n.sf-why-box { background: #fffaf4; border-radius: 12px; padding: 14px 16px; margin: 14px 0; font-size: 13px; color: #5a4030; line-height: 1.6; }\n.sf-why-box strong { display: block; font-size: 11px; text-transform: uppercase; letter-spacing: 0.8px; color: #c9a84c; margin-bottom: 6px; }\n.sf-cta-btn { width: 100%; background: linear-gradient(135deg, #c9a84c, #e8c98a); color: #fff; border: none; border-radius: 12px; padding: 16px; font-size: 16px; font-weight: 700; cursor: pointer; margin-bottom: 8px; transition: opacity 0.2s; }\n.sf-cta-btn:hover { opacity: 0.9; }\n.sf-cta-sub { text-align: center; font-size: 12px; color: #aaa; margin-bottom: 16px; }\n.sf-trust-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; border-top: 1px solid #f0e8e0; padding-top: 16px; margin-top: 4px; }\n.sf-trust-item { text-align: center; }\n.sf-trust-item em { display: block; font-family: Georgia, serif; font-size: 15px; font-style: italic; color: #c9a84c; margin-bottom: 2px; }\n.sf-trust-item span { font-size: 10px; color: #aaa; line-height: 1.3; }\n.sf-restart { display: block; text-align: center; font-size: 13px; color: #aaa; cursor: pointer; margin-top: 16px; text-decoration: underline; }\n</style>\n<script>\n(function() {\n  const SHADES = [\n    { id: 'pd', name: 'Porcelain Dew',  hex: '#f5e6d8', desc: 'Sehr heller, kühler Hautton',      sun: [0,1],    vein: [0,2,3] },\n    { id: 'ib', name: 'Ivory Bloom',    hex: '#ebd5b8', desc: 'Heller bis mittelheller Hautton',   sun: [0,1],    vein: [0,1,2,3] },\n    { id: 'gs', name: 'Golden Sand',    hex: '#d4a97a', desc: 'Mittelhell bis warm',               sun: [1,2],    vein: [1,2,3] },\n    { id: 'sh', name: 'Soft Honey',     hex: '#c08a50', desc: 'Mittelhell bis olive',              sun: [1,2],    vein: [1,2] },\n    { id: 'ad', name: 'Amber Dusk',     hex: '#9a6535', desc: 'Mitteltief bis warm bronze',        sun: [2,3],    vein: [1,2] },\n    { id: 'vc', name: 'Velvet Cocoa',   hex: '#5c3418', desc: 'Tief bis dunkel',                   sun: [2,3],    vein: [0,1,2,3] }\n  ];\n\n  let answers = { skin: null, vein: null, sun: null, usage: null };\n  let step = 1;\n\n  const trigger  = document.getElementById('sfTrigger');\n  const overlay  = document.getElementById('sfOverlay');\n  const body     = document.getElementById('sfBody');\n  const fill     = document.getElementById('sfProgressFill');\n  const backBtn  = document.getElementById('sfBack');\n  const closeBtn = document.getElementById('sfClose');\n\n  trigger.addEventListener('click', function() { step=1; open(); });\n  closeBtn.addEventListener('click', close);\n  overlay.addEventListener('click', function(e) { if(e.target===overlay) close(); });\n  backBtn.addEventListener('click', function() { step = Math.max(1, step-1); render(); });\n\n  function open()  { overlay.classList.add('open'); render(); }\n  function close() { overlay.classList.remove('open'); }\n\n  function setProgress(s, total) {\n    fill.style.width = ((s-1)/total*100) + '%';\n    backBtn.style.visibility = s > 1 ? 'visible' : 'hidden';\n  }\n\n  function computeResult() {\n    const scores = SHADES.map(function(sh, idx) {\n      let score = 0;\n      if (answers.skin !== null) score += Math.max(0, 10 - Math.abs(idx - answers.skin) * 3);\n      if (answers.vein !== null && sh.vein.includes(answers.vein)) score += 4;\n      if (answers.sun !== null  && sh.sun.includes(answers.sun))  score += 4;\n      return { sh: sh, idx: idx, score: score };\n    });\n    scores.sort(function(a,b) { return b.score - a.score; });\n    const primary   = scores[0].sh;\n    const secIdx    = Math.min(scores[0].idx + 1, SHADES.length - 1);\n    const secondary = SHADES[secIdx];\n    const pct       = Math.round(88 + Math.random() * 9);\n    return { primary: primary, secondary: secondary, pct: pct };\n  }\n\n  function render() {\n    if      (step === 1) renderQ1();\n    else if (step === 2) renderQ2();\n    else if (step === 3) renderQ3();\n    else if (step === 4) renderQ4();\n    else                 renderResult();\n    body.scrollTop = 0;\n  }\n\n  function renderQ1() {\n    setProgress(1, 4);\n    const imgs = [\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-skin-1-porcellana_430x.jpg?v=1780980552',\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-skin-2-avorio_430x.jpg?v=1780980552',\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-skin-3-beige_430x.jpg?v=1780980552',\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-skin-4-dorata_430x.jpg?v=1780980552',\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-skin-5-caramello_430x.jpg?v=1780980552',\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-skin-6-olivastra_430x.jpg?v=1780980627'\n    ];\n    const labels = [\n      ['Porzellan','Sehr hell'],['Elfenbein','Hell'],['Beige','Mittelhell'],\n      ['Golden','Mediterran'],['Karamell','Tiefes Bronze'],['Olive','Dunkel Natur']\n    ];\n    var html = '<p class=\"sf-step-label\">FRAGE 1 VON 4</p>';\n    html += '<h2 class=\"sf-step-title\">Deine Haut im Moment.</h2>';\n    html += '<p class=\"sf-step-sub\">Tippe auf das Foto, das deiner Haut heute am nächsten kommt, ohne Bräune.</p>';\n    html += '<div class=\"sf-grid-3\">';\n    for (var i=0; i<imgs.length; i++) {\n      html += '<div class=\"sf-option' + (answers.skin===i?' selected':'') + '\" data-idx=\"' + i + '\">';\n      html += '<img src=\"' + imgs[i] + '\" alt=\"' + labels[i][0] + '\" loading=\"lazy\">';\n      html += '<div class=\"sf-option-label\"><strong>' + labels[i][0] + '</strong><span>' + labels[i][1] + '</span></div>';\n      html += '</div>';\n    }\n    html += '</div>';\n    body.innerHTML = html;\n    body.querySelectorAll('.sf-option').forEach(function(el) {\n      el.addEventListener('click', function() { answers.skin = parseInt(el.dataset.idx); step=2; render(); });\n    });\n  }\n\n  function renderQ2() {\n    setProgress(2, 4);\n    const imgs = [\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-veins-wrist_blue_430x.jpg?v=1780980707',\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-veins-wrist_green_430x.jpg?v=1780980707',\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-veins-wrist_mixed_430x.jpg?v=1780980707',\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-veins-wrist_faint_430x.jpg?v=1780980707'\n    ];\n    const labels = [\n      ['Blau oder lila','Kühler Unterton'],['Grün','Warmer Unterton'],\n      ['Beides gemischt','Neutraler Unterton'],['Kaum erkennbar','Neutraler Unterton']\n    ];\n    var html = '<p class=\"sf-step-label\">FRAGE 2 VON 4</p>';\n    html += '<h2 class=\"sf-step-title\">Schau auf deine Handgelenksvenen.</h2>';\n    html += '<p class=\"sf-step-sub\">Innenseite des Handgelenks, Handfläche nach oben, bei Tageslicht am Fenster. Welche Farbe siehst du hauptsächlich?</p>';\n    html += '<div class=\"sf-grid-2\">';\n    for (var i=0; i<imgs.length; i++) {\n      html += '<div class=\"sf-option' + (answers.vein===i?' selected':'') + '\" data-idx=\"' + i + '\">';\n      html += '<img src=\"' + imgs[i] + '\" alt=\"' + labels[i][0] + '\" loading=\"lazy\">';\n      html += '<div class=\"sf-option-label\"><strong>' + labels[i][0] + '</strong><span>' + labels[i][1] + '</span></div>';\n      html += '</div>';\n    }\n    html += '</div>';\n    body.innerHTML = html;\n    body.querySelectorAll('.sf-option').forEach(function(el) {\n      el.addEventListener('click', function() { answers.vein = parseInt(el.dataset.idx); step=3; render(); });\n    });\n  }\n\n  function renderQ3() {\n    setProgress(3, 4);\n    const imgs = [\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-sun-0-burn_430x.jpg?v=1780980761',\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-sun-1-light-tan_430x.jpg?v=1780980761',\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-sun-2-easy-tan_430x.jpg?v=1780980761',\n      'https://cdn.shopify.com/s/files/1/0992/0384/2370/files/bzf-sun-3-deep-tan_430x.jpg?v=1780980761'\n    ];\n    const labels = [\n      ['Ich bekomme schnell Sonnenbrand','Rötung, keine Bräune'],['Erst Sonnenbrand, dann Bräune','Leicht goldene Farbe'],\n      ['Ich werde leicht braun','Selten Sonnenbrand'],['Sofort dunkel','Schnell und tief']\n    ];\n    var html = '<p class=\"sf-step-label\">FRAGE 3 VON 4</p>';\n    html += '<h2 class=\"sf-step-title\">Was passiert, wenn du in der Sonne bist?</h2>';\n    html += '<p class=\"sf-step-sub\">Denke an ein Sommerwochenende am See, ohne hohen Sonnenschutz.</p>';\n    html += '<div class=\"sf-grid-2\">';\n    for (var i=0; i<imgs.length; i++) {\n      html += '<div class=\"sf-option' + (answers.sun===i?' selected':'') + '\" data-idx=\"' + i + '\">';\n      html += '<img src=\"' + imgs[i] + '\" alt=\"' + labels[i][0] + '\" loading=\"lazy\">';\n      html += '<div class=\"sf-option-label\"><strong>' + labels[i][0] + '</strong><span>' + labels[i][1] + '</span></div>';\n      html += '</div>';\n    }\n    html += '</div>';\n    body.innerHTML = html;\n    body.querySelectorAll('.sf-option').forEach(function(el) {\n      el.addEventListener('click', function() { answers.sun = parseInt(el.dataset.idx); step=4; render(); });\n    });\n  }\n\n  function renderQ4() {\n    setProgress(4, 4);\n    body.innerHTML = '<p class=\"sf-step-label\">FRAGE 4 VON 4</p>'\n      + '<h2 class=\"sf-step-title\">Wann wirst du es tragen?</h2>'\n      + '<p class=\"sf-step-sub\">So können wir einen Farbton oder ein Duo für alle Jahreszeiten empfehlen.</p>'\n      + '<div class=\"sf-text-option featured\" data-val=\"both\">'\n      + '<span class=\"sf-featured-badge\">BESTES ANGEBOT</span>'\n      + '<strong>Täglich und für besondere Anlässe</strong>'\n      + '<p>Ein Ton für den Alltag, einer für den frisch-gebräunten Sommerlook.</p>'\n      + '<div class=\"sf-bonus\">+ Kabuki-Pinsel gratis inklusive</div>'\n      + '</div>'\n      + '<div class=\"sf-text-option\" data-val=\"daily\">'\n      + '<strong>Täglich</strong>'\n      + '<p>Ein Ton für die Arbeit, Sport, Besorgungen und das Wochenende.</p>'\n      + '</div>'\n      + '<div class=\"sf-text-option\" data-val=\"occasions\">'\n      + '<strong>Nur für besondere Anlässe</strong>'\n      + '<p>Hochzeiten, Urlaub, Abende aus, wenn du perfekt aussehen musst.</p>'\n      + '</div>';\n    body.querySelectorAll('.sf-text-option').forEach(function(el) {\n      el.addEventListener('click', function() { answers.usage = el.dataset.val; step=5; render(); });\n    });\n  }\n\n  function renderResult() {\n    setProgress(5, 4);\n    fill.style.width = '100%';\n    const res = computeResult();\n    const primary = res.primary;\n    const secondary = res.secondary;\n    const pct = res.pct;\n    const showDuo = answers.usage === 'both' || answers.usage === 'occasions';\n    const resultTitle = showDuo ? primary.name + ' + ' + secondary.name : primary.name;\n    const whyText = showDuo\n      ? 'Ein Ton für deine alltägliche Haut. Ein Ton wärmer für den Sonnenkuss-Look. Gleiche Formel, gleicher Halt. Makellose Haut das ganze Jahr.'\n      : 'Die beste Übereinstimmung mit deinem natürlichen Hautton. In 10 Minuten aufgetragen für ein ebenmäßiges, natürliches Ergebnis, das 48 Stunden hält.';\n\n    var html = '<h2 class=\"sf-result-title\">' + resultTitle + '</h2>';\n    html += '<p class=\"sf-result-sub\">Dein Farbton ist bereit &middot; ' + pct + '% Match</p>';\n    html += '<div class=\"sf-shade-card primary\">';\n    html += '<div class=\"sf-shade-dot\" style=\"background:' + primary.hex + ';\"></div>';\n    html += '<div class=\"sf-shade-info\"><div class=\"sf-shade-tag\">EMPFOHLEN FÜR DICH</div>';\n    html += '<strong>' + primary.name + '</strong><span>' + primary.desc + '</span></div></div>';\n    if (showDuo) {\n      html += '<div class=\"sf-shade-card secondary\">';\n      html += '<div class=\"sf-shade-dot\" style=\"background:' + secondary.hex + ';\"></div>';\n      html += '<div class=\"sf-shade-info\"><div class=\"sf-shade-tag\">ZWEITER TON &middot; DEIN GEBRÄUNTES ICH</div>';\n      html += '<strong>' + secondary.name + '</strong><span>' + secondary.desc + '</span></div></div>';\n    }\n    html += '<div class=\"sf-why-box\"><strong>WARUM DIESER ' + (showDuo ? 'DUO' : 'TON') + '</strong>' + whyText + '</div>';\n    html += '<button class=\"sf-cta-btn\" id=\"sfAddBtn\">Meinen Farbton' + (showDuo ? 'e' : '') + ' in den Warenkorb legen</button>';\n    html += '<p class=\"sf-cta-sub\">' + (showDuo ? 'Kabuki-Pinsel gratis inklusive' : 'Kostenloser Versand ab €40') + '</p>';\n    html += '<div class=\"sf-trust-row\">';\n    html += '<div class=\"sf-trust-item\"><em>48h</em><span>Sonne, Wasser, Kleidung</span></div>';\n    html += '<div class=\"sf-trust-item\"><em>10 Min</em><span>Kabuki-Pinsel inklusive</span></div>';\n    html += '<div class=\"sf-trust-item\"><em>30 Tage</em><span>Geld-zurück-Garantie</span></div>';\n    html += '<div class=\"sf-trust-item\"><em>&#10003;</em><span>Dermatologisch getestet &middot; DHA-frei</span></div>';\n    html += '</div>';\n    html += '<span class=\"sf-restart\" id=\"sfRestart\">&#8635; Quiz neu starten</span>';\n    body.innerHTML = html;\n\n    document.getElementById('sfAddBtn').addEventListener('click', function() {\n      close();\n      var atcBtn = document.querySelector('[name=\"add\"], .product-form__submit, #AddToCart');\n      if (atcBtn) atcBtn.scrollIntoView({ behavior: 'smooth', block: 'center' });\n    });\n    document.getElementById('sfRestart').addEventListener('click', function() {\n      answers = { skin: null, vein: null, sun: null, usage: null };\n      step = 1; render();\n    });\n  }\n\n  render();\n})();\n</script>"
+          }
+        },
+        "buy_buttons_edKnBe": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_7dYpik": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_PAbBc6",
+        "buy_buttons_edKnBe",
+        "pickup_availability_7dYpik"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "sorelya-skinveil™",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "custom_liquid_CLd9ki": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -284,110 +333,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "featured_product_h4Lk8F": {
-      "type": "featured-product",
-      "blocks": {
-        "vendor_TJr9yA": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "title_pdWkJf": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "badges_LaRVyk": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_PNXXkw": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating_pWWfKh": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_nTJY4x": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_iTFUKL": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
-        "variant_picker_rekNtk": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_LjekVV": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_edKnBe": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_7dYpik": {
-          "type": "pickup_availability",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "vendor_TJr9yA",
-        "title_pdWkJf",
-        "badges_LaRVyk",
-        "price_PNXXkw",
-        "rating_pWWfKh",
-        "separator_nTJY4x",
-        "description_iTFUKL",
-        "variant_picker_rekNtk",
-        "quantity_selector_LjekVV",
-        "buy_buttons_edKnBe",
-        "pickup_availability_7dYpik"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "full_width": true,
-        "product": "sorelya-skinveil™",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
     }
   },
   "order": [
@@ -400,8 +345,8 @@
     "rich_text_4GrJ7U",
     "video_JHWw3n",
     "custom_liquid_fTp9tM",
+    "featured_product_h4Lk8F",
     "custom_liquid_CLd9ki",
-    "custom_liquid_eKRCMn",
-    "featured_product_h4Lk8F"
+    "custom_liquid_eKRCMn"
   ]
 }
