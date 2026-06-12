@@ -65,7 +65,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -143,7 +143,7 @@
         "heading_i4VHCF": {
           "type": "heading",
           "settings": {
-            "text": "Why 10,000 UK Women Choose SkinVeil™ Over Anything Else",
+            "text": "Warum 10.Warum 10.000 Frauen in Deutschland SkinVeil™ allem anderen vorziehen",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -201,7 +201,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
