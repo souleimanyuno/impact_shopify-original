@@ -437,6 +437,19 @@
         "background_gradient": ""
       }
     },
+    "custom_liquid_hNKzgj": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div class=\"faq-section\">\n  <h2 class=\"faq-title\">Frequently Asked Questions</h2>\n\n  <div class=\"faq-item\">\n    <button class=\"faq-question\" aria-expanded=\"false\">\n      Will the CradleBand™ actually support a heavy bust without underwire?\n      <span class=\"faq-icon\">+</span>\n    </button>\n    <div class=\"faq-answer\">\n      <p>Yes — and this is exactly what makes CloudCradle™ different. Most wireless bras put all the weight on your shoulder straps. The CradleBand™ carries it from your ribcage instead, the same way a properly fitted underwire would — without the wire. Women with F, G, and H cups tell us it's the first wireless bra that actually holds them without shoulder pain or neck strain by 4pm.</p>\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <button class=\"faq-question\" aria-expanded=\"false\">\n      I've tried wireless bras before and none of them worked. Why would this be different?\n      <span class=\"faq-icon\">+</span>\n    </button>\n    <div class=\"faq-answer\">\n      <p>Most wireless bras are just bralettes with a different name — stretchy, no structure, everything ends up on your shoulders. CloudCradle™ has a wide structured under-band (the CradleBand™) that distributes the weight across your ribcage. It's the mechanism that's different, not just the material. If you've been bouncing between underwire pain and wireless sag, this is the gap it fills.</p>\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <button class=\"faq-question\" aria-expanded=\"false\">\n      How is this different from a regular wireless bra or a sports bra?\n      <span class=\"faq-icon\">+</span>\n    </button>\n    <div class=\"faq-answer\">\n      <p>A regular wireless bra relies on stretch and straps — no real structure below. A sports bra compresses everything flat and gets tighter through the day. CloudCradle™ does neither. The wide ribbed CradleBand™ creates a rigid support base at the ribcage, lifts from below, and leaves your shoulders completely free. Natural shape, zero compression, zero adjustment.</p>\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <button class=\"faq-question\" aria-expanded=\"false\">\n      Will the straps stay up or will I be adjusting them all day?\n      <span class=\"faq-icon\">+</span>\n    </button>\n    <div class=\"faq-answer\">\n      <p>Zero adjusting — that's the point. Because the CradleBand™ carries the weight from the ribcage, your straps carry almost nothing. They sit relaxed on your shoulders and stay exactly where you put them in the morning. Women in our reviews consistently say the same thing: they got to the end of the day and realized they hadn't touched their bra once.</p>\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <button class=\"faq-question\" aria-expanded=\"false\">\n      I'm between two sizes. Which one should I choose?\n      <span class=\"faq-icon\">+</span>\n    </button>\n    <div class=\"faq-answer\">\n      <p>Go up. The CradleBand™ is designed to sit snug against your ribcage — that's where the support comes from. If the band is too tight, it works against you. Use our 2-question size finder above, and if you're still unsure, size up and we'll exchange it for free if it's not right.</p>\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <button class=\"faq-question\" aria-expanded=\"false\">\n      What is your return policy if it doesn't fit?\n      <span class=\"faq-icon\">+</span>\n    </button>\n    <div class=\"faq-answer\">\n      <p>We have one rule: if it's not comfortable from minute one, you don't keep it. That's our DayOne Guarantee™. Return or exchange within 30 days — no questions, no fine print. We also cover return shipping on exchanges. If the size is wrong, we fix it. Simple.</p>\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <button class=\"faq-question\" aria-expanded=\"false\">\n      Shipping information\n      <span class=\"faq-icon\">+</span>\n    </button>\n    <div class=\"faq-answer\">\n      <p>All orders ship within 24 hours. Standard delivery: 5–7 business days. Express available at checkout. You'll receive a tracking link by email as soon as your order leaves our warehouse. Free shipping on all orders over $50.</p>\n    </div>\n  </div>\n\n</div>\n\n<style>\n.faq-section {\n  background: #ffffff;\n  padding: 40px 20px;\n  max-width: 680px;\n  margin: 0 auto;\n}\n\n.faq-title {\n  font-size: clamp(22px, 5vw, 30px);\n  font-weight: 800;\n  color: #1a1a1a;\n  text-align: center;\n  margin-bottom: 28px;\n}\n\n.faq-item {\n  background: #ffffff;\n  border: 1px solid #ede8e3;\n  border-radius: 14px;\n  margin-bottom: 12px;\n  overflow: hidden;\n}\n\n.faq-question {\n  width: 100%;\n  background: none;\n  border: none;\n  padding: 20px 20px;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  gap: 16px;\n  cursor: pointer;\n  text-align: left;\n  font-size: 15px;\n  font-weight: 700;\n  color: #1a1a1a;\n  line-height: 1.4;\n}\n\n.faq-question:hover { background: #fdf8f5; }\n\n.faq-icon {\n  color: #C4614A;\n  font-size: 22px;\n  font-weight: 400;\n  flex-shrink: 0;\n  transition: transform 0.25s ease;\n  line-height: 1;\n}\n\n.faq-question[aria-expanded=\"true\"] .faq-icon {\n  transform: rotate(45deg);\n}\n\n.faq-answer {\n  display: none;\n  padding: 0 20px 20px;\n}\n\n.faq-answer.open { display: block; }\n\n.faq-answer p {\n  font-size: 14px;\n  color: #666;\n  line-height: 1.7;\n  margin: 0;\n}\n\n@media (max-width: 480px) {\n  .faq-section { padding: 32px 16px; }\n  .faq-question { font-size: 14px; padding: 16px; }\n  .faq-answer { padding: 0 16px 16px; }\n}\n</style>\n\n<script>\ndocument.querySelectorAll('.faq-question').forEach(function(btn) {\n  btn.addEventListener('click', function() {\n    var expanded = this.getAttribute('aria-expanded') === 'true';\n    document.querySelectorAll('.faq-question').forEach(function(b) {\n      b.setAttribute('aria-expanded', 'false');\n      b.nextElementSibling.classList.remove('open');\n    });\n    if (!expanded) {\n      this.setAttribute('aria-expanded', 'true');\n      this.nextElementSibling.classList.add('open');\n    }\n  });\n});\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_EdQ4Xn": {
       "type": "media-with-text",
       "blocks": {
@@ -587,6 +600,7 @@
         "item_N4Bmqr",
         "item_tAYcr8"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
@@ -843,6 +857,7 @@
     "custom_liquid_rQRi84",
     "custom_liquid_xTrrbw",
     "slideshow_6Krcb6",
+    "custom_liquid_hNKzgj",
     "media_with_text_EdQ4Xn",
     "media_with_text_czrzaa",
     "faq_aX8Tqy",
