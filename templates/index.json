@@ -369,6 +369,74 @@
         "text_color": ""
       }
     },
+    "custom_liquid_rQRi84": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div class=\"why-fail-section\">\n\n  <div class=\"why-fail-header\">\n    <h2 class=\"why-fail-title\">You Didn't Lose Your Shape.<br>Your Bra Just Never Kept Up.</h2>\n    <p class=\"why-fail-sub\">Every bra in your drawer was built for a body that no longer needs what they offer. Here's why each one keeps letting you down.</p>\n  </div>\n\n  <div class=\"why-fail-card\">\n    <div class=\"why-fail-card-title\">\n      <span class=\"why-x\">✕</span>\n      <strong>Underwire bras</strong>\n    </div>\n    <p class=\"why-fail-card-body\">Digs into your ribs by noon. Puts all the pressure on two thin straps — so your shoulders carry the weight all day and your neck pays for it by 4pm.</p>\n  </div>\n\n  <div class=\"why-fail-card\">\n    <div class=\"why-fail-card-title\">\n      <span class=\"why-x\">✕</span>\n      <strong>Sports bras</strong>\n    </div>\n    <p class=\"why-fail-card-body\">Compresses instead of supports. Uniboob, no lift, no separation. And around hour six, that band that felt fine in the morning starts to feel like it's slowly tightening around you.</p>\n  </div>\n\n  <div class=\"why-fail-card\">\n    <div class=\"why-fail-card-title\">\n      <span class=\"why-x\">✕</span>\n      <strong>Bralettes</strong>\n    </div>\n    <p class=\"why-fail-card-body\">No structure at all. Fine for a small bust, useless for anything heavy. All the weight ends up on your shoulders — which is exactly where it shouldn't be.</p>\n  </div>\n\n  <div class=\"why-fail-card\">\n    <div class=\"why-fail-card-title\">\n      <span class=\"why-x\">✕</span>\n      <strong>S / M / L wireless bras</strong>\n    </div>\n    <p class=\"why-fail-card-body\">Sized for the model, not your ribcage. Too much stretch, too little structure. You spend the day constantly adjusting yourself back into the cups.</p>\n  </div>\n\n  <div class=\"why-fail-card why-fail-card--solution\">\n    <div class=\"why-fail-card-title\">\n      <span class=\"why-check\">✓</span>\n      <strong>ELORYA CloudCradle™</strong>\n    </div>\n    <p class=\"why-fail-card-body\">No wire. No compression. The CradleBand™ carries the weight from your ribcage — so your shoulders rest, your neck rests, and you forget you're wearing it by noon.</p>\n  </div>\n\n</div>\n\n<style>\n.why-fail-section {\n  background: #f9f5f2;\n  padding: 40px 20px;\n  max-width: 680px;\n  margin: 0 auto;\n}\n\n.why-fail-header {\n  text-align: center;\n  margin-bottom: 28px;\n}\n\n.why-fail-title {\n  font-size: clamp(22px, 5vw, 30px);\n  font-weight: 800;\n  color: #1a1a1a;\n  line-height: 1.25;\n  margin-bottom: 14px;\n}\n\n.why-fail-sub {\n  font-size: 15px;\n  color: #777;\n  line-height: 1.6;\n  max-width: 520px;\n  margin: 0 auto;\n}\n\n.why-fail-card {\n  background: #ffffff;\n  border-radius: 14px;\n  padding: 20px 20px;\n  margin-bottom: 12px;\n  box-shadow: 0 1px 4px rgba(0,0,0,0.06);\n}\n\n.why-fail-card--solution {\n  background: #fdf6f3;\n  border: 2px solid #C4614A;\n}\n\n.why-fail-card-title {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n  margin-bottom: 10px;\n}\n\n.why-fail-card-title strong {\n  font-size: 17px;\n  color: #1a1a1a;\n}\n\n.why-x {\n  color: #C4614A;\n  font-size: 18px;\n  font-weight: 700;\n  line-height: 1;\n  flex-shrink: 0;\n}\n\n.why-check {\n  color: #2e7d32;\n  font-size: 20px;\n  font-weight: 700;\n  line-height: 1;\n  flex-shrink: 0;\n}\n\n.why-fail-card-body {\n  font-size: 14px;\n  color: #555;\n  line-height: 1.65;\n  margin: 0;\n}\n\n@media (max-width: 480px) {\n  .why-fail-section { padding: 32px 16px; }\n  .why-fail-card { padding: 16px; }\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_xTrrbw": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div class=\"expect-section\">\n\n  <h2 class=\"expect-title\">What To Expect</h2>\n\n  <div class=\"expect-card\">\n    <p class=\"expect-tag\">DAY 1</p>\n    <h3 class=\"expect-card-title\">Immediate relief</h3>\n    <p class=\"expect-card-body\">No wire digging into your ribs. No pressure points. Your shoulders drop and the all-day adjusting finally stops.</p>\n  </div>\n\n  <div class=\"expect-card\">\n    <p class=\"expect-tag\">WEEK 1–2</p>\n    <h3 class=\"expect-card-title\">You stop thinking about it</h3>\n    <p class=\"expect-card-body\">The CradleBand™ carries the weight from below — so your neck and shoulders do nothing. You get to 4pm and realize you haven't touched your bra once.</p>\n  </div>\n\n  <div class=\"expect-card\">\n    <p class=\"expect-tag\">WEEK 3–4</p>\n    <h3 class=\"expect-card-title\">Your clothes fit differently</h3>\n    <p class=\"expect-card-body\">Natural lift, natural separation. The tops you stopped wearing start coming back out of the closet.</p>\n  </div>\n\n  <div class=\"expect-card\">\n    <p class=\"expect-tag\">MONTH 2+</p>\n    <h3 class=\"expect-card-title\">You can't go back</h3>\n    <p class=\"expect-card-body\">Women tell us the same thing: they tried wearing their old bra for a day just to check. They sent it back within the hour.</p>\n  </div>\n\n</div>\n\n<style>\n.expect-section {\n  background: #ffffff;\n  padding: 40px 20px;\n  max-width: 680px;\n  margin: 0 auto;\n}\n\n.expect-title {\n  font-size: clamp(24px, 5vw, 32px);\n  font-weight: 800;\n  color: #1a1a1a;\n  text-align: center;\n  margin-bottom: 28px;\n}\n\n.expect-card {\n  background: #f9f5f2;\n  border-radius: 14px;\n  padding: 24px 22px;\n  margin-bottom: 14px;\n}\n\n.expect-tag {\n  font-size: 12px;\n  font-weight: 700;\n  color: #C4614A;\n  text-transform: uppercase;\n  letter-spacing: 0.08em;\n  margin-bottom: 8px;\n}\n\n.expect-card-title {\n  font-size: 20px;\n  font-weight: 700;\n  color: #1a1a1a;\n  margin-bottom: 10px;\n  line-height: 1.3;\n}\n\n.expect-card-body {\n  font-size: 14px;\n  color: #666;\n  line-height: 1.65;\n  margin: 0;\n}\n\n@media (max-width: 480px) {\n  .expect-section { padding: 32px 16px; }\n  .expect-card { padding: 18px 16px; }\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_6Krcb6": {
+      "type": "slideshow",
+      "blocks": {
+        "image_JFqncV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_11_juil._2026_00_29_35.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_JFqncV"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 4,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "media_with_text_EdQ4Xn": {
       "type": "media-with-text",
       "blocks": {
@@ -558,6 +626,7 @@
       "block_order": [
         "heading_jexCJ8"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -596,6 +665,7 @@
       "block_order": [
         "image_yqrBqh"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
@@ -741,6 +811,7 @@
         "testimonial_BMwFVa",
         "testimonial_iMfLKg"
       ],
+      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "full_width": true,
@@ -769,6 +840,9 @@
     "multi_column_k9tG6W",
     "featured_product_WYUtAJ",
     "custom_liquid_yBcjUm",
+    "custom_liquid_rQRi84",
+    "custom_liquid_xTrrbw",
+    "slideshow_6Krcb6",
     "media_with_text_EdQ4Xn",
     "media_with_text_czrzaa",
     "faq_aX8Tqy",
