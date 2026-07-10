@@ -27,7 +27,7 @@
         "image_CHGkji": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Nude_Beige_2.png",
+            "image": "shopify://shop_images/ChatGPT_Image_10_juil._2026_19_43_35.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -69,7 +69,6 @@
         "logo_R6XHma": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Vogue__magazine_-Logo.wine.png",
             "logo_width": 300,
             "link": ""
           }
@@ -77,7 +76,6 @@
         "logo_fcKXaG": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
             "logo_width": 240,
             "link": ""
           }
@@ -85,7 +83,6 @@
         "logo_FAHHef": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ELLE-logo.png",
             "logo_width": 250,
             "link": ""
           }
@@ -93,7 +90,6 @@
         "logo_dhiREe": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie-Claire-logo.png",
             "logo_width": 260,
             "link": ""
           }
@@ -105,7 +101,6 @@
         "logo_FAHHef",
         "logo_dhiREe"
       ],
-      "disabled": true,
       "name": "Logo list",
       "settings": {
         "full_width": true,
@@ -123,32 +118,6 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_qMKYdU": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Kwxiib": {
-          "type": "heading",
-          "settings": {
-            "text": "Finally wear dresses in winter without freezing or shapewear.",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_Kwxiib"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -156,7 +125,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/WARM_IN_EXTREME_COLD_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -166,7 +134,6 @@
     },
     "custom_liquid_gnJhNY": {
       "type": "custom-liquid",
-      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
@@ -178,77 +145,12 @@
         "text_color": ""
       }
     },
-    "rich_text_KiattM": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_gtfBVF": {
-          "type": "heading",
-          "settings": {
-            "text": "Why confident women choose Sorelya",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_gtfBVF"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "media_with_text_EdQ4Xn": {
-      "type": "media-with-text",
-      "blocks": {
-        "video_gwPnHz": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/c4742090cd8a414f9cdebd608e9dbe4a.mp4",
-            "external_video_url": "",
-            "autoplay": true,
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 24,
-            "subheading": "",
-            "title": "",
-            "content": "<p><strong>Forget wardrobe anxiety and winter limitations.</strong></p><ul><li>Bare-skin illusion</li><li>Sculpting compression</li><li>Warm to -10°F</li><li>Never rips + lifetime replacement</li></ul>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_gwPnHz"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "small"
-      }
-    },
     "multi_column_k9tG6W": {
       "type": "multi-column",
       "blocks": {
         "item_kWAwir": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2682245c-7082-4e4f-b303-648caec25ba7_1.webp",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -261,7 +163,6 @@
         "item_DqqLiw": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2_c49e5623-fa01-4c07-85a4-b1423092be05.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -274,7 +175,6 @@
         "item_VrzGmK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3_0cf0099b-c1c5-4b56-b1d4-4da770e199e8.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -287,7 +187,6 @@
         "item_DetHQz": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4_40cb99d6-51b2-4c24-9c1b-830e7c9b8f60.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -324,7 +223,7 @@
         "liquid_7YKANC": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display: flex; align-items: center; background-color: #FAFAFA; padding: 8px 8px; border-radius: 8px; width: fit-content; margin: 10px 0; text-align: left;\">\n  <!-- Stars -->\n  <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/stars-4.5-trust-pilot.svg?v=1747080316\" alt=\"5 stars\" class=\"stars-img\" style=\"width: 105px; margin-right: 8px;\">\n  <!-- Text -->\n  <div style=\"color: #4A4A4A; font-size: 11.1px; text-align: left;\">\n    <span style=\"font-weight: 400;\">Rated</span> <span style=\"color: #000000; font-weight: 700;\">4.7</span> <span style=\"font-weight: 400;\">based on</span> <span style=\"color: #000000; font-weight: 700;\">12,000+ reviews</span>\n  </div>\n</div>"
+            "liquid": "<div style=\"display: flex; align-items: center; background-color: #FAFAFA; padding: 8px 8px; border-radius: 8px; width: fit-content; margin: 10px 0; text-align: left;\">\n  <!-- Stars -->\n  <img src=\"https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg\" alt=\"5 stars\" style=\"width: 105px; margin-right: 8px;\">\n  <!-- Text -->\n  <div style=\"color: #4A4A4A; font-size: 11.1px; text-align: left;\">\n    <span style=\"font-weight: 400;\">Rated</span> <span style=\"color: #000000; font-weight: 700;\">4.7</span> <span style=\"font-weight: 400;\">based on</span> <span style=\"color: #000000; font-weight: 700;\">2,000+ reviews</span>\n  </div>\n</div>"
           }
         },
         "title_8Ka9pi": {
@@ -345,36 +244,21 @@
             "liquid": "<ul style=\"list-style: none; padding: 0; font-size: 14px;\">\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Legs that look perfect even at -10°F\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Sculpting effect smooths cellulite and imperfections\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Instant slimming without shapewear underneath\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Never rips – premium durability that lasts all season\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Bare skin illusion – nobody knows your secret\n  </li>\n  <li style=\"margin-bottom: 10px;\">\n    <span style=\"color: #34a853;\">✔</span> Confident from first wear, no adjustment needed\n  </li>\n</ul>"
           }
         },
-        "kaching_bundles_app_block_Mx3Xtc": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}",
-            "manual_deal_block_id": ""
-          }
-        },
         "liquid_Afy9qD": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    font-size: 10px;\n    margin-right: 8px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffe5e5;\n    padding: 4px 12px;\n    border-radius: 10px;\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n  }\n  .text {\n    color: #AD0000;\n    font-weight: 600;\n    font-size: 13px;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\" aria-hidden=\"true\">&#9679;</div>\n  <div class=\"text\">Limited stock! Popular shades sell out fast</div>\n</div>"
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    font-size: 10px;\n    margin-right: 8px;\n  }\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n  .red-div {\n    background-color: #ffe5e5;\n    padding: 4px 12px;\n    border-radius: 10px;\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n  }\n  .text {\n    color: #AD0000;\n    font-weight: 600;\n    font-size: 13px;\n  }\n</style>\n<div class=\"red-div\">\n  <div class=\"blink\" aria-hidden=\"true\">&#9679;</div>\n  <div class=\"text\">Limited stock! Only 15 units left</div>\n</div>"
           }
         },
         "buy_buttons_dqab8L": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": false,
+            "show_payment_button": true,
             "show_gift_card_recipient": true,
             "atc_button_background": "#00a341",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
-          }
-        },
-        "image_JnHyHE": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Upcart_Trust_Badge_1770798516910.png",
-            "alignment": "center",
-            "max_width": 250
           }
         },
         "image_7k6WKf": {
@@ -418,7 +302,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Shipping Information",
-            "content": "<p>Just placed your order? 🎉 Great choice!<br/><br/>Our team gets to work immediately to prepare your package with care.<br/><br/>⏱️ Processing time: Within 24-48 hours<br/>🚚 Delivery: 7-10 business days (free shipping)<br/><br/>Once your order ships, you'll receive a confirmation email with your tracking number. With one click, you can follow your package all the way to your doorstep.<br/><br/>Note: During high-demand periods, popular shades like Porcelain and Sunkissed sell out fast.<br/><br/>Questions? Our customer support team is available 7 days a week.</p>",
+            "content": "<p><strong>Just placed your order? 🎉 Great choice!</strong></p><p>Our team gets to work immediately to prepare your package with care.</p><p><strong>⏱️ Processing time:</strong> Within 24-48 hours</p><p>Once your order ships, you'll receive <strong>a confirmation email with your tracking number</strong>. With one click, you can follow your package all the way to your doorstep.</p><p>Questions? Our customer support team is available 7 days a week.</p>",
             "page": ""
           }
         },
@@ -427,8 +311,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Risk-Free Guarantee",
-            "content": "<p>Try Sorelya risk-free for 30 days. Don't love them? Return for a full refund—no questions asked.<br/><br/>Free Size/Color Exchange<br/>Ordered the wrong shade or size? We'll exchange them free. You only pay return shipping.<br/><br/>Lifetime Replacement Warranty<br/>If they ever rip or lose their sculpting power, we replace them. Free. Forever.<br/><br/>Zero risk. Just confidence.</p>",
+            "title": "30-Day Money-Back Guarantee",
+            "content": "<p>Try SORELYA® risk-free for 30 days. If you're not satisfied you can request a full refund.</p>",
             "page": ""
           }
         }
@@ -438,10 +322,8 @@
         "title_8Ka9pi",
         "text_HinwiJ",
         "liquid_6ewCBU",
-        "kaching_bundles_app_block_Mx3Xtc",
         "liquid_Afy9qD",
         "buy_buttons_dqab8L",
-        "image_JnHyHE",
         "image_7k6WKf",
         "liquid_FGMXwE",
         "liquid_t48HqY",
@@ -458,7 +340,7 @@
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "thumbnails",
-        "enable_video_autoplay": false,
+        "enable_video_autoplay": true,
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
@@ -604,189 +486,20 @@
         "input_text_color": ""
       }
     },
-    "video_testimonials_slider_hxxynq": {
-      "type": "video-testimonials-slider",
-      "blocks": {
-        "video_slide_6zcqdc": {
-          "type": "video_slide",
-          "settings": {
-            "video_shopify": "shopify://files/videos/reelUp_6868665820260129131230_short (1).mp4",
-            "video_embed_url": "",
-            "title": "Sarah C.",
-            "stars_count": 5,
-            "badge_text": ""
-          }
-        },
-        "video_slide_6B6RbH": {
-          "type": "video_slide",
-          "settings": {
-            "video_shopify": "shopify://files/videos/reelUp_6868688220260129131300_short.mp4",
-            "video_embed_url": "",
-            "title": "Jessica S.",
-            "stars_count": 5,
-            "badge_text": ""
-          }
-        },
-        "video_slide_4kTdhr": {
-          "type": "video_slide",
-          "settings": {
-            "video_shopify": "shopify://files/videos/reelUp_6868665320260129131229_short.mp4",
-            "video_embed_url": "",
-            "title": "Emily F.",
-            "stars_count": 5,
-            "badge_text": ""
-          }
-        },
-        "video_slide_PxXVNr": {
-          "type": "video_slide",
-          "settings": {
-            "video_shopify": "shopify://files/videos/reelUp_6868665220260129131229_short.mp4",
-            "video_embed_url": "",
-            "title": "Ashley C.",
-            "stars_count": 5,
-            "badge_text": ""
-          }
-        },
-        "video_slide_wDTzR9": {
-          "type": "video_slide",
-          "settings": {
-            "video_shopify": "shopify://files/videos/reelUp_6868665020260129131229_short.mp4",
-            "video_embed_url": "",
-            "title": "Lauren A.",
-            "stars_count": 5,
-            "badge_text": ""
-          }
-        },
-        "video_slide_hYWxbf": {
-          "type": "video_slide",
-          "settings": {
-            "video_shopify": "shopify://files/videos/reelUp_6868665120260129131229_short.mp4",
-            "video_embed_url": "",
-            "title": "Rachel P.",
-            "stars_count": 5,
-            "badge_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_slide_6zcqdc",
-        "video_slide_6B6RbH",
-        "video_slide_4kTdhr",
-        "video_slide_PxXVNr",
-        "video_slide_wDTzR9",
-        "video_slide_hYWxbf"
-      ],
-      "name": "Témoignages Vidéo",
-      "settings": {
-        "heading": "12,000+ women obsessed with their legs",
-        "slides_per_view": 4,
-        "slides_per_view_mobile": 1.5,
-        "slider_gap": 32,
-        "slider_gap_mobile": 8,
-        "slides_rotate": 0,
-        "slide_padding_vertical": 0,
-        "slide_padding_vertical_mobile": 0,
-        "slide_padding_horizontal": 0,
-        "slide_padding_horizontal_mobile": 0,
-        "slide_border_radius": 13,
-        "slide_border_thickness": 0,
-        "slide_shadow": true,
-        "media_aspect_ratio": "portrait",
-        "media_aspect_ratio_mobile": "portrait",
-        "slide_overlay": 0.2,
-        "content_horizontal_position": "center",
-        "content_horizontal_position_mobile": "center",
-        "content_vertical_position": "bottom",
-        "content_vertical_position_mobile": "bottom",
-        "use_custom_font": false,
-        "slide_heading_font": "assistant_n4",
-        "slide_heading_size": 17,
-        "slide_heading_size_mobile": 14,
-        "slide_heading_line_height": 110,
-        "stars_size": 16,
-        "stars_size_mobile": 13,
-        "stars_margin_top": 16,
-        "stars_margin_top_mobile": 9,
-        "hide_stars": false,
-        "use_play_button": true,
-        "play_button_size": 40,
-        "play_button_size_mobile": 40,
-        "play_button_icon_size": 24,
-        "play_button_icon_size_mobile": 24,
-        "play_button_border_thickness": 0,
-        "use_mute_button": false,
-        "mute_button_size": 40,
-        "mute_button_size_mobile": 40,
-        "mute_button_icon_size": 24,
-        "mute_button_icon_size_mobile": 24,
-        "mute_button_border_thickness": 0,
-        "arrow_size": 20,
-        "arrow_size_mobile": 20,
-        "arrow_icon_size": 4,
-        "slide_border_color": "#000000",
-        "slide_shadow_color": "#000000",
-        "slide_overlay_color": "#000000",
-        "slide_title_color": "#ffffff",
-        "slide_stars_color": "#ffffff",
-        "play_button_color": "#ffffff",
-        "play_button_hover_color": "#ffffff",
-        "play_button_bg_color": "#000000",
-        "play_button_bg_hover_color": "#434343",
-        "mute_button_color": "#ffffff",
-        "mute_button_hover_color": "#ffffff",
-        "mute_button_bg_color": "#000000",
-        "mute_button_bg_hover_color": "#434343",
-        "arrow_color": "#434343",
-        "arrow_bg_color": "#434343",
-        "arrow_bg_hover_color": "#ffffff",
-        "arrow_border_color": "#000000",
-        "arrow_border_hover_color": "#000000",
-        "section_bg_color": "#ffffff",
-        "section_bg_gradient": "",
-        "section_border_color": "#000000",
-        "section_margin_top": 0,
-        "section_margin_bottom": 0,
-        "custom_css": ""
-      }
-    },
-    "media_with_text_czrzaa": {
+    "media_with_text_EdQ4Xn": {
       "type": "media-with-text",
       "blocks": {
-        "image_nFPiFX": {
+        "image_ABMxkg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/waist.webp",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 24,
-            "subheading": "",
-            "title": "Confidence without compromise",
-            "content": "<p><strong>Forget wardrobe anxiety and winter limitations.</strong></p><ul><li>Bare-skin illusion</li><li>Sculpting compression</li><li>Warm to -10°F</li><li>Never rips + lifetime replacement</li></ul>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "image_GHmw6n": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/bronze1.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Designed for your body",
-            "content": "<p><strong>Every shade, every size.</strong><br/>From XS to 3XL and in four sophisticated shades, these tights are made to match your skin tone perfectly—offering a flawless, natural illusion that looks like you.</p><p><strong>Confidence that radiates.</strong><br/>When your legs look this good, you carry yourself differently. More poised, more magnetic, ready to own any room—and everyone notices.</p><p><strong>Perfection in every detail.</strong><br/>The sheer foot creates an incredibly realistic bare-skin effect, meticulously crafted from waist to toe so no one suspects your secret.</p>",
+            "title": "You shouldn't be afraid to go outside.",
+            "content": "<p>It starts with the first step. Eyes glued to the ground. Short, careful strides. Arms slightly out from your body. Shoulders tense.</p><p>Last winter, over 1 million Americans sought medical help after slipping on ice. Countless more chose to stay indoors for safety's sake.</p><p><strong>Going outside shouldn't feel like taking a risk.</strong></p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -799,15 +512,149 @@
         }
       },
       "block_order": [
-        "image_nFPiFX",
-        "image_GHmw6n"
+        "image_ABMxkg"
       ],
-      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
         "alternate_media_position": false,
         "spacing": "small"
+      }
+    },
+    "media_with_text_czrzaa": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_GHmw6n": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "The sole that won't fail you in the cold.",
+            "content": "<p>Most winter boots lose grip when temperatures drop. The rubber hardens. You slip even in \"winter boots.\"</p><p>ELORYA's sole stays flexible in sub-zero temps. Aggressive tread bites into ice. Grip holds even when wet.</p><p>2,000+ customers tested them. Most feel stable from step one.</p><p><strong>30-day guarantee. Don't like them? Full refund.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_GHmw6n"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
+    "faq_aX8Tqy": {
+      "type": "faq",
+      "blocks": {
+        "item_AxYrhi": {
+          "type": "item",
+          "settings": {
+            "title": "Do they fit true to size?",
+            "content": "<p>Yes, our boots fit true to US sizing standards. Choose your regular size. If you're between sizes, size up for extra comfort.</p>"
+          }
+        },
+        "item_YVPrFj": {
+          "type": "item",
+          "settings": {
+            "title": "How warm are they?",
+            "content": "<p>The boots feature thick winter insulation that keeps feet warm down to -20°F. Engineered for harsh North American winters.</p>"
+          }
+        },
+        "item_cFtpRw": {
+          "type": "item",
+          "settings": {
+            "title": "Are they bulky or heavy?",
+            "content": "<p>They're 45% lighter than traditional winter boots while providing the same warmth and protection. You won't feel weighed down.</p>"
+          }
+        },
+        "item_eT3eQK": {
+          "type": "item",
+          "settings": {
+            "title": "Can I use custom insoles?",
+            "content": "<p>Yes, the boots work well with custom insoles for extra support and comfort.</p>"
+          }
+        },
+        "item_K9DezK": {
+          "type": "item",
+          "settings": {
+            "title": "How do I clean them?",
+            "content": "<p>Wipe with a damp cloth. For tougher dirt, use mild soap and water. They dry quickly.</p>"
+          }
+        },
+        "item_A6K9UF": {
+          "type": "item",
+          "settings": {
+            "title": "Will they last more than one winter?",
+            "content": "<p>Yes. Built with durable materials designed for multiple seasons. Many customers are on their 3rd+ winter with the same pair.</p>"
+          }
+        },
+        "item_HXkUiJ": {
+          "type": "item",
+          "settings": {
+            "title": "Can I wear them in the city or just for outdoor activities?",
+            "content": "<p>Both. They work for snow shoveling, dog walks, commuting, and everyday winter wear. Clean design that doesn't look overly \"outdoorsy.\"</p>"
+          }
+        },
+        "item_N4Bmqr": {
+          "type": "item",
+          "settings": {
+            "title": "Do they work for wide feet?",
+            "content": "<p>Yes. The wide toe box eliminates cramping and works well for wider feet or sensitive toes.</p>"
+          }
+        },
+        "item_tAYcr8": {
+          "type": "item",
+          "settings": {
+            "title": "Can I return them after wearing them outside?",
+            "content": "<p>Yes. 30-day guarantee even if you've worn them. If they don't work for you, full refund.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_AxYrhi",
+        "item_YVPrFj",
+        "item_cFtpRw",
+        "item_eT3eQK",
+        "item_K9DezK",
+        "item_A6K9UF",
+        "item_HXkUiJ",
+        "item_N4Bmqr",
+        "item_tAYcr8"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     },
     "rich_text_XAgGC3": {
@@ -816,7 +663,7 @@
         "heading_jexCJ8": {
           "type": "heading",
           "settings": {
-            "text": "Why Everyone's Switching to Sorelya",
+            "text": "+2,000 customers staying warm, dry, and stable.",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -842,12 +689,11 @@
         "image_yqrBqh": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WARM_IN_EXTREME_COLD_3.png",
             "media_width": 60,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
-            "icon_width": 24,
+            "icon_width": 48,
             "subheading": "",
             "title": "",
             "content": "",
@@ -867,187 +713,9 @@
       ],
       "name": "Media with text",
       "settings": {
-        "full_width": true,
-        "alternate_media_position": false,
-        "spacing": "none"
-      }
-    },
-    "rich_text_mPx3EF": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_wWbpLx": {
-          "type": "heading",
-          "settings": {
-            "text": "Confidence without compromise",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "subheading_bBWR3a": {
-          "type": "subheading",
-          "settings": {
-            "text": "Stay warm. Look flawless. Feel sculpted."
-          }
-        }
-      },
-      "block_order": [
-        "heading_wWbpLx",
-        "subheading_bBWR3a"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "media_with_text_hkzmtX": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_xhKihY": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/bronze1.png",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 24,
-            "subheading": "",
-            "title": "",
-            "content": "<h4>✔ Bare-Skin Illusion</h4><h4>✔ Sculpting Compression</h4><h4>✔ All-Day Strength</h4><p></p><p><strong>Sorelya isn’t just tights. It’s confidence you wear.</strong></p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_xhKihY"
-      ],
-      "name": "Media with text",
-      "settings": {
         "full_width": false,
         "alternate_media_position": false,
-        "spacing": "small"
-      }
-    },
-    "faq_aX8Tqy": {
-      "type": "faq",
-      "blocks": {
-        "item_AxYrhi": {
-          "type": "item",
-          "settings": {
-            "title": "Do they actually hide cellulite or just smooth it a little?",
-            "content": "<p><strong>They HIDE it</strong>. Completely. The compression fabric works like an Instagram filter for your legs cellulite, veins, scars, stretch marks all disappear. You're left with smooth, even-toned perfection. Unlike regular tights that show every dimple, Sorelya's sculpting technology smooths skin texture while maintaining the bare leg look. Think of it as Photoshop you can wear.</p>"
-          }
-        },
-        "item_YVPrFj": {
-          "type": "item",
-          "settings": {
-            "title": "Can I skip shapewear underneath?",
-            "content": "<p><strong>You can skip it</strong>. Sorelya has built-in sculpting control from waist to thigh. The high-waisted compression band flattens your stomach and cinches your waist like $60 shapewear, but without the extra bulk or VPL (visible panty lines). You get instant slimming without layering multiple products. One pair does the job of tights + shapewear + warmth. Finally.</p>"
-          }
-        },
-        "item_cFtpRw": {
-          "type": "item",
-          "settings": {
-            "title": "How long before the sculpting effect starts to fade?",
-            "content": "<p><strong>It doesn't fade. </strong>The compression is built into the fabric structure, not a coating that washes out. We've tested these through 200+ wash cycles the shaping power stays consistent. When customers say \"they're still like new after 6 months,\" they mean the sculpting too, not just durability. If the control band ever loses elasticity, our Lifetime Replacement Guarantee covers you.</p>"
-          }
-        },
-        "item_eT3eQK": {
-          "type": "item",
-          "settings": {
-            "title": "Will they show under bodycon dresses or tight skirts?",
-            "content": "<p><strong>Nope.</strong> They're designed to be invisible under even the most form-fitting clothes. No visible seams, no panty lines, no telltale waistband ridge. The single-seam construction in back eliminates bulk while the seamless sides lay completely flat. You can wear them with your tightest pencil skirt or bodycon dress, nobody will know your secret.</p>"
-          }
-        },
-        "item_tAYcr8": {
-          "type": "item",
-          "settings": {
-            "title": "How fast will I receive my order?",
-            "content": "<p><strong>Free shipping to all US addresses. Arrives in 7-10 business days.</strong></p><p>Once you order, we ship within 24-48 hours. You'll receive a tracking number via email so you can follow your package every step of the way.</p><p><strong>Shipping timeline:</strong><br/>- Processing: 24-48 hours<br/>- Delivery: 7-10 business days<br/>- Tracking included on all orders</p><p><strong>Note:</strong> During high-demand periods (like our current Valentine's promotion), please allow an extra 1-2 days for processing. Popular shades like Porcelain and Sunkissed sell out fast, so if your size is in stock, we recommend ordering now.</p><p><strong>International shipping available</strong> at checkout.</p>"
-          }
-        },
-        "item_K9DezK": {
-          "type": "item",
-          "settings": {
-            "title": "What if I bend over or sit down?",
-            "content": "<p><strong>Total coverage, every angle.</strong> We've thought of everything. The opacity is strategically graduated—thicker through the body, sheer at the feet. When you bend, sit, or move, the fabric maintains full coverage without becoming see-through or revealing anything you don't want seen. Multiple customers have literally tested this with mirror selfies (their words, not ours 😅). Full confidence, zero wardrobe malfunctions.</p>"
-          }
-        },
-        "item_A6K9UF": {
-          "type": "item",
-          "settings": {
-            "title": "Are they warm enough for ACTUAL cold?",
-            "content": "<p><strong>Rated to -10°F (-23°C).</strong> That's brutal winter cold, not just autumn breeze.The fleece lining creates a thermal barrier that traps body heat like winter pants, but from the outside, you look like you're in sheer tights. You can wear dresses in January in Chicago and actually be comfortable.</p><p>Important: The feet are sheer (not lined) so they don't overheat in boots. If you have chronically cold feet, add thin socks.</p>"
-          }
-        },
-        "item_HXkUiJ": {
-          "type": "item",
-          "settings": {
-            "title": "I'm tall (5'8\"+) will these be long enough or awkwardly short?",
-            "content": "<p><strong>Size up if you're 5'8\" or taller. </strong>While our sizing is based on weight, height matters for inseam length. If you're between sizes, always go larger for comfort. A size L/XL will fit a 5'9\" woman perfectly, while M/L might feel slightly short in the legs. Check the size chart and when in doubt, choose the next size up. They'll still provide full sculpting support.</p>"
-          }
-        },
-        "item_N4Bmqr": {
-          "type": "item",
-          "settings": {
-            "title": "Why are these $49 when I can get thermal tights for $20?",
-            "content": "<p><strong>Because $20 tights don't do what Sorelya does. </strong>Cheap thermal leggings give you warmth. Sorelya gives you:</p><ul><li>Warmth at -10°F</li><li>Sculpted curves (no flatten effect)</li><li>Cellulite erasing</li><li>Instant slimming</li><li>Bare skin illusion</li><li>Lifetime durability</li></ul><p>Think of it this way: You'd spend $180/year replacing $15 drugstore tights that rip constantly. Or $49 once for tights that last multiple winters AND make you look incredible. Plus, our Lifetime Replacement Guarantee means if they ever rip, we send new ones free. Forever.</p><p><strong>Investment vs. expense.</strong></p>"
-          }
-        },
-        "item_8YXCyW": {
-          "type": "item",
-          "settings": {
-            "title": "What if they don't fit or I don't love them?",
-            "content": "<p><strong>You have THREE guarantees. Zero risk.</strong></p><p><strong>1. 30-Day Satisfaction Guarantee</strong><br/>Don't love them? Return for a full refund. No questions asked. You don't even need to explain why.</p><p><strong>2. Free Size/Color Exchange</strong><br/>Ordered the wrong shade or size? We'll exchange them free. You only pay return shipping (usually $5-8).</p><p><strong>3. Lifetime Replacement Warranty</strong><br/>If they ever rip, tear, or lose their sculpting power, we replace them. <strong>Free. Forever.</strong> This isn't a 90-day thing—we mean LIFETIME.</p><p><strong>Bottom line:</strong> Try them risk-free. Either they become your winter essential and make you feel incredible, or we refund every penny. Simple.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_AxYrhi",
-        "item_YVPrFj",
-        "item_cFtpRw",
-        "item_eT3eQK",
-        "item_tAYcr8",
-        "item_K9DezK",
-        "item_A6K9UF",
-        "item_HXkUiJ",
-        "item_N4Bmqr",
-        "item_8YXCyW"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
+        "spacing": "none"
       }
     },
     "testimonials_gcYEBK": {
@@ -1060,8 +728,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "",
-            "title": "02-20-2026 · Emily R.",
-            "content": "<p>Wore these with a dress to dinner. My husband kept staring and finally asked if I lost weight. Nope, just better tights 😏 Ordering 2 more pairs.</p>"
+            "title": "01-28-2026 · Michael T",
+            "content": "<p>Been wearing these for 3 weeks now in Chicago. Walk my dog twice a day, rain or snow. My old Columbias would leave my feet frozen after 20 minutes. These? Warm the entire walk. The wide toe box is a game-changer - no more cramped toes. Worth every penny.</p>"
           }
         },
         "testimonial_UGQYqW": {
@@ -1071,8 +739,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "",
-            "title": "02-17-2026 · Jessica M.",
-            "content": "<p>I work downtown and refused to freeze in dresses anymore. These changed everything. Wore them in 18°F weather yesterday with a midi skirt—totally warm, looked flawless. My coworkers keep asking how I'm \"brave enough\" for dresses in winter lol. If only they knew. Size M/L, 5'6\" 148lbs. Perfect fit.</p>"
+            "title": "01-25-2026 · Sarah K.",
+            "content": "<p>Bought these after slipping on my driveway and nearly breaking my wrist. The grip is NO JOKE. Walked on pure ice yesterday and felt completely stable. First winter boots that actually deliver on the non-slip promise.</p>"
           }
         },
         "testimonial_FXDEwy": {
@@ -1082,8 +750,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "",
-            "title": "02-16-2026 · Celya K.",
-            "content": "<p>Haven't felt this good in my body since before kids. These don't just cover they actually make me look better. Obsessed.</p>"
+            "title": "01-22-2026 · James R.",
+            "content": "<p>I work construction in Minnesota. On my feet 10+ hours in the cold. These boots keep my feet warm AND comfortable all day. No break-in period needed. Just put them on and they felt great from day one.</p>"
           }
         },
         "testimonial_QLjQpD": {
@@ -1093,8 +761,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "",
-            "title": "02-15-2026 · Linda M",
-            "content": "<p>I tested every \"thermal fleece tight\" on Amazon before finding these. The others either made my butt flat (diaper effect 🤢), were see-through when I bent over or ripped within a week Sorelya does NONE of that. The bare leg illusion is crazy realistic too.</p>"
+            "title": "01-16-2026 · Linda M",
+            "content": "<p>Got these for my husband (72) after he kept complaining about his old boots being too tight. He says the wide fit is \"like heaven\" and he can actually feel his toes again. He wears them every single day now. Best gift I've gotten him in years.</p>"
           }
         },
         "testimonial_3dWeLp": {
@@ -1104,8 +772,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "",
-            "title": "02-13-2026 · Lauren T.",
-            "content": "<p>Wore these to brunch. Got asked 3 times where I got them. Everyone's shocked when I say they're tights. Look like actual skin.</p>"
+            "title": "01-16-2026 · David H.",
+            "content": "<p>Skeptical at first - tried so many \"winter boots\" that failed. But these are different. Sole stays flexible in the cold. Grip on ice is solid. Feet stay dry even after hours outside. Finally found boots that work.</p>"
           }
         },
         "testimonial_bB89eU": {
@@ -1115,8 +783,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "",
-            "title": "02-12-2026 · Karen W.",
-            "content": "<p>I'm 5'5\", 178lbs, size 14 jeans, carry weight in my stomach and thighs. Got the L/XL and they fit PERFECTLY.</p>"
+            "title": "01-12-2026 · Karen W.",
+            "content": "<p>Commute to work on foot every day. These boots are lighter than my old ones but just as warm. Love that I don't look like I'm heading to the Arctic either - they're actually stylish enough for the office.</p>"
           }
         },
         "testimonial_6CqNny": {
@@ -1124,10 +792,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 5,
+            "rating": 4,
             "author": "",
-            "title": "02-12-2026 · Nicole P.",
-            "content": "<p>Needed to feel confident and he took me somewhere fancy (unexpected!). These saved me. Little black dress + these tights + heels. Got a second date AND he said I looked \"stunning.\" They're like Spanx but nobody can tell you're wearing them. 10/10 recommend for dates.</p>"
+            "title": "01-10-2026 · Robert G.",
+            "content": "<p>Walk 3 miles every morning, no matter the weather. My feet used to be numb halfway through. Not anymore. Warm from start to finish. The traction on icy sidewalks is excellent too.</p>"
           }
         },
         "testimonial_Y3UXYY": {
@@ -1135,10 +803,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 5,
+            "rating": 4,
             "author": "",
-            "title": "02-11-2026 · Jennifer L.",
-            "content": "<p>Still perfect after 2 months. Wash them every week. Zero signs of wear. My cat even tried to murder them and they didn't rip. Magic.</p>"
+            "title": "01-08-2026 · Jennifer L.",
+            "content": "<p>Customer service was great when I had questions about sizing. Boots arrived fast and fit perfectly. Warm, waterproof, comfortable. Everything they promised.</p>"
           }
         },
         "testimonial_HCWEMd": {
@@ -1148,8 +816,8 @@
             "show_rating": true,
             "rating": 5,
             "author": "",
-            "title": "02-10-2026 ·Katie B.",
-            "content": "<p>I haven't worn a dress to work in 3 winters because I was always freezing or uncomfortable in thick leggings that looked too casual. Last week I wore a pencil skirt with these to a client meeting. Felt confident, looked put-together, stayed warm the whole day.</p>"
+            "title": "01-05-2026 · Tom S.",
+            "content": "<p>Finally, boots that don't squeeze my feet. The wide toe box makes all the difference. Wore them shoveling snow for 2 hours - feet stayed warm and dry. Highly recommend.</p>"
           }
         },
         "testimonial_BMwFVa": {
@@ -1157,10 +825,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "",
-            "title": "02-09-2026 · Patricia D.",
-            "content": "<p>Love how they look and feel but took 12 days to arrive and $49 is steep. </p>"
+            "title": "01-03-2026 · Patricia D.",
+            "content": "<p>Bought for my mom. She can put them on herself without help, which is huge for her independence. She says they're the most comfortable winter boots she's ever owned.</p>"
           }
         },
         "testimonial_iMfLKg": {
@@ -1168,10 +836,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "",
-            "title": "02-07-2026 · Stephanie R.",
-            "content": "<p>I'm 5'2, the waistband sits a bit high. Not a dealbreaker but FYI. Still wearing them constantly.</p>"
+            "title": "12-30-2025 · Mark B.",
+            "content": "<p>Best winter boots I've owned. Period.</p>"
           }
         }
       },
@@ -1211,21 +879,16 @@
     "rich_text_EHTNaF",
     "slideshow_GAJrtf",
     "logo_list_4DTGtf",
-    "rich_text_qMKYdU",
     "image-with-text-overlay",
     "custom_liquid_gnJhNY",
-    "rich_text_KiattM",
-    "media_with_text_EdQ4Xn",
     "multi_column_k9tG6W",
     "featured_product_WYUtAJ",
     "featured_product_cKRAm3",
-    "video_testimonials_slider_hxxynq",
+    "media_with_text_EdQ4Xn",
     "media_with_text_czrzaa",
+    "faq_aX8Tqy",
     "rich_text_XAgGC3",
     "media_with_text_zpfxxP",
-    "rich_text_mPx3EF",
-    "media_with_text_hkzmtX",
-    "faq_aX8Tqy",
     "testimonials_gcYEBK"
   ]
 }
