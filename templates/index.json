@@ -69,6 +69,7 @@
         "logo_R6XHma": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/VOGUE_LOGO.svg",
             "logo_width": 300,
             "link": ""
           }
@@ -76,21 +77,32 @@
         "logo_fcKXaG": {
           "type": "logo",
           "settings": {
-            "logo_width": 240,
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo.svg",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_FAHHef": {
           "type": "logo",
           "settings": {
-            "logo_width": 250,
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_dhiREe": {
           "type": "logo",
           "settings": {
-            "logo_width": 260,
+            "logo": "shopify://shop_images/Grazia-Logo_svg.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_iwwbmd": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Glamour-Logo.svg",
+            "logo_width": 120,
             "link": ""
           }
         }
@@ -99,7 +111,8 @@
         "logo_R6XHma",
         "logo_fcKXaG",
         "logo_FAHHef",
-        "logo_dhiREe"
+        "logo_dhiREe",
+        "logo_iwwbmd"
       ],
       "name": "Logo list",
       "settings": {
@@ -125,6 +138,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_10_juil._2026_22_20_59.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
