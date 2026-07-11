@@ -95,7 +95,7 @@
           "settings": {
             "image_width": 170,
             "heading_size": "h4",
-            "title": "Melde dich für Style-Geheimnisse und exklusive Angebote an.",
+            "title": "Sign up for style secrets and exclusive offers",
             "content": ""
           }
         },
@@ -110,8 +110,8 @@
         "text_Hf3zNE": {
           "type": "text",
           "settings": {
-            "title": "Brauchst du Hilfe?",
-            "content": "<p><strong>Kontaktiere uns über unser Formular auf der Kontaktseite oder per E-Mail an </strong><a href=\"mailto:contact@sorelya.com\"><strong>contact@sorelya.com<br/></strong></a><br/><strong>Öffnungszeiten:</strong> Montag bis Samstag von 9:00 bis 13:00 Uhr und von 14:00 bis 20:00 Uhr / Sonntag von 10:00 bis 12:00 Uhr</p>",
+            "title": "Need Help?",
+            "content": "<p><strong>Contact us via the form on our Contact page or by email at </strong><a href=\"mailto:contact@sorelya.com\"><strong>contact@sorelya.com<br/></strong></a><br/><strong>Business Hours: </strong>Monday to Saturday: 9:00 AM - 1:00 PM and 2:00 PM - 8:00 PM<br/>Sunday: 10:00 AM - 12:00 PM</p>",
             "enable_follow_on_shop": false
           }
         }
