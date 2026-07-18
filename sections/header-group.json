@@ -17,21 +17,21 @@
         "message_4JWk4f": {
           "type": "message",
           "settings": {
-            "text": "30-DAY MONEY-BACK GUARANTEE",
+            "text": "100-DAY MONEY-BACK GUARANTEE",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "3,000+ HAPPY CUSTOMERS",
+            "text": "4,300+ HAPPY WOMEN",
             "url": ""
           }
         },
         "message_4MYheV": {
           "type": "message",
           "settings": {
-            "text": "BUY 3, GET YOUR LIFTCOLLAGEN FREE",
+            "text": "BUY 2, GET 2 FREE",
             "url": ""
           }
         },
@@ -56,7 +56,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#FAF3E9",
+        "background": "#faf3e9",
         "background_gradient": "",
         "text_color": "#1a1a1a"
       }
