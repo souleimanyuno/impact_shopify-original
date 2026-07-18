@@ -111,7 +111,7 @@
           "type": "text",
           "settings": {
             "title": "Need Help?",
-            "content": "<p><strong>Contact us via the form on our Contact page or by email at </strong><a href=\"mailto:contact@sorelya.com\"><strong>contact@sorelya.com<br/></strong></a><br/><strong>Business Hours: </strong>Monday to Saturday: 9:00 AM - 1:00 PM and 2:00 PM - 8:00 PM<br/>Sunday: 10:00 AM - 12:00 PM</p>",
+            "content": "<p><strong>Contact us via the form on our Contact page or by email at </strong><a href=\"mailto:contact@sorelya.com\"><strong>contact@myelorya.com<br/></strong></a><br/><strong>Business Hours: </strong>Monday to Saturday: 9:00 AM - 1:00 PM and 2:00 PM - 8:00 PM<br/>Sunday: 10:00 AM - 12:00 PM</p>",
             "enable_follow_on_shop": false
           }
         }
