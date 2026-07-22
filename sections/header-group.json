@@ -69,7 +69,7 @@
         "logo": "shopify://shop_images/Capture_d_ecran_le_2026-03-11_a_09.03.13.png",
         "logo_max_width": 135,
         "logo_mobile_max_width": 120,
-        "menu": "",
+        "menu": "meenu",
         "sidebar_menu": "",
         "secondary_menu": "",
         "menu_open_trigger": "click",
