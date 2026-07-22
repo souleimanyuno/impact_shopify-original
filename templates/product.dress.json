@@ -117,7 +117,7 @@
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
+        "stack_mobile": false,
         "title": "People have been talking about us!",
         "content": "",
         "text_alignment": "center",
@@ -131,12 +131,43 @@
         "logo_item_border": ""
       }
     },
+    "image_with_text_overlay_Ch4xHt": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/be533542-5bb3-457b-9ea5-b08bac2ba5da.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "custom_liquid_kiQbqt": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div class=\"trustpilot-clean\">\n  <h2>They stopped thinking<br>about what to wear.</h2>\n  <div class=\"trustpilot-line\">\n    <span class=\"rating-text\">Excellent</span>\n    <strong class=\"rating-score\">4.8 / 5</strong>\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/stars-4.5-trust-pilot.svg?v=1747080316\" alt=\"4.8 stars\" class=\"stars-img\">\n  </div>\n  <div class=\"trustpilot-bottom\">\n    <span>Based on <strong>+4 300</strong> reviews</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/trustpilot-svg_klyne.webp?v=1743809609\" alt=\"Trustpilot\" class=\"tp-logo\" loading=\"lazy\">\n  </div>\n</div>\n\n<div class=\"video-proof-section\">\n  <p class=\"video-proof-subtitle\"></p>\n  <div class=\"video-proof-wrapper\">\n    <video autoplay muted loop playsinline preload=\"auto\" class=\"video-proof-player\">\n      <source src=\"https://cdn.shopify.com/videos/c/o/v/6e839f9c6c8b4916a098ae131f4096f3.mp4\" type=\"video/mp4\">\n    </video>\n  </div>\n  <div class=\"video-proof-badge\">\n    <span>✦ 4,300+ women never went back to real clothes</span>\n  </div>\n</div>\n\n<style>\n.trustpilot-clean {\n  text-align: center;\n  color: #000;\n  margin-bottom: 0 !important;\n  padding-bottom: 0 !important;\n}\n.trustpilot-clean h2 {\n  font-size: 25px;\n  font-weight: 700;\n  margin-top: 1.5rem;\n  margin-bottom: 0.8rem;\n  line-height: 1.5;\n}\n.trustpilot-line {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 1rem;\n  margin-bottom: 0.5rem;\n}\n.rating-text,\n.rating-score {\n  font-size: 1rem;\n  line-height: 1;\n  display: inline-block;\n  vertical-align: middle;\n  margin-top: 1px;\n}\n.rating-score {\n  font-weight: bold;\n}\n.stars-img {\n  width: 120px;\n  margin-right: 10px;\n  vertical-align: middle;\n}\n.trustpilot-bottom {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 0.95rem;\n}\n.tp-logo {\n  height: 24px;\n  margin-top: -2px;\n}\n.video-proof-section {\n  text-align: center;\n  padding: 3rem 1rem;\n  background-color: #fdf8f4;\n}\n.video-proof-subtitle {\n  font-size: 0.95rem;\n  color: #888;\n  text-transform: uppercase;\n  letter-spacing: 0.08em;\n}\n.video-proof-wrapper {\n  max-width: 480px;\n  margin: 0 auto;\n  border-radius: 16px;\n  overflow: hidden;\nrgba(0,0,0,0.10);\n  background: #000;\n  aspect-ratio: 9/16;\n  position: relative;\n}\n.video-proof-player {\n  width: 100%;\n  height: 100%;\n  object-fit: cover;\n  display: block;\n}\n.video-proof-badge {\n  margin-top: 1.4rem;\n  margin-bottom: -10.4rem;\n  display: inline-block;\n  background-color: #C4614A;\n  color: #fff;\n  font-size: 0.85rem;\n  font-weight: 600;\n  padding: 0.25rem 1.2rem;\n  border-radius: 999px;\n  letter-spacing: 0.04em;\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
+        "liquid_chQcV8": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; background-color: #FAFAFA; padding: 8px 8px; border-radius: 8px; width: fit-content; margin: 10px 0; text-align: left;\">\n  <!-- Stars -->\n  <img src=\"https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg\" alt=\"5 stars\" style=\"width: 105px; margin-right: 8px;\">\n  <!-- Text -->\n  <div style=\"color: #4A4A4A; font-size: 11.1px; text-align: left;\">\n    <span style=\"font-weight: 400;\">Rated</span> <span style=\"color: #000000; font-weight: 700;\">4.8</span> <span style=\"font-weight: 400;\">based on</span> <span style=\"color: #000000; font-weight: 700;\">4,300+ reviews</span>\n  </div>\n</div>"
+          }
         },
         "title": {
           "type": "title",
@@ -144,40 +175,15 @@
             "heading_tag": "h2"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price": {
-          "type": "price",
+        "liquid_tWPHgD": {
+          "type": "liquid",
           "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
+            "liquid": "<p style=\"font-size: 16px; color: #1a1a1a; margin-bottom: 16px;\">\n  The front is simple. The back is what he can't stop looking at.\n</p>\n<ul style=\"list-style: none; padding: 0; font-size: 16px;\">\n  <li style=\"margin-bottom: 12px;\">\n    <span style=\"color: #C4614A;\">✔</span> That open back… so comfortable you forget it's on, but he won't\n  </li>\n  <li style=\"margin-bottom: 12px;\">\n    <span style=\"color: #C4614A;\">✔</span> Adjustable back, closed for out, open at home\n  </li>\n  <li style=\"margin-bottom: 12px;\">\n    <span style=\"color: #C4614A;\">✔</span> Not see-through, wear it out just like you do at home\n  </li>\n  <li style=\"margin-bottom: 12px;\">\n    <span style=\"color: #C4614A;\">✔</span> Effortlessly flattering on every size, curves included\n  </li>\n  <li style=\"margin-bottom: 12px;\">\n    <span style=\"color: #C4614A;\">✔</span> Nothing touches your stomach\n  </li>\n  <li style=\"margin-bottom: 12px;\">\n    <span style=\"color: #C4614A;\">✔</span> From the kitchen to the coast, one dress\n  </li>\n</ul>\n\n<!-- SIZE FINDER TRIGGER -->\n<div class=\"cc-trigger-wrap\">\n  <div class=\"cc-trigger\" id=\"ccTrigger\">\n    <div class=\"cc-icon\">📏</div>\n    <div class=\"cc-trigger-text\">\n      <em>Find my size</em>\n      <span>2 QUESTIONS · 30 SECONDS</span>\n    </div>\n    <span class=\"cc-arrow\">→</span>\n  </div>\n</div>\n\n<!-- MODAL OVERLAY -->\n<div class=\"cc-overlay\" id=\"ccOverlay\">\n  <div class=\"cc-modal\" id=\"ccModal\">\n\n    <div class=\"cc-header\">\n      <button class=\"cc-back\" id=\"ccBack\" style=\"visibility:hidden\">‹</button>\n      <div class=\"cc-progress-bar\">\n        <div class=\"cc-progress-fill\" id=\"ccProgressFill\"></div>\n      </div>\n      <button class=\"cc-close\" id=\"ccClose\">✕</button>\n    </div>\n\n    <div class=\"cc-body\" id=\"ccBody\"></div>\n  </div>\n</div>\n<style>\n.cc-trigger-wrap { margin: 16px 0; }\n.cc-trigger {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n  background: #fff;\n  border: 1px solid #e8ddd6;\n  border-radius: 12px;\n  padding: 14px 16px;\n  cursor: pointer;\n  transition: box-shadow 0.2s;\n}\n.cc-trigger:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.08); }\n.cc-icon { font-size: 24px; }\n.cc-trigger-text {\n  display: flex;\n  flex-direction: column;\n  gap: 2px;\n}\n.cc-trigger-text em {\n  font-family: Georgia, serif;\n  font-size: 16px;\n  font-style: italic;\n  color: #1a1a1a;\n}\n.cc-trigger-text span {\n  font-size: 10px;\n  color: #aaa;\n  text-transform: uppercase;\n  letter-spacing: 0.8px;\n}\n.cc-arrow { margin-left: auto; font-size: 20px; color: #C4614A; }\n\n.cc-overlay {\n  display: none;\n  position: fixed;\n  inset: 0;\n  background: rgba(0,0,0,0.5);\n  z-index: 99999;\n  align-items: flex-end;\n  justify-content: center;\n}\n.cc-overlay.open { display: flex; }\n@media (min-width: 600px) { .cc-overlay { align-items: center; } }\n\n.cc-modal {\n  background: #fff;\n  width: 100%;\n  max-width: 520px;\n  max-height: 92vh;\n  border-radius: 20px 20px 0 0;\n  overflow: hidden;\n  display: flex;\n  flex-direction: column;\n}\n@media (min-width: 600px) {\n  .cc-modal { border-radius: 20px; max-height: 85vh; }\n}\n\n.cc-header {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n  padding: 16px 16px 12px;\n  flex-shrink: 0;\n}\n.cc-back, .cc-close {\n  background: none;\n  border: none;\n  font-size: 18px;\n  cursor: pointer;\n  color: #666;\n  padding: 4px 8px;\n  border-radius: 6px;\n  flex-shrink: 0;\n}\n.cc-back:hover, .cc-close:hover { background: #f5f5f5; }\n.cc-progress-bar {\n  flex: 1;\n  height: 4px;\n  background: #efe8e2;\n  border-radius: 4px;\n  overflow: hidden;\n}\n.cc-progress-fill {\n  height: 100%;\n  background: #C4614A;\n  border-radius: 4px;\n  transition: width 0.4s ease;\n  width: 0%;\n}\n\n.cc-body {\n  overflow-y: auto;\n  padding: 0 20px 28px;\n  flex: 1;\n}\n\n.cc-step-label {\n  font-size: 11px;\n  font-weight: 700;\n  color: #C4614A;\n  text-transform: uppercase;\n  letter-spacing: 1px;\n  margin-bottom: 8px;\n  margin-top: 4px;\n}\n.cc-step-title {\n  font-family: Georgia, serif;\n  font-size: 24px;\n  font-style: italic;\n  color: #1a1a1a;\n  margin-bottom: 6px;\n  line-height: 1.3;\n}\n.cc-step-sub {\n  font-size: 13px;\n  color: #888;\n  margin-bottom: 20px;\n  line-height: 1.5;\n}\n\n.cc-ref-img {\n  width: 100%;\n  border-radius: 12px;\n  margin-bottom: 16px;\n  object-fit: cover;\n}\n\n.cc-options {\n  display: flex;\n  flex-direction: column;\n  gap: 10px;\n}\n.cc-option {\n  border: 2px solid #efe8e2;\n  border-radius: 12px;\n  padding: 14px 16px;\n  cursor: pointer;\n  transition: border-color 0.2s, background 0.2s;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n}\n.cc-option:hover { border-color: #C4614A; }\n.cc-option.selected { border-color: #C4614A; background: #fdf6f3; }\n.cc-option strong {\n  font-size: 15px;\n  color: #1a1a1a;\n}\n.cc-option span {\n  font-size: 12px;\n  color: #aaa;\n}\n.cc-option-check {\n  width: 20px;\n  height: 20px;\n  border-radius: 50%;\n  border: 2px solid #efe8e2;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-size: 11px;\n  color: transparent;\n  flex-shrink: 0;\n}\n.cc-option.selected .cc-option-check {\n  background: #C4614A;\n  border-color: #C4614A;\n  color: #fff;\n}\n\n/* RESULT */\n.cc-result-header {\n  text-align: center;\n  padding: 8px 0 16px;\n}\n.cc-result-badge {\n  display: inline-block;\n  background: #C4614A;\n  color: #fff;\n  font-size: 11px;\n  font-weight: 700;\n  text-transform: uppercase;\n  letter-spacing: 0.8px;\n  padding: 4px 12px;\n  border-radius: 999px;\n  margin-bottom: 12px;\n}\n.cc-result-size {\n  font-family: Georgia, serif;\n  font-size: 52px;\n  font-style: italic;\n  color: #1a1a1a;\n  line-height: 1;\n  margin-bottom: 4px;\n}\n.cc-result-name {\n  font-size: 13px;\n  color: #888;\n  margin-bottom: 0;\n}\n.cc-size-card {\n  background: #fdf6f3;\n  border: 2px solid #C4614A;\n  border-radius: 14px;\n  padding: 16px;\n  margin-bottom: 14px;\n}\n.cc-size-row {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  font-size: 13px;\n  color: #555;\n  padding: 6px 0;\n  border-bottom: 1px solid #efe8e2;\n}\n.cc-size-row:last-child { border-bottom: none; }\n.cc-size-row strong { color: #1a1a1a; }\n.cc-why-box {\n  background: #f9f5f3;\n  border-radius: 12px;\n  padding: 14px 16px;\n  margin-bottom: 16px;\n  font-size: 13px;\n  color: #5a4030;\n  line-height: 1.6;\n}\n.cc-why-box strong {\n  display: block;\n  font-size: 10px;\n  text-transform: uppercase;\n  letter-spacing: 0.8px;\n  color: #C4614A;\n  margin-bottom: 6px;\n}\n.cc-cta-btn {\n  width: 100%;\n  background: #C4614A;\n  color: #fff;\n  border: none;\n  border-radius: 12px;\n  padding: 16px;\n  font-size: 16px;\n  font-weight: 700;\n  cursor: pointer;\n  margin-bottom: 8px;\n  transition: opacity 0.2s;\n}\n.cc-cta-btn:hover { opacity: 0.88; }\n.cc-cta-sub {\n  text-align: center;\n  font-size: 12px;\n  color: #aaa;\n  margin-bottom: 16px;\n}\n.cc-trust-row {\n  display: grid;\n  grid-template-columns: repeat(3, 1fr);\n  gap: 8px;\n  border-top: 1px solid #f0e8e0;\n  padding-top: 16px;\n}\n.cc-trust-item { text-align: center; }\n.cc-trust-item em {\n  display: block;\n  font-family: Georgia, serif;\n  font-size: 15px;\n  font-style: italic;\n  color: #C4614A;\n  margin-bottom: 2px;\n}\n.cc-trust-item span { font-size: 10px; color: #aaa; line-height: 1.3; }\n.cc-restart {\n  display: block;\n  text-align: center;\n  font-size: 13px;\n  color: #aaa;\n  cursor: pointer;\n  margin-top: 16px;\n  text-decoration: underline;\n}\n</style>\n\n<script>\n(function() {\n\n  /* ── SIZE MAP ── */\n  /* [usSize][height] => { size, length } */\n  const SIZE_MAP = {\n    'XS':   { size: 'XS',   us: '0–2',   uk: '4–6',   eu: '32–34', hip: '33–35\"' },\n    'S':    { size: 'S',     us: '4–6',   uk: '8–10',  eu: '36–38', hip: '35–37\"' },\n    'M':    { size: 'M',     us: '8–10',  uk: '12–14', eu: '40–42', hip: '37–40\"' },\n    'L':    { size: 'L',     us: '12–14', uk: '16–18', eu: '44–46', hip: '40–43\"' },\n    'XL':   { size: 'XL',    us: '16–18', uk: '20–22', eu: '48–50', hip: '43–46\"' },\n    'XXL':  { size: 'XXL',   us: '20–22', uk: '24–26', eu: '52–54', hip: '46–49\"' },\n    'XXXL': { size: 'XXXL',  us: '24+',   uk: '28+',   eu: '56+',   hip: '49+\"'   }\n  };\n\n  const LENGTH_REC = {\n    'under54':  { label: 'Short', note: 'Hits mid-calf on you — no hemming needed.' },\n    '54to67':   { label: 'Your call', note: 'Short hits below the knee, Long hits the ankle. Both work.' },\n    'over67':   { label: 'Long', note: 'Falls right at the ankle — the way it was designed.' }\n  };\n\n  const COLOR_REC = {\n    'XS':   'Sand or Black',\n    'S':    'Sand or Black',\n    'M':    'Black or Khaki',\n    'L':    'Black or Khaki',\n    'XL':   'Black or Khaki',\n    'XXL':  'Black or Sand',\n    'XXXL': 'Black or Sand'\n  };\n\n  let chosenSize   = null;\n  let chosenHeight = null;\n  let step = 1;\n\n  const trigger    = document.getElementById('ccTrigger');\n  const overlay    = document.getElementById('ccOverlay');\n  const body       = document.getElementById('ccBody');\n  const fill       = document.getElementById('ccProgressFill');\n  const backBtn    = document.getElementById('ccBack');\n  const closeBtn   = document.getElementById('ccClose');\n\n  trigger.addEventListener('click', () => { step=1; chosenSize=null; chosenHeight=null; open(); });\n  closeBtn.addEventListener('click', close);\n  overlay.addEventListener('click', e => { if(e.target===overlay) close(); });\n  backBtn.addEventListener('click', () => { step = Math.max(1, step-1); render(); });\n\n  function open()  { overlay.classList.add('open'); render(); }\n  function close() { overlay.classList.remove('open'); }\n\n  function setProgress(s, total) {\n    fill.style.width = (s / total * 100) + '%';\n    backBtn.style.visibility = s > 1 ? 'visible' : 'hidden';\n  }\n\n  function render() {\n    if (step === 1) renderQ1();\n    else if (step === 2) renderQ2();\n    else renderResult();\n    body.scrollTop = 0;\n  }\n\n  /* ── Q1: USUAL SIZE ── */\n  function renderQ1() {\n    setProgress(1, 2);\n    const sizes = [\n      { val: 'XS',   label: 'XS',   sub: 'US 0–2 · UK 4–6'     },\n      { val: 'S',    label: 'S',    sub: 'US 4–6 · UK 8–10'     },\n      { val: 'M',    label: 'M',    sub: 'US 8–10 · UK 12–14'   },\n      { val: 'L',    label: 'L',    sub: 'US 12–14 · UK 16–18'  },\n      { val: 'XL',   label: 'XL',   sub: 'US 16–18 · UK 20–22'  },\n      { val: 'XXL',  label: 'XXL',  sub: 'US 20–22 · UK 24–26'  },\n      { val: 'XXXL', label: 'XXXL', sub: 'US 24+ · UK 28+'       }\n    ];\n    body.innerHTML = `\n      <p class=\"cc-step-label\">QUESTION 1 OF 2</p>\n      <h2 class=\"cc-step-title\">What's your usual size?</h2>\n      <p class=\"cc-step-sub\">Pick the size you normally wear. This dress runs loose on purpose — no need to size up.</p>\n      <img\n        class=\"cc-ref-img\"\n        src=\"https://cdn.shopify.com/s/files/1/0795/2754/3033/files/hf_20260718_011218_869e9d19-86d3-4cf9-9cf9-2ff3f77551bb_430x.png?v=1784337305\"\n        alt=\"How to find your size\"\n        loading=\"lazy\"\n      >\n      <div class=\"cc-options\">\n        ${sizes.map(s => `\n          <div class=\"cc-option${chosenSize===s.val?' selected':''}\" data-val=\"${s.val}\">\n            <div>\n              <strong>${s.label}</strong>\n              <span style=\"margin-left:8px;\">${s.sub}</span>\n            </div>\n            <div class=\"cc-option-check\">✓</div>\n          </div>\n        `).join('')}\n      </div>`;\n    body.querySelectorAll('.cc-option').forEach(el => {\n      el.addEventListener('click', () => {\n        chosenSize = el.dataset.val;\n        step = 2; render();\n      });\n    });\n  }\n\n  /* ── Q2: HEIGHT ── */\n  function renderQ2() {\n    setProgress(2, 2);\n    const heights = [\n      { val: 'under54',  label: 'Under 5\\'4\"',       sub: 'Under 163 cm'   },\n      { val: '54to67',   label: '5\\'4\" – 5\\'7\"',     sub: '163 – 170 cm'   },\n      { val: 'over67',   label: '5\\'8\" and above',    sub: '173 cm +'       }\n    ];\n    body.innerHTML = `\n      <p class=\"cc-step-label\">QUESTION 2 OF 2</p>\n      <h2 class=\"cc-step-title\">How tall are you?</h2>\n      <p class=\"cc-step-sub\">This tells us which length will hit right at your ankle — not the floor.</p>\n      <img\n        class=\"cc-ref-img\"\n        src=\"https://cdn.shopify.com/s/files/1/0795/2754/3033/files/hf_20260718_011231_05438cc2-9daa-4c41-b878-56627f71916c_430x.png?v=1784337307\"\n        alt=\"Short vs Long version\"\n        loading=\"lazy\"\n      >\n      <div class=\"cc-options\">\n        ${heights.map(h => `\n          <div class=\"cc-option${chosenHeight===h.val?' selected':''}\" data-val=\"${h.val}\">\n            <div>\n              <strong>${h.label}</strong>\n              <span style=\"margin-left:8px;\">${h.sub}</span>\n            </div>\n            <div class=\"cc-option-check\">✓</div>\n          </div>\n        `).join('')}\n      </div>`;\n    body.querySelectorAll('.cc-option').forEach(el => {\n      el.addEventListener('click', () => {\n        chosenHeight = el.dataset.val;\n        step = 3; render();\n      });\n    });\n  }\n\n  /* ── RESULT ── */\n  function renderResult() {\n    fill.style.width = '100%';\n    backBtn.style.visibility = 'visible';\n\n    const details = SIZE_MAP[chosenSize];\n    const lengthRec = LENGTH_REC[chosenHeight];\n    const color = COLOR_REC[chosenSize];\n\n    body.innerHTML = `\n      <div class=\"cc-result-header\">\n        <div class=\"cc-result-badge\">YOUR PERFECT FIT</div>\n        <div class=\"cc-result-size\">${details.size}</div>\n        <p class=\"cc-result-name\">${lengthRec.label} length · The Adjustable Back Dress</p>\n      </div>\n\n      <div class=\"cc-size-card\">\n        <div class=\"cc-size-row\">\n          <span>US size</span>\n          <strong>${details.us}</strong>\n        </div>\n        <div class=\"cc-size-row\">\n          <span>UK size</span>\n          <strong>${details.uk}</strong>\n        </div>\n        <div class=\"cc-size-row\">\n          <span>EU size</span>\n          <strong>${details.eu}</strong>\n        </div>\n        <div class=\"cc-size-row\">\n          <span>Hip range</span>\n          <strong>${details.hip}</strong>\n        </div>\n        <div class=\"cc-size-row\">\n          <span>Recommended length</span>\n          <strong>${lengthRec.label}</strong>\n        </div>\n        <div class=\"cc-size-row\">\n          <span>Best colors for you</span>\n          <strong>${color}</strong>\n        </div>\n      </div>\n\n      <div class=\"cc-why-box\">\n        <strong>WHY THIS SIZE</strong>\n        ${lengthRec.note} This dress is cut loose through the waist and hips on purpose — take your usual size. If you're between two sizes, go with the smaller one. The fabric doesn't cling.\n      </div>\n\n      <button class=\"cc-cta-btn\" id=\"ccAddBtn\">Shop my size — ${details.size}</button>\n      <p class=\"cc-cta-sub\">100-day guarantee · Free returns</p>\n\n      <div class=\"cc-trust-row\">\n        <div class=\"cc-trust-item\"><em>100 days</em><span>To try it risk-free</span></div>\n        <div class=\"cc-trust-item\"><em>Free</em><span>Returns & exchanges</span></div>\n        <div class=\"cc-trust-item\"><em>4.8★</em><span>4,300+ women</span></div>\n      </div>\n\n      <span class=\"cc-restart\" id=\"ccRestart\">↺ Retake the quiz</span>`;\n\n    document.getElementById('ccAddBtn').addEventListener('click', () => {\n      close();\n      const atcBtn = document.querySelector('[name=\"add\"], .product-form__submit, #AddToCart');\n      if (atcBtn) atcBtn.scrollIntoView({ behavior: 'smooth', block: 'center' });\n    });\n    document.getElementById('ccRestart').addEventListener('click', () => {\n      chosenSize = null; chosenHeight = null; step = 1; render();\n    });\n  }\n\n  render();\n})();\n</script>"
           }
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
@@ -204,14 +210,9 @@
         }
       },
       "block_order": [
-        "vendor",
+        "liquid_chQcV8",
         "title",
-        "badges",
-        "price",
-        "rating",
-        "payment_terms",
-        "separator",
-        "description",
+        "liquid_tWPHgD",
         "variant_picker",
         "quantity_selector",
         "buy_buttons"
@@ -220,9 +221,9 @@
         "full_width": true,
         "show_fixed_add_to_cart": true,
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": false,
         "enable_video_looping": true,
         "enable_image_zoom": true,
@@ -261,6 +262,8 @@
     "rich_text_pDdTpA",
     "slideshow_VWL4MK",
     "logo_list_TikUjT",
+    "image_with_text_overlay_Ch4xHt",
+    "custom_liquid_kiQbqt",
     "main",
     "related-products"
   ]
