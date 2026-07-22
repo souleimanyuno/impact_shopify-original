@@ -279,6 +279,7 @@
         },
         "image_7k6WKf": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "alignment": "center",
             "max_width": 220
@@ -421,7 +422,7 @@
             "content": "<p>You adjust it however you want… closed for errands, open at home. One dress, two settings.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#FFFFFF",
+            "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
