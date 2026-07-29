@@ -17,28 +17,28 @@
         "message_4JWk4f": {
           "type": "message",
           "settings": {
-            "text": "100-DAY MONEY-BACK GUARANTEE",
+            "text": "GARANTÍA DE 90 DÍAS",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "4,300+ HAPPY WOMEN",
+            "text": "MÁS DE 12.000 MUJERES YA LA USAN CADA NOCHE",
             "url": ""
           }
         },
         "message_4MYheV": {
           "type": "message",
           "settings": {
-            "text": "BUY 2, GET 2 FREE",
+            "text": "COMPRA 2 Y LLÉVATE 2 GRATIS",
             "url": ""
           }
         },
         "message_H7Ab9a": {
           "type": "message",
           "settings": {
-            "text": "FREE DELIVERY ON ALL ORDERS TODAY",
+            "text": "ENVÍO GRATIS EN TODOS LOS PEDIDOS",
             "url": ""
           }
         }
@@ -58,7 +58,7 @@
         "scrolling_speed": 10,
         "background": "#faf3e9",
         "background_gradient": "",
-        "text_color": "#1a1a1a"
+        "text_color": "#4D704D"
       }
     },
     "header": {

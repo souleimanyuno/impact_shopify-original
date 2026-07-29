@@ -95,7 +95,7 @@
           "settings": {
             "image_width": 170,
             "heading_size": "h4",
-            "title": "Sign up for style secrets and exclusive offers",
+            "title": "Apúntate y recibe consejos de bienestar y ofertas exclusivas",
             "content": ""
           }
         },
@@ -110,8 +110,8 @@
         "text_Hf3zNE": {
           "type": "text",
           "settings": {
-            "title": "Need Help?",
-            "content": "<p><strong>Contact us via the form on our Contact page or by email at </strong><a href=\"mailto:contact@sorelya.com\"><strong>contact@myelorya.com<br/></strong></a><br/><strong>Business Hours: </strong>Monday to Saturday: 9:00 AM - 1:00 PM and 2:00 PM - 8:00 PM<br/>Sunday: 10:00 AM - 12:00 PM</p>",
+            "title": "¿Necesitas ayuda?",
+            "content": "<p><strong>Escríbenos desde el formulario de nuestra página de Contacto o por email a contact@myelorya.com <br/><br/>Horario de atención: </strong>De lunes a sábado: 9:00 – 13:00 y 14:00 – 20:00 <br/>Domingo: 10:00 – 12:00<br/><br/></p>",
             "enable_follow_on_shop": false
           }
         }
