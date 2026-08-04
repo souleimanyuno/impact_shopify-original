@@ -50,10 +50,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -63,6 +59,14 @@
             "atc_button_text_color": "#ffffff",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "image_hARBFq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Frame_1000003454-1_png.avif",
+            "alignment": "center",
+            "max_width": 400
           }
         },
         "liquid_7KRqGA": {
@@ -90,8 +94,8 @@
         "liquid_tWPHgD",
         "liquid_YY4MrW",
         "variant_picker",
-        "quantity_selector",
         "buy_buttons",
+        "image_hARBFq",
         "liquid_7KRqGA",
         "liquid_bcVzqT",
         "liquid_fpkEtd"
