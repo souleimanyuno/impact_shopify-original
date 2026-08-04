@@ -196,6 +196,39 @@
         "text_color": ""
       }
     },
+    "video_iQp7wc": {
+      "type": "video",
+      "blocks": {
+        "play_HRyygk": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_KpCp6m": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_HRyygk",
+        "heading_KpCp6m"
+      ],
+      "disabled": true,
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Culotte Post-Partum Compression 360.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "custom_liquid_TNiQNU": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -203,7 +236,7 @@
         "full_width": true,
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": true,
-        "liquid": "{%- comment -%}\n  ELORYA — Bloc « La fórmula » : titre + grille 2×2 d'icônes + CTA\n  Mise en page reprise de la grille Vitalogen : une icône centrée, un titre court, rien d'autre.\n  CSS MOBILE FIRST.\n  À coller dans une section « Liquid personnalisé ».\n{%- endcomment -%}\n\n{%- liquid\n  # ---------- RÉGLAGES ----------\n\n  assign titulo_1 = \"Una fórmula de aceite de ricino para tu intestino\"\n  assign titulo_2 = \"Recupera el ritmo natural de tu cuerpo\"\n\n  assign ben_1_icono  = \"https://cdn.shopify.com/s/files/1/0795/2754/3033/files/0a71a054-34d7-419c-9fda-acf12d205b77_430x.svg?v=1785283542\"\n  assign ben_1_titulo = \"Rompe la barrera del biofilm\"\n\n  assign ben_2_icono  = \"https://cdn.shopify.com/s/files/1/0795/2754/3033/files/blood_13858030_1_1_430x.png?v=1785283542\"\n  assign ben_2_titulo = \"Llega donde las cápsulas no llegan\"\n\n  assign ben_3_icono  = \"https://cdn.shopify.com/s/files/1/0795/2754/3033/files/290d6a4c-fc0f-4ef3-b5ed-fbde3c2480ff_430x.svg?v=1785283542\"\n  assign ben_3_titulo = \"Actúa 8 horas cada noche\"\n\n  assign ben_4_icono  = \"https://cdn.shopify.com/s/files/1/0795/2754/3033/files/ds_430x.webp?v=1785283542\"\n  assign ben_4_titulo = \"Desinflama y desbloquea\"\n\n  assign cta_texto   = \"Pruébala sin riesgo\"\n  assign cta_linea_1 = \"Envío gratis incluido\"\n  assign cta_linea_2 = \"Garantía de 90 días\"\n\n  # ---------- FIN DES RÉGLAGES ----------\n-%}\n\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<link href=\"https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap\" rel=\"stylesheet\">\n\n<section class=\"elorya-formula\">\n\n  <header class=\"elorya-formula__head\">\n    <h2 class=\"elorya-formula__t1\">{{ titulo_1 }}</h2>\n    <h2 class=\"elorya-formula__t2\">{{ titulo_2 }}</h2>\n  </header>\n\n  <ul class=\"elorya-formula__grid\">\n\n    <li class=\"elorya-formula__tile\">\n      <img class=\"elorya-formula__ico\" src=\"{{ ben_1_icono }}\" alt=\"\" loading=\"lazy\">\n      <p class=\"elorya-formula__label\">{{ ben_1_titulo }}</p>\n    </li>\n\n    <li class=\"elorya-formula__tile\">\n      <img class=\"elorya-formula__ico\" src=\"{{ ben_2_icono }}\" alt=\"\" loading=\"lazy\">\n      <p class=\"elorya-formula__label\">{{ ben_2_titulo }}</p>\n    </li>\n\n    <li class=\"elorya-formula__tile\">\n      <img class=\"elorya-formula__ico\" src=\"{{ ben_3_icono }}\" alt=\"\" loading=\"lazy\">\n      <p class=\"elorya-formula__label\">{{ ben_3_titulo }}</p>\n    </li>\n\n    <li class=\"elorya-formula__tile\">\n      <img class=\"elorya-formula__ico\" src=\"{{ ben_4_icono }}\" alt=\"\" loading=\"lazy\">\n      <p class=\"elorya-formula__label\">{{ ben_4_titulo }}</p>\n    </li>\n\n  </ul>\n\n  <div class=\"elorya-formula__cta\">\n    <button type=\"button\" class=\"elorya-formula__btn\" data-elorya-scroll>{{ cta_texto }}</button>\n    <ul class=\"elorya-formula__reassure\">\n      <li>{{ cta_linea_1 }}</li>\n      <li>{{ cta_linea_2 }}</li>\n    </ul>\n  </div>\n\n</section>\n\n<style>\n  /* ══════════════════════════════\n     MOBILE FIRST — base = mobile\n     ══════════════════════════════ */\n\n  .elorya-formula {\n    --e-green: #2C4A35;\n    --e-title: #14140F;\n    --e-body: #4A4A44;\n    --e-line: #E6E4DE;\n    --e-bg: #F1F6F1;\n    --e-font: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\n\n    box-sizing: border-box;\n    width: 100%;\n    max-width: 720px;\n    margin: 20px auto;\n    padding: 26px 16px 22px;\n    background: var(--e-bg);\n    border-radius: 12px;\n    font-family: var(--e-font);\n  }\n  .elorya-formula *,\n  .elorya-formula *::before,\n  .elorya-formula *::after { box-sizing: border-box; }\n\n  /* ── Titres ── */\n  .elorya-formula__head { text-align: center; margin-bottom: 20px; }\n\n  .elorya-formula__t1,\n  .elorya-formula__t2 {\n    font-family: var(--e-font);\n    color: var(--e-title);\n    margin: 0;\n    letter-spacing: -0.3px;\n  }\n  .elorya-formula__t1 {\n    font-size: 17px;\n    font-weight: 600;\n    line-height: 1.3;\n  }\n  .elorya-formula__t2 {\n    font-size: 19px;\n    font-weight: 800;\n    line-height: 1.28;\n    margin-top: 5px;\n  }\n\n  /* ── Grille de tuiles ── */\n  .elorya-formula__grid {\n    display: grid;\n    grid-template-columns: repeat(2, 1fr);\n    gap: 12px;\n    list-style: none;\n    margin: 0;\n    padding: 0;\n  }\n\n  .elorya-formula__tile {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    text-align: center;\n    list-style: none;\n    background: #FFFFFF;\n    border-radius: 12px;\n    padding: 24px 12px;\n    min-height: 168px;\n    box-shadow: 0 1px 4px rgba(20, 20, 15, 0.05);\n  }\n\n  .elorya-formula__ico {\n    width: 46px;\n    height: 46px;\n    object-fit: contain;\n    display: block;\n    margin: 0 auto 16px;\n  }\n\n  .elorya-formula__label {\n    font-family: var(--e-font);\n    font-size: 13px;\n    font-weight: 700;\n    line-height: 1.32;\n    color: var(--e-title);\n    margin: 0;\n  }\n\n  /* ── CTA ── */\n  .elorya-formula__cta { margin-top: 20px; text-align: center; }\n\n  .elorya-formula__btn {\n    display: block;\n    width: 100%;\n    padding: 14px 20px;\n    background: var(--e-green);\n    color: #FFFFFF;\n    font-family: var(--e-font);\n    font-size: 13.5px;\n    font-weight: 700;\n    letter-spacing: 0.2px;\n    text-align: center;\n    border: none;\n    border-radius: 100px;\n    cursor: pointer;\n    -webkit-appearance: none;\n    appearance: none;\n    transition: opacity 0.2s ease, transform 0.15s ease;\n  }\n  .elorya-formula__btn:hover { opacity: 0.9; }\n  .elorya-formula__btn:active { transform: scale(0.99); }\n\n  .elorya-formula__reassure {\n    display: flex;\n    flex-wrap: wrap;\n    justify-content: center;\n    gap: 6px 18px;\n    list-style: none;\n    margin: 12px 0 0;\n    padding: 0;\n  }\n  .elorya-formula__reassure li {\n    position: relative;\n    padding-left: 16px;\n    font-size: 11px;\n    font-weight: 500;\n    color: var(--e-body);\n    line-height: 1.3;\n    list-style: none;\n  }\n  .elorya-formula__reassure li::before {\n    content: \"\";\n    position: absolute;\n    left: 0;\n    top: 50%;\n    width: 10px;\n    height: 5.5px;\n    margin-top: -3.5px;\n    border-left: 1.8px solid var(--e-green);\n    border-bottom: 1.8px solid var(--e-green);\n    transform: rotate(-45deg);\n  }\n\n  /* ══════════════════════════════\n     DESKTOP — à partir de 750px\n     ══════════════════════════════ */\n\n  @media (min-width: 750px) {\n    .elorya-formula {\n      margin: 26px auto;\n      padding: 34px 30px 28px;\n      border-radius: 14px;\n    }\n\n    .elorya-formula__head { margin-bottom: 26px; }\n    .elorya-formula__t1 { font-size: 20px; }\n    .elorya-formula__t2 { font-size: 23px; margin-top: 6px; }\n\n    .elorya-formula__grid { gap: 16px; }\n\n    .elorya-formula__tile {\n      padding: 32px 20px;\n      min-height: 210px;\n      border-radius: 14px;\n    }\n    .elorya-formula__ico { width: 58px; height: 58px; margin-bottom: 20px; }\n    .elorya-formula__label { font-size: 15px; }\n\n    .elorya-formula__cta { margin-top: 26px; }\n    .elorya-formula__btn { font-size: 14.5px; padding: 15px 22px; }\n    .elorya-formula__reassure { gap: 6px 20px; margin-top: 13px; }\n    .elorya-formula__reassure li { font-size: 11.5px; padding-left: 17px; }\n    .elorya-formula__reassure li::before { width: 11px; height: 6px; margin-top: -4px; }\n  }\n</style>\n\n<script>\n(function(){\n  var SELECTORS = [\n    'form[action*=\"/cart/add\"]',\n    'product-form',\n    '.product-form',\n    '[name=\"add\"]',\n    '.shopify-payment-button',\n    '.product__info-wrapper',\n    '#MainContent'\n  ];\n\n  function findTarget(){\n    for (var i = 0; i < SELECTORS.length; i++) {\n      var el = document.querySelector(SELECTORS[i]);\n      if (el) return el;\n    }\n    return null;\n  }\n\n  document.querySelectorAll('[data-elorya-scroll]').forEach(function(btn){\n    if (btn.dataset.eloryaBound) return;\n    btn.dataset.eloryaBound = '1';\n    btn.addEventListener('click', function(){\n      var target = findTarget();\n      if (!target) { window.scrollTo({ top: 0, behavior: 'smooth' }); return; }\n      var y = target.getBoundingClientRect().top + window.pageYOffset - 90;\n      window.scrollTo({ top: y, behavior: 'smooth' });\n    });\n  });\n})();\n</script>",
+        "liquid": "{%- comment -%}\n  ELORYA — \"Por qué es diferente\" : image comparative + 2 colonnes + encadré bengkung\n  À placer juste après le bloc \"¿Te suena?\"\n{%- endcomment -%}\n\n<style>\n  .elo-diff{\n    --elo-text:var(--elorya-text,#14140F);\n    --elo-body:var(--elorya-body,#3A3A34);\n    --elo-line:var(--elorya-line,#E6E6E2);\n    --elo-cream:var(--elorya-notice-bg,#FCF2E3);\n    --elo-green:var(--elorya-green,#2C4A35);\n    --elo-red:#B0554A;\n    --elo-brown:#4A3524;\n    font-family:var(--elorya-font,'Montserrat',-apple-system,BlinkMacSystemFont,sans-serif);\n    color:var(--elo-body);margin:30px 0;\n  }\n  .elo-diff *{box-sizing:border-box}\n\n  /* ---------- En-tête ---------- */\n  .elo-diff__eyebrow{\n    text-align:center;font-size:10px;font-weight:800;letter-spacing:.14em;\n    text-transform:uppercase;color:var(--elo-brown);opacity:.75;margin:0 0 8px;\n  }\n  .elo-diff__h{\n    text-align:center;font-size:18px;line-height:1.22;font-weight:800;\n    letter-spacing:-.02em;color:var(--elo-text);margin:0 0 8px;padding:0 4px;\n  }\n  .elo-diff__sub{\n    text-align:center;font-size:12.5px;line-height:1.5;margin:0 0 16px;\n    color:var(--elo-body);opacity:.85;padding:0 6px;\n  }\n\n  /* ---------- Image ---------- */\n  .elo-diff__img{\n    display:block;width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;\n    border-radius:14px;background:#EDEBE7;margin:0 0 14px;\n  }\n\n  /* ---------- 2 colonnes ---------- */\n  .elo-diff__cols{display:flex;flex-direction:column;gap:10px}\n  .elo-diff__col{\n    border:1px solid var(--elo-line);border-radius:14px;\n    background:#fff;padding:14px 14px;\n  }\n  .elo-diff__col--win{border:1.5px solid var(--elo-brown)}\n\n  .elo-diff__ct{\n    display:flex;align-items:center;gap:7px;margin:0 0 10px;\n    font-size:11.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;\n  }\n  .elo-diff__ct svg{width:13px;height:13px;fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}\n  .elo-diff__col--lose .elo-diff__ct{color:var(--elo-red)}\n  .elo-diff__col--lose .elo-diff__ct svg{stroke:var(--elo-red)}\n  .elo-diff__col--win .elo-diff__ct{color:var(--elo-text)}\n  .elo-diff__col--win .elo-diff__ct svg{stroke:var(--elo-text)}\n\n  .elo-diff__ul{list-style:none;margin:0;padding:0}\n  .elo-diff__ul li{\n    display:flex;align-items:flex-start;gap:9px;\n    font-size:12.5px;line-height:1.45;padding:5px 0;\n  }\n  .elo-diff__ul svg{width:13px;height:13px;flex-shrink:0;margin-top:3px;fill:none;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round}\n  .elo-diff__col--lose .elo-diff__ul svg{stroke:#B5B5AE}\n  .elo-diff__col--lose .elo-diff__ul li{color:#7A7A73}\n  .elo-diff__col--win .elo-diff__ul svg{stroke:var(--elo-green)}\n  .elo-diff__col--win .elo-diff__ul li{color:var(--elo-text);font-weight:600}\n\n  /* ---------- Encadré bengkung ---------- */\n  .elo-diff__note{\n    margin-top:14px;background:var(--elo-cream);border-radius:14px;\n    padding:14px 14px;display:flex;gap:11px;align-items:flex-start;\n  }\n  .elo-diff__note svg{\n    width:22px;height:22px;flex-shrink:0;margin-top:1px;\n    stroke:var(--elo-green);fill:none;stroke-width:1.6;\n    stroke-linecap:round;stroke-linejoin:round;opacity:.85;\n  }\n  .elo-diff__note p{font-size:12.5px;line-height:1.6;margin:0}\n  .elo-diff__note b{font-weight:700;color:var(--elo-text)}\n\n  /* ---------- Desktop ---------- */\n  @media (min-width:750px){\n    .elo-diff__eyebrow{font-size:11px;margin-bottom:10px}\n    .elo-diff__h{font-size:27px;margin-bottom:10px}\n    .elo-diff__sub{font-size:14px;margin-bottom:20px}\n    .elo-diff__img{border-radius:16px;margin-bottom:18px}\n    .elo-diff__cols{flex-direction:row;gap:14px}\n    .elo-diff__col{flex:1;padding:18px 18px}\n    .elo-diff__ct{font-size:12.5px;margin-bottom:12px}\n    .elo-diff__ul li{font-size:14px;padding:6px 0}\n    .elo-diff__note{padding:16px 18px;margin-top:18px}\n    .elo-diff__note p{font-size:13.5px}\n  }\n</style>\n\n<div class=\"elo-diff\">\n\n  <p class=\"elo-diff__eyebrow\">Por qué es diferente</p>\n  <h2 class=\"elo-diff__h\">Las demás comprimen por delante. Elorya envuelve todo el contorno.</h2>\n  <p class=\"elo-diff__sub\">Como hace el bengkung malayo desde hace 500 años.</p>\n\n  <img\n    class=\"elo-diff__img\"\n    src=\"https://cdn.shopify.com/s/files/1/0795/2754/3033/files/hf_20260625_151841_f778b39f-6da7-4b0a-9dce-5c0ba5cfba9c.jpg?v=1785809016\"\n    alt=\"Comparación: faja clásica de velcro que solo comprime por delante frente a la braguita Elorya con compresión circular 360°\"\n    width=\"1024\" height=\"1024\" loading=\"lazy\" decoding=\"async\">\n\n  <div class=\"elo-diff__cols\">\n\n    <div class=\"elo-diff__col elo-diff__col--lose\">\n      <p class=\"elo-diff__ct\">\n        <svg viewBox=\"0 0 24 24\"><path d=\"M6 6l12 12M18 6L6 18\"/></svg>\n        Faja clásica\n      </p>\n      <ul class=\"elo-diff__ul\">\n        <li><svg viewBox=\"0 0 24 24\"><path d=\"M6 6l12 12M18 6L6 18\"/></svg><span>Solo comprime la parte de delante</span></li>\n        <li><svg viewBox=\"0 0 24 24\"><path d=\"M6 6l12 12M18 6L6 18\"/></svg><span>Se sube y se enrolla al cabo de una hora</span></li>\n        <li><svg viewBox=\"0 0 24 24\"><path d=\"M6 6l12 12M18 6L6 18\"/></svg><span>Se marca debajo de la ropa</span></li>\n        <li><svg viewBox=\"0 0 24 24\"><path d=\"M6 6l12 12M18 6L6 18\"/></svg><span>Ningún resultado duradero: todo vuelve atrás</span></li>\n      </ul>\n    </div>\n\n    <div class=\"elo-diff__col elo-diff__col--win\">\n      <p class=\"elo-diff__ct\">\n        <svg viewBox=\"0 0 24 24\"><path d=\"M4 12.5l5.5 5.5L20 6.5\"/></svg>\n        Elorya\n      </p>\n      <ul class=\"elo-diff__ul\">\n        <li><svg viewBox=\"0 0 24 24\"><path d=\"M4 12.5l5.5 5.5L20 6.5\"/></svg><span>360° — delante, costados y espalda</span></li>\n        <li><svg viewBox=\"0 0 24 24\"><path d=\"M4 12.5l5.5 5.5L20 6.5\"/></svg><span>Se pone en 10 segundos, como unas bragas</span></li>\n        <li><svg viewBox=\"0 0 24 24\"><path d=\"M4 12.5l5.5 5.5L20 6.5\"/></svg><span>Desaparece bajo cualquier prenda</span></li>\n        <li><svg viewBox=\"0 0 24 24\"><path d=\"M4 12.5l5.5 5.5L20 6.5\"/></svg><span>Diferencia visible a las 2-3 semanas</span></li>\n      </ul>\n    </div>\n\n  </div>\n\n  <div class=\"elo-diff__note\">\n    <svg viewBox=\"0 0 24 24\"><path d=\"M12 2.8l9 4.6-9 4.6-9-4.6 9-4.6z\"/><path d=\"M3 12.2l9 4.6 9-4.6\"/><path d=\"M3 16.6l9 4.6 9-4.6\"/></svg>\n    <p><b>Inspirada en el bengkung malayo</b> — una técnica de compresión cruzada que se usa desde hace 500 años para volver a cerrar la faja abdominal después del parto.</p>\n  </div>\n\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -437,44 +470,13 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "video_iQp7wc": {
-      "type": "video",
-      "blocks": {
-        "play_HRyygk": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_KpCp6m": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_HRyygk",
-        "heading_KpCp6m"
-      ],
-      "disabled": true,
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
     }
   },
   "order": [
     "main",
     "logo_list_TikUjT",
     "custom_liquid_wDyKqP",
+    "video_iQp7wc",
     "custom_liquid_TNiQNU",
     "custom_liquid_4F64wR",
     "custom_liquid_RHWVX8",
@@ -487,7 +489,6 @@
     "custom_liquid_kiQbqt",
     "media_with_text_eTgFNw",
     "custom_liquid_cU4bgA",
-    "custom_liquid_gUn4RN",
-    "video_iQp7wc"
+    "custom_liquid_gUn4RN"
   ]
 }
