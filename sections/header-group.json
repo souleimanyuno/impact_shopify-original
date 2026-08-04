@@ -17,14 +17,14 @@
         "message_4JWk4f": {
           "type": "message",
           "settings": {
-            "text": "GARANTÍA DE 90 DÍAS",
+            "text": "GARANTÍA DE 30 DÍAS",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "MÁS DE 12.000 MUJERES YA LA USAN CADA NOCHE",
+            "text": "MÁS DE 6.000 MUJERES YA CONFIAN EN ELORYA",
             "url": ""
           }
         },
@@ -58,7 +58,7 @@
         "scrolling_speed": 10,
         "background": "#faf3e9",
         "background_gradient": "",
-        "text_color": "#4D704D"
+        "text_color": "#4d704d"
       }
     },
     "header": {
