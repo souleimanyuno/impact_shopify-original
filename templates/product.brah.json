@@ -20,9 +20,8 @@
         },
         "title": {
           "type": "title",
-          "disabled": true,
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
         "liquid_tWPHgD": {
