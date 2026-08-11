@@ -169,6 +169,7 @@
         "logo_fXeTmi",
         "logo_aKhVdc"
       ],
+      "disabled": true,
       "name": "Logo list",
       "settings": {
         "full_width": true,
